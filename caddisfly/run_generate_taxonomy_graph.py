@@ -11,7 +11,7 @@ tic = time.perf_counter()
 # - out_path: output path without extension
 # - data_root: where ncbi_fibroin_sequences live (for filters)
 tree_path= Path(r"ncbi_fibroin_sequences\phylo_tree.json")
-index_path= Path(r"ncbi_fibroin_sequences\Species_Index.md")
+index_path= Path(r"Species_Index.md")
 out_path= Path(r"taxonomy_tree")
 data_root= Path(r"ncbi_fibroin_sequences")
 output_format: str = "png"  # "png", "svg", or "pdf"

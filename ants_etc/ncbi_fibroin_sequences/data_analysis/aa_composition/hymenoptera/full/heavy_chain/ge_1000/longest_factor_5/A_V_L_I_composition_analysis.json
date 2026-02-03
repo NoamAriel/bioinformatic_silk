@@ -17,7 +17,8 @@
         "Cynipoidea",
         "Figitidae",
         "Eucoilinae",
-        "Leptopilina"
+        "Leptopilina",
+        "Leptopilina boulardi"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -76,7 +77,8 @@
         "Cynipoidea",
         "Figitidae",
         "Eucoilinae",
-        "Leptopilina"
+        "Leptopilina",
+        "Leptopilina boulardi"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -135,7 +137,8 @@
         "Cynipoidea",
         "Figitidae",
         "Eucoilinae",
-        "Leptopilina"
+        "Leptopilina",
+        "Leptopilina boulardi"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -194,7 +197,8 @@
         "Cynipoidea",
         "Figitidae",
         "Eucoilinae",
-        "Leptopilina"
+        "Leptopilina",
+        "Leptopilina boulardi"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -253,7 +257,8 @@
         "Cynipoidea",
         "Figitidae",
         "Eucoilinae",
-        "Leptopilina"
+        "Leptopilina",
+        "Leptopilina boulardi"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -312,7 +317,8 @@
         "Cynipoidea",
         "Figitidae",
         "Eucoilinae",
-        "Leptopilina"
+        "Leptopilina",
+        "Leptopilina boulardi"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -371,7 +377,8 @@
         "Cynipoidea",
         "Figitidae",
         "Eucoilinae",
-        "Leptopilina"
+        "Leptopilina",
+        "Leptopilina boulardi"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -430,7 +437,8 @@
         "Cynipoidea",
         "Figitidae",
         "Eucoilinae",
-        "Leptopilina"
+        "Leptopilina",
+        "Leptopilina boulardi"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -489,7 +497,8 @@
         "Cynipoidea",
         "Figitidae",
         "Eucoilinae",
-        "Leptopilina"
+        "Leptopilina",
+        "Leptopilina boulardi"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -549,7 +558,8 @@
         "Cynipidae",
         "Cynipinae",
         "Cynipini",
-        "Belonocnema"
+        "Belonocnema",
+        "Belonocnema kinseyi"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -889,6 +899,64 @@
       "total_target_fraction": 17.32152739346984
     },
     {
+      "accession": "XP_008553238",
+      "title": "fibroin heavy chain [Microplitis demolitor]",
+      "organism": "Microplitis demolitor",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Ichneumonoidea",
+        "Braconidae",
+        "Microgastrinae",
+        "Microplitis",
+        "Microplitis demolitor"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Ichneumonoidea",
+        "Braconidae",
+        "Microgastrinae",
+        "Microplitis"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Ichneumonoidea",
+      "family": "Braconidae",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1006,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 141,
+        "V": 2,
+        "L": 5,
+        "I": 6
+      },
+      "letter_fractions": {
+        "A": 14.015904572564613,
+        "V": 0.19880715705765406,
+        "L": 0.4970178926441352,
+        "I": 0.5964214711729622
+      },
+      "total_target_count": 154,
+      "total_target_fraction": 15.308151093439365
+    },
+    {
       "accession": "XP_057332812",
       "title": "fibroin heavy chain-like isoform X1 [Microplitis mediator]",
       "organism": "Microplitis mediator",
@@ -1014,8 +1082,7 @@
         "Ichneumonoidea",
         "Braconidae",
         "Microgastrinae",
-        "Cotesia",
-        "Cotesia glomerata"
+        "Cotesia"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -1072,8 +1139,7 @@
         "Ichneumonoidea",
         "Braconidae",
         "Microgastrinae",
-        "Cotesia",
-        "Cotesia glomerata"
+        "Cotesia"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -1119,64 +1185,6 @@
       },
       "total_target_count": 227,
       "total_target_fraction": 21.19514472455649
-    },
-    {
-      "accession": "XP_008553238",
-      "title": "fibroin heavy chain [Microplitis demolitor]",
-      "organism": "Microplitis demolitor",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Ichneumonoidea",
-        "Braconidae",
-        "Microgastrinae",
-        "Microplitis",
-        "Microplitis demolitor"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Ichneumonoidea",
-        "Braconidae",
-        "Microgastrinae",
-        "Microplitis"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Ichneumonoidea",
-      "family": "Braconidae",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1006,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 141,
-        "V": 2,
-        "L": 5,
-        "I": 6
-      },
-      "letter_fractions": {
-        "A": 14.015904572564613,
-        "V": 0.19880715705765406,
-        "L": 0.4970178926441352,
-        "I": 0.5964214711729622
-      },
-      "total_target_count": 154,
-      "total_target_fraction": 15.308151093439365
     },
     {
       "accession": "XP_044008663",
@@ -1422,8 +1430,7 @@
         "Vespidae",
         "Polistinae",
         "Polistini",
-        "Polistes",
-        "Polistes fuscatus"
+        "Polistes"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -2640,9 +2647,9 @@
       "total_target_fraction": 24.953959484346225
     },
     {
-      "accession": "XP_043589561",
-      "title": "fibroin heavy chain-like isoform X1 [Bombus pyrosoma]",
-      "organism": "Bombus pyrosoma",
+      "accession": "XP_017761827",
+      "title": "PREDICTED: fibroin heavy chain isoform X1 [Eufriesea mexicana]",
+      "organism": "Eufriesea mexicana",
       "taxonomy_from_order": [
         "Hymenoptera",
         "Apocrita",
@@ -2650,10 +2657,9 @@
         "Apoidea",
         "Apidae",
         "Apinae",
-        "Bombini",
-        "Bombus",
-        "Melanobombus",
-        "Bombus pyrosoma"
+        "Euglossini",
+        "Eufriesea",
+        "Eufriesea mexicana"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -2672,15 +2678,14 @@
         "Apoidea",
         "Anthophila",
         "Apidae",
-        "Bombus",
-        "Melanobombus"
+        "Eufriesea"
       ],
       "suborder": "Apocrita",
       "superfamily": "Aculeata",
       "family": "Apoidea",
       "partial_full": "full",
       "type": "heavy chain",
-      "length": 1192,
+      "length": 1323,
       "letters": [
         "A",
         "V",
@@ -2688,24 +2693,24 @@
         "I"
       ],
       "letter_counts": {
-        "A": 213,
-        "V": 40,
-        "L": 36,
-        "I": 38
+        "A": 257,
+        "V": 48,
+        "L": 34,
+        "I": 56
       },
       "letter_fractions": {
-        "A": 17.869127516778523,
-        "V": 3.3557046979865772,
-        "L": 3.0201342281879198,
-        "I": 3.1879194630872485
+        "A": 19.42554799697657,
+        "V": 3.6281179138321997,
+        "L": 2.5699168556311416,
+        "I": 4.232804232804233
       },
-      "total_target_count": 327,
-      "total_target_fraction": 27.432885906040266
+      "total_target_count": 395,
+      "total_target_fraction": 29.856386999244144
     },
     {
-      "accession": "XP_043589562",
-      "title": "fibroin heavy chain-like isoform X2 [Bombus pyrosoma]",
-      "organism": "Bombus pyrosoma",
+      "accession": "XP_017761828",
+      "title": "PREDICTED: fibroin heavy chain isoform X2 [Eufriesea mexicana]",
+      "organism": "Eufriesea mexicana",
       "taxonomy_from_order": [
         "Hymenoptera",
         "Apocrita",
@@ -2713,10 +2718,9 @@
         "Apoidea",
         "Apidae",
         "Apinae",
-        "Bombini",
-        "Bombus",
-        "Melanobombus",
-        "Bombus pyrosoma"
+        "Euglossini",
+        "Eufriesea",
+        "Eufriesea mexicana"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -2735,15 +2739,14 @@
         "Apoidea",
         "Anthophila",
         "Apidae",
-        "Bombus",
-        "Melanobombus"
+        "Eufriesea"
       ],
       "suborder": "Apocrita",
       "superfamily": "Aculeata",
       "family": "Apoidea",
       "partial_full": "full",
       "type": "heavy chain",
-      "length": 1191,
+      "length": 1322,
       "letters": [
         "A",
         "V",
@@ -2751,649 +2754,19 @@
         "I"
       ],
       "letter_counts": {
-        "A": 212,
-        "V": 40,
-        "L": 36,
-        "I": 38
+        "A": 256,
+        "V": 48,
+        "L": 34,
+        "I": 56
       },
       "letter_fractions": {
-        "A": 17.80016792611251,
-        "V": 3.3585222502099077,
-        "L": 3.022670025188917,
-        "I": 3.190596137699412
+        "A": 19.36459909228442,
+        "V": 3.6308623298033282,
+        "L": 2.5718608169440245,
+        "I": 4.236006051437216
       },
-      "total_target_count": 326,
-      "total_target_fraction": 27.371956339210747
-    },
-    {
-      "accession": "XP_043589563",
-      "title": "fibroin heavy chain-like isoform X3 [Bombus pyrosoma]",
-      "organism": "Bombus pyrosoma",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Melanobombus",
-        "Bombus pyrosoma"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Melanobombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1143,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 204,
-        "V": 41,
-        "L": 37,
-        "I": 39
-      },
-      "letter_fractions": {
-        "A": 17.84776902887139,
-        "V": 3.5870516185476813,
-        "L": 3.2370953630796153,
-        "I": 3.4120734908136483
-      },
-      "total_target_count": 321,
-      "total_target_fraction": 28.083989501312335
-    },
-    {
-      "accession": "XP_043595078",
-      "title": "fibroin heavy chain-like isoform X1 [Bombus pyrosoma]",
-      "organism": "Bombus pyrosoma",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Melanobombus",
-        "Bombus pyrosoma"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Melanobombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1416,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 108,
-        "V": 47,
-        "L": 29,
-        "I": 24
-      },
-      "letter_fractions": {
-        "A": 7.627118644067797,
-        "V": 3.3192090395480225,
-        "L": 2.048022598870056,
-        "I": 1.694915254237288
-      },
-      "total_target_count": 208,
-      "total_target_fraction": 14.689265536723164
-    },
-    {
-      "accession": "XP_043595082",
-      "title": "fibroin heavy chain-like isoform X5 [Bombus pyrosoma]",
-      "organism": "Bombus pyrosoma",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Melanobombus",
-        "Bombus pyrosoma"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Melanobombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1388,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 108,
-        "V": 47,
-        "L": 28,
-        "I": 23
-      },
-      "letter_fractions": {
-        "A": 7.780979827089338,
-        "V": 3.386167146974063,
-        "L": 2.0172910662824206,
-        "I": 1.6570605187319885
-      },
-      "total_target_count": 206,
-      "total_target_fraction": 14.84149855907781
-    },
-    {
-      "accession": "XP_020721218",
-      "title": "fibroin heavy chain isoform X1 [Bombus terrestris]",
-      "organism": "Bombus terrestris",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus terrestris"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1393,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 100,
-        "V": 49,
-        "L": 27,
-        "I": 23
-      },
-      "letter_fractions": {
-        "A": 7.178750897343862,
-        "V": 3.5175879396984926,
-        "L": 1.938262742282843,
-        "I": 1.6511127063890882
-      },
-      "total_target_count": 199,
-      "total_target_fraction": 14.285714285714285
-    },
-    {
-      "accession": "XP_048264280",
-      "title": "fibroin heavy chain isoform X1 [Bombus terrestris]",
-      "organism": "Bombus terrestris",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus terrestris"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1202,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 230,
-        "V": 42,
-        "L": 43,
-        "I": 42
-      },
-      "letter_fractions": {
-        "A": 19.13477537437604,
-        "V": 3.494176372712146,
-        "L": 3.577371048252912,
-        "I": 3.494176372712146
-      },
-      "total_target_count": 357,
-      "total_target_fraction": 29.700499168053245
-    },
-    {
-      "accession": "XP_048264281",
-      "title": "fibroin heavy chain isoform X2 [Bombus terrestris]",
-      "organism": "Bombus terrestris",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus terrestris"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1201,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 229,
-        "V": 42,
-        "L": 43,
-        "I": 42
-      },
-      "letter_fractions": {
-        "A": 19.06744379683597,
-        "V": 3.4970857618651126,
-        "L": 3.5803497085761866,
-        "I": 3.4970857618651126
-      },
-      "total_target_count": 356,
-      "total_target_fraction": 29.64196502914238
-    },
-    {
-      "accession": "XP_048264282",
-      "title": "fibroin heavy chain isoform X3 [Bombus terrestris]",
-      "organism": "Bombus terrestris",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus terrestris"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1165,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 222,
-        "V": 42,
-        "L": 42,
-        "I": 40
-      },
-      "letter_fractions": {
-        "A": 19.05579399141631,
-        "V": 3.6051502145922747,
-        "L": 3.6051502145922747,
-        "I": 3.4334763948497855
-      },
-      "total_target_count": 346,
-      "total_target_fraction": 29.69957081545064
-    },
-    {
-      "accession": "XP_048264283",
-      "title": "fibroin heavy chain isoform X4 [Bombus terrestris]",
-      "organism": "Bombus terrestris",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus terrestris"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1153,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 222,
-        "V": 41,
-        "L": 43,
-        "I": 44
-      },
-      "letter_fractions": {
-        "A": 19.25411968777103,
-        "V": 3.5559410234171724,
-        "L": 3.7294015611448397,
-        "I": 3.8161318300086733
-      },
-      "total_target_count": 350,
-      "total_target_fraction": 30.355594102341716
-    },
-    {
-      "accession": "XP_048266237",
-      "title": "fibroin heavy chain isoform X2 [Bombus terrestris]",
-      "organism": "Bombus terrestris",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus terrestris"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1391,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 99,
-        "V": 49,
-        "L": 27,
-        "I": 23
-      },
-      "letter_fractions": {
-        "A": 7.117181883537024,
-        "V": 3.5226455787203452,
-        "L": 1.9410496046010064,
-        "I": 1.6534867002156721
-      },
-      "total_target_count": 198,
-      "total_target_fraction": 14.234363767074049
-    },
-    {
-      "accession": "XP_048266238",
-      "title": "fibroin heavy chain isoform X3 [Bombus terrestris]",
-      "organism": "Bombus terrestris",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus terrestris"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1361,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 100,
-        "V": 49,
-        "L": 26,
-        "I": 22
-      },
-      "letter_fractions": {
-        "A": 7.347538574577516,
-        "V": 3.6002939015429827,
-        "L": 1.9103600293901544,
-        "I": 1.6164584864070537
-      },
-      "total_target_count": 197,
-      "total_target_fraction": 14.474650991917706
+      "total_target_count": 394,
+      "total_target_fraction": 29.80332829046899
     },
     {
       "accession": "XP_060813836",
@@ -4530,387 +3903,9 @@
       "total_target_fraction": 29.396984924623116
     },
     {
-      "accession": "XP_068965756",
-      "title": "fibroin heavy chain-like isoform X2 [Bombus flavifrons]",
-      "organism": "Bombus flavifrons",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Pyrobombus",
-        "Bombus flavifrons"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Pyrobombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1384,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 111,
-        "V": 43,
-        "L": 32,
-        "I": 21
-      },
-      "letter_fractions": {
-        "A": 8.020231213872831,
-        "V": 3.106936416184971,
-        "L": 2.312138728323699,
-        "I": 1.5173410404624277
-      },
-      "total_target_count": 207,
-      "total_target_fraction": 14.95664739884393
-    },
-    {
-      "accession": "XP_033298057",
-      "title": "fibroin heavy chain-like isoform X1 [Bombus bifarius]",
-      "organism": "Bombus bifarius",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Pyrobombus",
-        "Bombus bifarius"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Pyrobombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1226,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 229,
-        "V": 37,
-        "L": 36,
-        "I": 40
-      },
-      "letter_fractions": {
-        "A": 18.67862969004894,
-        "V": 3.0179445350734095,
-        "L": 2.936378466557912,
-        "I": 3.262642740619902
-      },
-      "total_target_count": 342,
-      "total_target_fraction": 27.895595432300162
-    },
-    {
-      "accession": "XP_033298059",
-      "title": "fibroin heavy chain-like isoform X2 [Bombus bifarius]",
-      "organism": "Bombus bifarius",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Pyrobombus",
-        "Bombus bifarius"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Pyrobombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1240,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 224,
-        "V": 41,
-        "L": 41,
-        "I": 47
-      },
-      "letter_fractions": {
-        "A": 18.064516129032256,
-        "V": 3.306451612903226,
-        "L": 3.306451612903226,
-        "I": 3.790322580645161
-      },
-      "total_target_count": 353,
-      "total_target_fraction": 28.467741935483872
-    },
-    {
-      "accession": "XP_033298060",
-      "title": "fibroin heavy chain-like isoform X3 [Bombus bifarius]",
-      "organism": "Bombus bifarius",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Pyrobombus",
-        "Bombus bifarius"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Pyrobombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1132,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 205,
-        "V": 37,
-        "L": 34,
-        "I": 36
-      },
-      "letter_fractions": {
-        "A": 18.109540636042404,
-        "V": 3.2685512367491167,
-        "L": 3.0035335689045937,
-        "I": 3.180212014134275
-      },
-      "total_target_count": 312,
-      "total_target_fraction": 27.56183745583039
-    },
-    {
-      "accession": "XP_033298061",
-      "title": "fibroin heavy chain-like isoform X4 [Bombus bifarius]",
-      "organism": "Bombus bifarius",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Pyrobombus",
-        "Bombus bifarius"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Pyrobombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1117,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 194,
-        "V": 41,
-        "L": 37,
-        "I": 38
-      },
-      "letter_fractions": {
-        "A": 17.367949865711726,
-        "V": 3.670546105640107,
-        "L": 3.312444046553268,
-        "I": 3.4019695613249774
-      },
-      "total_target_count": 310,
-      "total_target_fraction": 27.752909579230078
-    },
-    {
-      "accession": "XP_033310929",
-      "title": "fibroin heavy chain-like isoform X3 [Bombus bifarius]",
-      "organism": "Bombus bifarius",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Pyrobombus",
-        "Bombus bifarius"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Pyrobombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1282,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 98,
-        "V": 43,
-        "L": 26,
-        "I": 21
-      },
-      "letter_fractions": {
-        "A": 7.644305772230889,
-        "V": 3.3541341653666144,
-        "L": 2.02808112324493,
-        "I": 1.6380655226209049
-      },
-      "total_target_count": 188,
-      "total_target_fraction": 14.664586583463338
-    },
-    {
-      "accession": "XP_050579532",
-      "title": "fibroin heavy chain-like isoform X2 [Bombus affinis]",
-      "organism": "Bombus affinis",
+      "accession": "XP_020721218",
+      "title": "fibroin heavy chain isoform X1 [Bombus terrestris]",
+      "organism": "Bombus terrestris",
       "taxonomy_from_order": [
         "Hymenoptera",
         "Apocrita",
@@ -4921,7 +3916,7 @@
         "Bombini",
         "Bombus",
         "Bombus",
-        "Bombus affinis"
+        "Bombus terrestris"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -4948,133 +3943,7 @@
       "family": "Apoidea",
       "partial_full": "full",
       "type": "heavy chain",
-      "length": 1385,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 103,
-        "V": 48,
-        "L": 26,
-        "I": 24
-      },
-      "letter_fractions": {
-        "A": 7.436823104693141,
-        "V": 3.4657039711191335,
-        "L": 1.8772563176895307,
-        "I": 1.7328519855595668
-      },
-      "total_target_count": 201,
-      "total_target_fraction": 14.512635379061372
-    },
-    {
-      "accession": "XP_050579534",
-      "title": "fibroin heavy chain-like isoform X3 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1370,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 101,
-        "V": 47,
-        "L": 26,
-        "I": 24
-      },
-      "letter_fractions": {
-        "A": 7.372262773722628,
-        "V": 3.43065693430657,
-        "L": 1.897810218978102,
-        "I": 1.7518248175182483
-      },
-      "total_target_count": 198,
-      "total_target_fraction": 14.452554744525548
-    },
-    {
-      "accession": "XP_050579535",
-      "title": "fibroin heavy chain-like isoform X4 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1346,
+      "length": 1393,
       "letters": [
         "A",
         "V",
@@ -5083,212 +3952,23 @@
       ],
       "letter_counts": {
         "A": 100,
-        "V": 47,
-        "L": 25,
-        "I": 24
-      },
-      "letter_fractions": {
-        "A": 7.429420505200595,
-        "V": 3.4918276374442794,
-        "L": 1.8573551263001487,
-        "I": 1.7830609212481425
-      },
-      "total_target_count": 196,
-      "total_target_fraction": 14.561664190193166
-    },
-    {
-      "accession": "XP_050579536",
-      "title": "fibroin heavy chain-like isoform X5 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1298,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 99,
-        "V": 46,
-        "L": 25,
-        "I": 24
-      },
-      "letter_fractions": {
-        "A": 7.627118644067797,
-        "V": 3.5439137134052388,
-        "L": 1.9260400616332818,
-        "I": 1.848998459167951
-      },
-      "total_target_count": 194,
-      "total_target_fraction": 14.946070878274268
-    },
-    {
-      "accession": "XP_050579537",
-      "title": "fibroin heavy chain-like isoform X6 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1298,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 99,
-        "V": 46,
-        "L": 25,
-        "I": 24
-      },
-      "letter_fractions": {
-        "A": 7.627118644067797,
-        "V": 3.5439137134052388,
-        "L": 1.9260400616332818,
-        "I": 1.848998459167951
-      },
-      "total_target_count": 194,
-      "total_target_fraction": 14.946070878274268
-    },
-    {
-      "accession": "XP_050579538",
-      "title": "fibroin heavy chain-like isoform X7 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1250,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 97,
-        "V": 45,
-        "L": 24,
+        "V": 49,
+        "L": 27,
         "I": 23
       },
       "letter_fractions": {
-        "A": 7.76,
-        "V": 3.5999999999999996,
-        "L": 1.92,
-        "I": 1.8399999999999999
+        "A": 7.178750897343862,
+        "V": 3.5175879396984926,
+        "L": 1.938262742282843,
+        "I": 1.6511127063890882
       },
-      "total_target_count": 189,
-      "total_target_fraction": 15.120000000000001
+      "total_target_count": 199,
+      "total_target_fraction": 14.285714285714285
     },
     {
-      "accession": "XP_050579539",
-      "title": "fibroin heavy chain-like isoform X8 [Bombus affinis]",
-      "organism": "Bombus affinis",
+      "accession": "XP_048264280",
+      "title": "fibroin heavy chain isoform X1 [Bombus terrestris]",
+      "organism": "Bombus terrestris",
       "taxonomy_from_order": [
         "Hymenoptera",
         "Apocrita",
@@ -5299,259 +3979,7 @@
         "Bombini",
         "Bombus",
         "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1250,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 97,
-        "V": 45,
-        "L": 24,
-        "I": 23
-      },
-      "letter_fractions": {
-        "A": 7.76,
-        "V": 3.5999999999999996,
-        "L": 1.92,
-        "I": 1.8399999999999999
-      },
-      "total_target_count": 189,
-      "total_target_fraction": 15.120000000000001
-    },
-    {
-      "accession": "XP_050579540",
-      "title": "fibroin heavy chain-like isoform X9 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1250,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 97,
-        "V": 45,
-        "L": 24,
-        "I": 23
-      },
-      "letter_fractions": {
-        "A": 7.76,
-        "V": 3.5999999999999996,
-        "L": 1.92,
-        "I": 1.8399999999999999
-      },
-      "total_target_count": 189,
-      "total_target_fraction": 15.120000000000001
-    },
-    {
-      "accession": "XP_050579541",
-      "title": "fibroin heavy chain-like isoform X10 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1250,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 97,
-        "V": 45,
-        "L": 24,
-        "I": 23
-      },
-      "letter_fractions": {
-        "A": 7.76,
-        "V": 3.5999999999999996,
-        "L": 1.92,
-        "I": 1.8399999999999999
-      },
-      "total_target_count": 189,
-      "total_target_fraction": 15.120000000000001
-    },
-    {
-      "accession": "XP_050579542",
-      "title": "fibroin heavy chain-like isoform X11 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1250,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 97,
-        "V": 45,
-        "L": 25,
-        "I": 23
-      },
-      "letter_fractions": {
-        "A": 7.76,
-        "V": 3.5999999999999996,
-        "L": 2.0,
-        "I": 1.8399999999999999
-      },
-      "total_target_count": 190,
-      "total_target_fraction": 15.2
-    },
-    {
-      "accession": "XP_050579543",
-      "title": "fibroin heavy chain-like isoform X12 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
+        "Bombus terrestris"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -5586,24 +4014,24 @@
         "I"
       ],
       "letter_counts": {
-        "A": 95,
-        "V": 44,
-        "L": 24,
-        "I": 22
+        "A": 230,
+        "V": 42,
+        "L": 43,
+        "I": 42
       },
       "letter_fractions": {
-        "A": 7.903494176372712,
-        "V": 3.6605657237936775,
-        "L": 1.9966722129783694,
-        "I": 1.8302828618968388
+        "A": 19.13477537437604,
+        "V": 3.494176372712146,
+        "L": 3.577371048252912,
+        "I": 3.494176372712146
       },
-      "total_target_count": 185,
-      "total_target_fraction": 15.391014975041598
+      "total_target_count": 357,
+      "total_target_fraction": 29.700499168053245
     },
     {
-      "accession": "XP_050579546",
-      "title": "fibroin heavy chain-like isoform X14 [Bombus affinis]",
-      "organism": "Bombus affinis",
+      "accession": "XP_048264281",
+      "title": "fibroin heavy chain isoform X2 [Bombus terrestris]",
+      "organism": "Bombus terrestris",
       "taxonomy_from_order": [
         "Hymenoptera",
         "Apocrita",
@@ -5614,7 +4042,7 @@
         "Bombini",
         "Bombus",
         "Bombus",
-        "Bombus affinis"
+        "Bombus terrestris"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -5641,7 +4069,7 @@
       "family": "Apoidea",
       "partial_full": "full",
       "type": "heavy chain",
-      "length": 1202,
+      "length": 1201,
       "letters": [
         "A",
         "V",
@@ -5649,24 +4077,24 @@
         "I"
       ],
       "letter_counts": {
-        "A": 95,
-        "V": 44,
-        "L": 24,
-        "I": 22
+        "A": 229,
+        "V": 42,
+        "L": 43,
+        "I": 42
       },
       "letter_fractions": {
-        "A": 7.903494176372712,
-        "V": 3.6605657237936775,
-        "L": 1.9966722129783694,
-        "I": 1.8302828618968388
+        "A": 19.06744379683597,
+        "V": 3.4970857618651126,
+        "L": 3.5803497085761866,
+        "I": 3.4970857618651126
       },
-      "total_target_count": 185,
-      "total_target_fraction": 15.391014975041598
+      "total_target_count": 356,
+      "total_target_fraction": 29.64196502914238
     },
     {
-      "accession": "XP_050579547",
-      "title": "fibroin heavy chain-like isoform X15 [Bombus affinis]",
-      "organism": "Bombus affinis",
+      "accession": "XP_048264282",
+      "title": "fibroin heavy chain isoform X3 [Bombus terrestris]",
+      "organism": "Bombus terrestris",
       "taxonomy_from_order": [
         "Hymenoptera",
         "Apocrita",
@@ -5677,7 +4105,7 @@
         "Bombini",
         "Bombus",
         "Bombus",
-        "Bombus affinis"
+        "Bombus terrestris"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -5704,7 +4132,7 @@
       "family": "Apoidea",
       "partial_full": "full",
       "type": "heavy chain",
-      "length": 1202,
+      "length": 1165,
       "letters": [
         "A",
         "V",
@@ -5712,276 +4140,24 @@
         "I"
       ],
       "letter_counts": {
-        "A": 95,
-        "V": 45,
-        "L": 25,
-        "I": 23
-      },
-      "letter_fractions": {
-        "A": 7.903494176372712,
-        "V": 3.743760399334443,
-        "L": 2.0798668885191347,
-        "I": 1.913477537437604
-      },
-      "total_target_count": 188,
-      "total_target_fraction": 15.640599001663894
-    },
-    {
-      "accession": "XP_050587182",
-      "title": "fibroin heavy chain-like isoform X1 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1160,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 214,
-        "V": 45,
-        "L": 39,
-        "I": 41
-      },
-      "letter_fractions": {
-        "A": 18.448275862068968,
-        "V": 3.8793103448275863,
-        "L": 3.362068965517241,
-        "I": 3.53448275862069
-      },
-      "total_target_count": 339,
-      "total_target_fraction": 29.224137931034484
-    },
-    {
-      "accession": "XP_050587183",
-      "title": "fibroin heavy chain-like isoform X2 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1159,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 213,
-        "V": 45,
-        "L": 39,
-        "I": 41
-      },
-      "letter_fractions": {
-        "A": 18.3779119930975,
-        "V": 3.882657463330457,
-        "L": 3.364969801553063,
-        "I": 3.537532355478861
-      },
-      "total_target_count": 338,
-      "total_target_fraction": 29.163071613459877
-    },
-    {
-      "accession": "XP_050587184",
-      "title": "fibroin heavy chain-like isoform X3 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1154,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 212,
-        "V": 45,
-        "L": 40,
-        "I": 41
-      },
-      "letter_fractions": {
-        "A": 18.370883882149048,
-        "V": 3.8994800693240896,
-        "L": 3.466204506065858,
-        "I": 3.552859618717504
-      },
-      "total_target_count": 338,
-      "total_target_fraction": 29.289428076256502
-    },
-    {
-      "accession": "XP_050587185",
-      "title": "fibroin heavy chain-like isoform X4 [Bombus affinis]",
-      "organism": "Bombus affinis",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Apidae",
-        "Apinae",
-        "Bombini",
-        "Bombus",
-        "Bombus",
-        "Bombus affinis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Bombus",
-        "Bombus"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1115,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 205,
-        "V": 43,
-        "L": 38,
+        "A": 222,
+        "V": 42,
+        "L": 42,
         "I": 40
       },
       "letter_fractions": {
-        "A": 18.385650224215247,
-        "V": 3.856502242152467,
-        "L": 3.4080717488789234,
-        "I": 3.587443946188341
+        "A": 19.05579399141631,
+        "V": 3.6051502145922747,
+        "L": 3.6051502145922747,
+        "I": 3.4334763948497855
       },
-      "total_target_count": 326,
-      "total_target_fraction": 29.237668161434975
+      "total_target_count": 346,
+      "total_target_fraction": 29.69957081545064
     },
     {
-      "accession": "XP_050587186",
-      "title": "fibroin heavy chain-like isoform X5 [Bombus affinis]",
-      "organism": "Bombus affinis",
+      "accession": "XP_048264283",
+      "title": "fibroin heavy chain isoform X4 [Bombus terrestris]",
+      "organism": "Bombus terrestris",
       "taxonomy_from_order": [
         "Hymenoptera",
         "Apocrita",
@@ -5992,7 +4168,7 @@
         "Bombini",
         "Bombus",
         "Bombus",
-        "Bombus affinis"
+        "Bombus terrestris"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -6019,7 +4195,7 @@
       "family": "Apoidea",
       "partial_full": "full",
       "type": "heavy chain",
-      "length": 1111,
+      "length": 1153,
       "letters": [
         "A",
         "V",
@@ -6027,19 +4203,207 @@
         "I"
       ],
       "letter_counts": {
-        "A": 205,
-        "V": 44,
-        "L": 40,
-        "I": 43
+        "A": 222,
+        "V": 41,
+        "L": 43,
+        "I": 44
       },
       "letter_fractions": {
-        "A": 18.45184518451845,
-        "V": 3.9603960396039604,
-        "L": 3.6003600360036003,
-        "I": 3.87038703870387
+        "A": 19.25411968777103,
+        "V": 3.5559410234171724,
+        "L": 3.7294015611448397,
+        "I": 3.8161318300086733
       },
-      "total_target_count": 332,
-      "total_target_fraction": 29.882988298829883
+      "total_target_count": 350,
+      "total_target_fraction": 30.355594102341716
+    },
+    {
+      "accession": "XP_048266237",
+      "title": "fibroin heavy chain isoform X2 [Bombus terrestris]",
+      "organism": "Bombus terrestris",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Apidae",
+        "Apinae",
+        "Bombini",
+        "Bombus",
+        "Bombus",
+        "Bombus terrestris"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1391,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 99,
+        "V": 49,
+        "L": 27,
+        "I": 23
+      },
+      "letter_fractions": {
+        "A": 7.117181883537024,
+        "V": 3.5226455787203452,
+        "L": 1.9410496046010064,
+        "I": 1.6534867002156721
+      },
+      "total_target_count": 198,
+      "total_target_fraction": 14.234363767074049
+    },
+    {
+      "accession": "XP_048266238",
+      "title": "fibroin heavy chain isoform X3 [Bombus terrestris]",
+      "organism": "Bombus terrestris",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Apidae",
+        "Apinae",
+        "Bombini",
+        "Bombus",
+        "Bombus",
+        "Bombus terrestris"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1361,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 100,
+        "V": 49,
+        "L": 26,
+        "I": 22
+      },
+      "letter_fractions": {
+        "A": 7.347538574577516,
+        "V": 3.6002939015429827,
+        "L": 1.9103600293901544,
+        "I": 1.6164584864070537
+      },
+      "total_target_count": 197,
+      "total_target_fraction": 14.474650991917706
+    },
+    {
+      "accession": "KAG6801279",
+      "title": "fibroin heavy chain isoform X3 [Apis mellifera caucasica]",
+      "organism": "Apis mellifera caucasica",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Apidae",
+        "Apinae",
+        "Apini",
+        "Apis",
+        "Apis mellifera",
+        "Apis mellifera caucasica"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Apis"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1517,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 269,
+        "V": 65,
+        "L": 46,
+        "I": 44
+      },
+      "letter_fractions": {
+        "A": 17.732366512854316,
+        "V": 4.284772577455504,
+        "L": 3.032300593276203,
+        "I": 2.900461437046803
+      },
+      "total_target_count": 424,
+      "total_target_fraction": 27.94990112063283
     },
     {
       "accession": "KAG9431240",
@@ -6104,9 +4468,9 @@
       "total_target_fraction": 28.198258539852645
     },
     {
-      "accession": "XP_012348847",
-      "title": "fibroin heavy chain-like isoform X1 [Apis florea]",
-      "organism": "Apis florea",
+      "accession": "XP_043789665",
+      "title": "fibroin heavy chain-like isoform X1 [Apis laboriosa]",
+      "organism": "Apis laboriosa",
       "taxonomy_from_order": [
         "Hymenoptera",
         "Apocrita",
@@ -6116,7 +4480,7 @@
         "Apinae",
         "Apini",
         "Apis",
-        "Apis florea"
+        "Apis laboriosa"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -6142,7 +4506,7 @@
       "family": "Apoidea",
       "partial_full": "full",
       "type": "heavy chain",
-      "length": 1119,
+      "length": 1297,
       "letters": [
         "A",
         "V",
@@ -6150,24 +4514,24 @@
         "I"
       ],
       "letter_counts": {
-        "A": 179,
-        "V": 47,
-        "L": 28,
-        "I": 39
+        "A": 219,
+        "V": 63,
+        "L": 30,
+        "I": 35
       },
       "letter_fractions": {
-        "A": 15.996425379803394,
-        "V": 4.20017873100983,
-        "L": 2.5022341376228776,
-        "I": 3.485254691689008
+        "A": 16.885119506553586,
+        "V": 4.857363145720894,
+        "L": 2.313030069390902,
+        "I": 2.6985350809560527
       },
-      "total_target_count": 293,
-      "total_target_fraction": 26.184092940125115
+      "total_target_count": 347,
+      "total_target_fraction": 26.754047802621432
     },
     {
-      "accession": "KAG6801279",
-      "title": "fibroin heavy chain isoform X3 [Apis mellifera caucasica]",
-      "organism": "Apis mellifera caucasica",
+      "accession": "XP_043789666",
+      "title": "fibroin heavy chain-like isoform X2 [Apis laboriosa]",
+      "organism": "Apis laboriosa",
       "taxonomy_from_order": [
         "Hymenoptera",
         "Apocrita",
@@ -6177,8 +4541,7 @@
         "Apinae",
         "Apini",
         "Apis",
-        "Apis mellifera",
-        "Apis mellifera caucasica"
+        "Apis laboriosa"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -6204,7 +4567,7 @@
       "family": "Apoidea",
       "partial_full": "full",
       "type": "heavy chain",
-      "length": 1517,
+      "length": 1296,
       "letters": [
         "A",
         "V",
@@ -6212,19 +4575,141 @@
         "I"
       ],
       "letter_counts": {
-        "A": 269,
-        "V": 65,
-        "L": 46,
-        "I": 44
+        "A": 218,
+        "V": 63,
+        "L": 30,
+        "I": 35
       },
       "letter_fractions": {
-        "A": 17.732366512854316,
-        "V": 4.284772577455504,
-        "L": 3.032300593276203,
-        "I": 2.900461437046803
+        "A": 16.820987654320987,
+        "V": 4.861111111111112,
+        "L": 2.314814814814815,
+        "I": 2.700617283950617
       },
-      "total_target_count": 424,
-      "total_target_fraction": 27.94990112063283
+      "total_target_count": 346,
+      "total_target_fraction": 26.69753086419753
+    },
+    {
+      "accession": "XP_043789667",
+      "title": "fibroin heavy chain-like isoform X3 [Apis laboriosa]",
+      "organism": "Apis laboriosa",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Apidae",
+        "Apinae",
+        "Apini",
+        "Apis",
+        "Apis laboriosa"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Apis"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1253,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 209,
+        "V": 60,
+        "L": 30,
+        "I": 34
+      },
+      "letter_fractions": {
+        "A": 16.679968076616124,
+        "V": 4.788507581803671,
+        "L": 2.3942537909018355,
+        "I": 2.713487629688747
+      },
+      "total_target_count": 333,
+      "total_target_fraction": 26.576217079010373
+    },
+    {
+      "accession": "XP_043789668",
+      "title": "fibroin heavy chain-like isoform X4 [Apis laboriosa]",
+      "organism": "Apis laboriosa",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Apidae",
+        "Apinae",
+        "Apini",
+        "Apis",
+        "Apis laboriosa"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Apis"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1242,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 207,
+        "V": 64,
+        "L": 31,
+        "I": 36
+      },
+      "letter_fractions": {
+        "A": 16.666666666666664,
+        "V": 5.152979066022544,
+        "L": 2.49597423510467,
+        "I": 2.898550724637681
+      },
+      "total_target_count": 338,
+      "total_target_fraction": 27.214170692431562
     },
     {
       "accession": "XP_017794400",
@@ -6404,9 +4889,9 @@
       "total_target_fraction": 27.802294792586054
     },
     {
-      "accession": "XP_017761827",
-      "title": "PREDICTED: fibroin heavy chain isoform X1 [Eufriesea mexicana]",
-      "organism": "Eufriesea mexicana",
+      "accession": "XP_068965756",
+      "title": "fibroin heavy chain-like isoform X2 [Bombus flavifrons]",
+      "organism": "Bombus flavifrons",
       "taxonomy_from_order": [
         "Hymenoptera",
         "Apocrita",
@@ -6414,7 +4899,8 @@
         "Apoidea",
         "Anthophila",
         "Apidae",
-        "Eufriesea"
+        "Bombus",
+        "Pyrobombus"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -6433,14 +4919,15 @@
         "Apoidea",
         "Anthophila",
         "Apidae",
-        "Eufriesea"
+        "Bombus",
+        "Pyrobombus"
       ],
       "suborder": "Apocrita",
       "superfamily": "Aculeata",
       "family": "Apoidea",
       "partial_full": "full",
       "type": "heavy chain",
-      "length": 1323,
+      "length": 1384,
       "letters": [
         "A",
         "V",
@@ -6448,319 +4935,1549 @@
         "I"
       ],
       "letter_counts": {
-        "A": 257,
-        "V": 48,
+        "A": 111,
+        "V": 43,
+        "L": 32,
+        "I": 21
+      },
+      "letter_fractions": {
+        "A": 8.020231213872831,
+        "V": 3.106936416184971,
+        "L": 2.312138728323699,
+        "I": 1.5173410404624277
+      },
+      "total_target_count": 207,
+      "total_target_fraction": 14.95664739884393
+    },
+    {
+      "accession": "XP_033298057",
+      "title": "fibroin heavy chain-like isoform X1 [Bombus bifarius]",
+      "organism": "Bombus bifarius",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Pyrobombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Pyrobombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1226,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 229,
+        "V": 37,
+        "L": 36,
+        "I": 40
+      },
+      "letter_fractions": {
+        "A": 18.67862969004894,
+        "V": 3.0179445350734095,
+        "L": 2.936378466557912,
+        "I": 3.262642740619902
+      },
+      "total_target_count": 342,
+      "total_target_fraction": 27.895595432300162
+    },
+    {
+      "accession": "XP_033298059",
+      "title": "fibroin heavy chain-like isoform X2 [Bombus bifarius]",
+      "organism": "Bombus bifarius",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Pyrobombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Pyrobombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1240,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 224,
+        "V": 41,
+        "L": 41,
+        "I": 47
+      },
+      "letter_fractions": {
+        "A": 18.064516129032256,
+        "V": 3.306451612903226,
+        "L": 3.306451612903226,
+        "I": 3.790322580645161
+      },
+      "total_target_count": 353,
+      "total_target_fraction": 28.467741935483872
+    },
+    {
+      "accession": "XP_033298060",
+      "title": "fibroin heavy chain-like isoform X3 [Bombus bifarius]",
+      "organism": "Bombus bifarius",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Pyrobombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Pyrobombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1132,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 205,
+        "V": 37,
         "L": 34,
-        "I": 56
-      },
-      "letter_fractions": {
-        "A": 19.42554799697657,
-        "V": 3.6281179138321997,
-        "L": 2.5699168556311416,
-        "I": 4.232804232804233
-      },
-      "total_target_count": 395,
-      "total_target_fraction": 29.856386999244144
-    },
-    {
-      "accession": "XP_017761828",
-      "title": "PREDICTED: fibroin heavy chain isoform X2 [Eufriesea mexicana]",
-      "organism": "Eufriesea mexicana",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Eufriesea"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Eufriesea"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1322,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 256,
-        "V": 48,
-        "L": 34,
-        "I": 56
-      },
-      "letter_fractions": {
-        "A": 19.36459909228442,
-        "V": 3.6308623298033282,
-        "L": 2.5718608169440245,
-        "I": 4.236006051437216
-      },
-      "total_target_count": 394,
-      "total_target_fraction": 29.80332829046899
-    },
-    {
-      "accession": "XP_043789665",
-      "title": "fibroin heavy chain-like isoform X1 [Apis laboriosa]",
-      "organism": "Apis laboriosa",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Apis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Apis"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1297,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 219,
-        "V": 63,
-        "L": 30,
-        "I": 35
-      },
-      "letter_fractions": {
-        "A": 16.885119506553586,
-        "V": 4.857363145720894,
-        "L": 2.313030069390902,
-        "I": 2.6985350809560527
-      },
-      "total_target_count": 347,
-      "total_target_fraction": 26.754047802621432
-    },
-    {
-      "accession": "XP_043789666",
-      "title": "fibroin heavy chain-like isoform X2 [Apis laboriosa]",
-      "organism": "Apis laboriosa",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Apis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Apis"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1296,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 218,
-        "V": 63,
-        "L": 30,
-        "I": 35
-      },
-      "letter_fractions": {
-        "A": 16.820987654320987,
-        "V": 4.861111111111112,
-        "L": 2.314814814814815,
-        "I": 2.700617283950617
-      },
-      "total_target_count": 346,
-      "total_target_fraction": 26.69753086419753
-    },
-    {
-      "accession": "XP_043789667",
-      "title": "fibroin heavy chain-like isoform X3 [Apis laboriosa]",
-      "organism": "Apis laboriosa",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Apis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Apis"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1253,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 209,
-        "V": 60,
-        "L": 30,
-        "I": 34
-      },
-      "letter_fractions": {
-        "A": 16.679968076616124,
-        "V": 4.788507581803671,
-        "L": 2.3942537909018355,
-        "I": 2.713487629688747
-      },
-      "total_target_count": 333,
-      "total_target_fraction": 26.576217079010373
-    },
-    {
-      "accession": "XP_043789668",
-      "title": "fibroin heavy chain-like isoform X4 [Apis laboriosa]",
-      "organism": "Apis laboriosa",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Apis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Apis"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1242,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 207,
-        "V": 64,
-        "L": 31,
         "I": 36
       },
       "letter_fractions": {
-        "A": 16.666666666666664,
-        "V": 5.152979066022544,
-        "L": 2.49597423510467,
-        "I": 2.898550724637681
+        "A": 18.109540636042404,
+        "V": 3.2685512367491167,
+        "L": 3.0035335689045937,
+        "I": 3.180212014134275
+      },
+      "total_target_count": 312,
+      "total_target_fraction": 27.56183745583039
+    },
+    {
+      "accession": "XP_033298061",
+      "title": "fibroin heavy chain-like isoform X4 [Bombus bifarius]",
+      "organism": "Bombus bifarius",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Pyrobombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Pyrobombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1117,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 194,
+        "V": 41,
+        "L": 37,
+        "I": 38
+      },
+      "letter_fractions": {
+        "A": 17.367949865711726,
+        "V": 3.670546105640107,
+        "L": 3.312444046553268,
+        "I": 3.4019695613249774
+      },
+      "total_target_count": 310,
+      "total_target_fraction": 27.752909579230078
+    },
+    {
+      "accession": "XP_033310929",
+      "title": "fibroin heavy chain-like isoform X3 [Bombus bifarius]",
+      "organism": "Bombus bifarius",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Pyrobombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Pyrobombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1282,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 98,
+        "V": 43,
+        "L": 26,
+        "I": 21
+      },
+      "letter_fractions": {
+        "A": 7.644305772230889,
+        "V": 3.3541341653666144,
+        "L": 2.02808112324493,
+        "I": 1.6380655226209049
+      },
+      "total_target_count": 188,
+      "total_target_fraction": 14.664586583463338
+    },
+    {
+      "accession": "XP_043589561",
+      "title": "fibroin heavy chain-like isoform X1 [Bombus pyrosoma]",
+      "organism": "Bombus pyrosoma",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Melanobombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Melanobombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1192,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 213,
+        "V": 40,
+        "L": 36,
+        "I": 38
+      },
+      "letter_fractions": {
+        "A": 17.869127516778523,
+        "V": 3.3557046979865772,
+        "L": 3.0201342281879198,
+        "I": 3.1879194630872485
+      },
+      "total_target_count": 327,
+      "total_target_fraction": 27.432885906040266
+    },
+    {
+      "accession": "XP_043589562",
+      "title": "fibroin heavy chain-like isoform X2 [Bombus pyrosoma]",
+      "organism": "Bombus pyrosoma",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Melanobombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Melanobombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1191,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 212,
+        "V": 40,
+        "L": 36,
+        "I": 38
+      },
+      "letter_fractions": {
+        "A": 17.80016792611251,
+        "V": 3.3585222502099077,
+        "L": 3.022670025188917,
+        "I": 3.190596137699412
+      },
+      "total_target_count": 326,
+      "total_target_fraction": 27.371956339210747
+    },
+    {
+      "accession": "XP_043589563",
+      "title": "fibroin heavy chain-like isoform X3 [Bombus pyrosoma]",
+      "organism": "Bombus pyrosoma",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Melanobombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Melanobombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1143,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 204,
+        "V": 41,
+        "L": 37,
+        "I": 39
+      },
+      "letter_fractions": {
+        "A": 17.84776902887139,
+        "V": 3.5870516185476813,
+        "L": 3.2370953630796153,
+        "I": 3.4120734908136483
+      },
+      "total_target_count": 321,
+      "total_target_fraction": 28.083989501312335
+    },
+    {
+      "accession": "XP_043595078",
+      "title": "fibroin heavy chain-like isoform X1 [Bombus pyrosoma]",
+      "organism": "Bombus pyrosoma",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Melanobombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Melanobombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1416,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 108,
+        "V": 47,
+        "L": 29,
+        "I": 24
+      },
+      "letter_fractions": {
+        "A": 7.627118644067797,
+        "V": 3.3192090395480225,
+        "L": 2.048022598870056,
+        "I": 1.694915254237288
+      },
+      "total_target_count": 208,
+      "total_target_fraction": 14.689265536723164
+    },
+    {
+      "accession": "XP_043595082",
+      "title": "fibroin heavy chain-like isoform X5 [Bombus pyrosoma]",
+      "organism": "Bombus pyrosoma",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Melanobombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Melanobombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1388,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 108,
+        "V": 47,
+        "L": 28,
+        "I": 23
+      },
+      "letter_fractions": {
+        "A": 7.780979827089338,
+        "V": 3.386167146974063,
+        "L": 2.0172910662824206,
+        "I": 1.6570605187319885
+      },
+      "total_target_count": 206,
+      "total_target_fraction": 14.84149855907781
+    },
+    {
+      "accession": "XP_050579532",
+      "title": "fibroin heavy chain-like isoform X2 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1385,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 103,
+        "V": 48,
+        "L": 26,
+        "I": 24
+      },
+      "letter_fractions": {
+        "A": 7.436823104693141,
+        "V": 3.4657039711191335,
+        "L": 1.8772563176895307,
+        "I": 1.7328519855595668
+      },
+      "total_target_count": 201,
+      "total_target_fraction": 14.512635379061372
+    },
+    {
+      "accession": "XP_050579534",
+      "title": "fibroin heavy chain-like isoform X3 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1370,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 101,
+        "V": 47,
+        "L": 26,
+        "I": 24
+      },
+      "letter_fractions": {
+        "A": 7.372262773722628,
+        "V": 3.43065693430657,
+        "L": 1.897810218978102,
+        "I": 1.7518248175182483
+      },
+      "total_target_count": 198,
+      "total_target_fraction": 14.452554744525548
+    },
+    {
+      "accession": "XP_050579535",
+      "title": "fibroin heavy chain-like isoform X4 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1346,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 100,
+        "V": 47,
+        "L": 25,
+        "I": 24
+      },
+      "letter_fractions": {
+        "A": 7.429420505200595,
+        "V": 3.4918276374442794,
+        "L": 1.8573551263001487,
+        "I": 1.7830609212481425
+      },
+      "total_target_count": 196,
+      "total_target_fraction": 14.561664190193166
+    },
+    {
+      "accession": "XP_050579536",
+      "title": "fibroin heavy chain-like isoform X5 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1298,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 99,
+        "V": 46,
+        "L": 25,
+        "I": 24
+      },
+      "letter_fractions": {
+        "A": 7.627118644067797,
+        "V": 3.5439137134052388,
+        "L": 1.9260400616332818,
+        "I": 1.848998459167951
+      },
+      "total_target_count": 194,
+      "total_target_fraction": 14.946070878274268
+    },
+    {
+      "accession": "XP_050579537",
+      "title": "fibroin heavy chain-like isoform X6 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1298,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 99,
+        "V": 46,
+        "L": 25,
+        "I": 24
+      },
+      "letter_fractions": {
+        "A": 7.627118644067797,
+        "V": 3.5439137134052388,
+        "L": 1.9260400616332818,
+        "I": 1.848998459167951
+      },
+      "total_target_count": 194,
+      "total_target_fraction": 14.946070878274268
+    },
+    {
+      "accession": "XP_050579538",
+      "title": "fibroin heavy chain-like isoform X7 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1250,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 97,
+        "V": 45,
+        "L": 24,
+        "I": 23
+      },
+      "letter_fractions": {
+        "A": 7.76,
+        "V": 3.5999999999999996,
+        "L": 1.92,
+        "I": 1.8399999999999999
+      },
+      "total_target_count": 189,
+      "total_target_fraction": 15.120000000000001
+    },
+    {
+      "accession": "XP_050579539",
+      "title": "fibroin heavy chain-like isoform X8 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1250,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 97,
+        "V": 45,
+        "L": 24,
+        "I": 23
+      },
+      "letter_fractions": {
+        "A": 7.76,
+        "V": 3.5999999999999996,
+        "L": 1.92,
+        "I": 1.8399999999999999
+      },
+      "total_target_count": 189,
+      "total_target_fraction": 15.120000000000001
+    },
+    {
+      "accession": "XP_050579540",
+      "title": "fibroin heavy chain-like isoform X9 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1250,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 97,
+        "V": 45,
+        "L": 24,
+        "I": 23
+      },
+      "letter_fractions": {
+        "A": 7.76,
+        "V": 3.5999999999999996,
+        "L": 1.92,
+        "I": 1.8399999999999999
+      },
+      "total_target_count": 189,
+      "total_target_fraction": 15.120000000000001
+    },
+    {
+      "accession": "XP_050579541",
+      "title": "fibroin heavy chain-like isoform X10 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1250,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 97,
+        "V": 45,
+        "L": 24,
+        "I": 23
+      },
+      "letter_fractions": {
+        "A": 7.76,
+        "V": 3.5999999999999996,
+        "L": 1.92,
+        "I": 1.8399999999999999
+      },
+      "total_target_count": 189,
+      "total_target_fraction": 15.120000000000001
+    },
+    {
+      "accession": "XP_050579542",
+      "title": "fibroin heavy chain-like isoform X11 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1250,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 97,
+        "V": 45,
+        "L": 25,
+        "I": 23
+      },
+      "letter_fractions": {
+        "A": 7.76,
+        "V": 3.5999999999999996,
+        "L": 2.0,
+        "I": 1.8399999999999999
+      },
+      "total_target_count": 190,
+      "total_target_fraction": 15.2
+    },
+    {
+      "accession": "XP_050579543",
+      "title": "fibroin heavy chain-like isoform X12 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1202,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 95,
+        "V": 44,
+        "L": 24,
+        "I": 22
+      },
+      "letter_fractions": {
+        "A": 7.903494176372712,
+        "V": 3.6605657237936775,
+        "L": 1.9966722129783694,
+        "I": 1.8302828618968388
+      },
+      "total_target_count": 185,
+      "total_target_fraction": 15.391014975041598
+    },
+    {
+      "accession": "XP_050579546",
+      "title": "fibroin heavy chain-like isoform X14 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1202,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 95,
+        "V": 44,
+        "L": 24,
+        "I": 22
+      },
+      "letter_fractions": {
+        "A": 7.903494176372712,
+        "V": 3.6605657237936775,
+        "L": 1.9966722129783694,
+        "I": 1.8302828618968388
+      },
+      "total_target_count": 185,
+      "total_target_fraction": 15.391014975041598
+    },
+    {
+      "accession": "XP_050579547",
+      "title": "fibroin heavy chain-like isoform X15 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1202,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 95,
+        "V": 45,
+        "L": 25,
+        "I": 23
+      },
+      "letter_fractions": {
+        "A": 7.903494176372712,
+        "V": 3.743760399334443,
+        "L": 2.0798668885191347,
+        "I": 1.913477537437604
+      },
+      "total_target_count": 188,
+      "total_target_fraction": 15.640599001663894
+    },
+    {
+      "accession": "XP_050587182",
+      "title": "fibroin heavy chain-like isoform X1 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1160,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 214,
+        "V": 45,
+        "L": 39,
+        "I": 41
+      },
+      "letter_fractions": {
+        "A": 18.448275862068968,
+        "V": 3.8793103448275863,
+        "L": 3.362068965517241,
+        "I": 3.53448275862069
+      },
+      "total_target_count": 339,
+      "total_target_fraction": 29.224137931034484
+    },
+    {
+      "accession": "XP_050587183",
+      "title": "fibroin heavy chain-like isoform X2 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1159,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 213,
+        "V": 45,
+        "L": 39,
+        "I": 41
+      },
+      "letter_fractions": {
+        "A": 18.3779119930975,
+        "V": 3.882657463330457,
+        "L": 3.364969801553063,
+        "I": 3.537532355478861
       },
       "total_target_count": 338,
-      "total_target_fraction": 27.214170692431562
+      "total_target_fraction": 29.163071613459877
     },
     {
-      "accession": "XP_031371229",
-      "title": "fibroin heavy chain-like isoform X2 [Apis dorsata]",
-      "organism": "Apis dorsata",
+      "accession": "XP_050587184",
+      "title": "fibroin heavy chain-like isoform X3 [Bombus affinis]",
+      "organism": "Bombus affinis",
       "taxonomy_from_order": [
         "Hymenoptera",
         "Apocrita",
@@ -6768,7 +6485,8 @@
         "Apoidea",
         "Anthophila",
         "Apidae",
-        "Apis"
+        "Bombus",
+        "Bombus"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -6787,14 +6505,15 @@
         "Apoidea",
         "Anthophila",
         "Apidae",
-        "Apis"
+        "Bombus",
+        "Bombus"
       ],
       "suborder": "Apocrita",
       "superfamily": "Aculeata",
       "family": "Apoidea",
       "partial_full": "full",
       "type": "heavy chain",
-      "length": 1096,
+      "length": 1154,
       "letters": [
         "A",
         "V",
@@ -6802,78 +6521,141 @@
         "I"
       ],
       "letter_counts": {
-        "A": 183,
-        "V": 49,
-        "L": 28,
-        "I": 30
-      },
-      "letter_fractions": {
-        "A": 16.697080291970803,
-        "V": 4.47080291970803,
-        "L": 2.5547445255474455,
-        "I": 2.737226277372263
-      },
-      "total_target_count": 290,
-      "total_target_fraction": 26.459854014598537
-    },
-    {
-      "accession": "XP_031371230",
-      "title": "fibroin heavy chain-like isoform X3 [Apis dorsata]",
-      "organism": "Apis dorsata",
-      "taxonomy_from_order": [
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Apis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Hymenoptera",
-        "Apocrita",
-        "Aculeata",
-        "Apoidea",
-        "Anthophila",
-        "Apidae",
-        "Apis"
-      ],
-      "suborder": "Apocrita",
-      "superfamily": "Aculeata",
-      "family": "Apoidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1008,
-      "letters": [
-        "A",
-        "V",
-        "L",
-        "I"
-      ],
-      "letter_counts": {
-        "A": 163,
+        "A": 212,
         "V": 45,
-        "L": 28,
-        "I": 30
+        "L": 40,
+        "I": 41
       },
       "letter_fractions": {
-        "A": 16.17063492063492,
-        "V": 4.464285714285714,
-        "L": 2.7777777777777777,
-        "I": 2.976190476190476
+        "A": 18.370883882149048,
+        "V": 3.8994800693240896,
+        "L": 3.466204506065858,
+        "I": 3.552859618717504
       },
-      "total_target_count": 266,
-      "total_target_fraction": 26.38888888888889
+      "total_target_count": 338,
+      "total_target_fraction": 29.289428076256502
+    },
+    {
+      "accession": "XP_050587185",
+      "title": "fibroin heavy chain-like isoform X4 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1115,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 205,
+        "V": 43,
+        "L": 38,
+        "I": 40
+      },
+      "letter_fractions": {
+        "A": 18.385650224215247,
+        "V": 3.856502242152467,
+        "L": 3.4080717488789234,
+        "I": 3.587443946188341
+      },
+      "total_target_count": 326,
+      "total_target_fraction": 29.237668161434975
+    },
+    {
+      "accession": "XP_050587186",
+      "title": "fibroin heavy chain-like isoform X5 [Bombus affinis]",
+      "organism": "Bombus affinis",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Bombus",
+        "Bombus"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1111,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 205,
+        "V": 44,
+        "L": 40,
+        "I": 43
+      },
+      "letter_fractions": {
+        "A": 18.45184518451845,
+        "V": 3.9603960396039604,
+        "L": 3.6003600360036003,
+        "I": 3.87038703870387
+      },
+      "total_target_count": 332,
+      "total_target_fraction": 29.882988298829883
     },
     {
       "accession": "XP_006561846",
@@ -7110,6 +6892,183 @@
       },
       "total_target_count": 410,
       "total_target_fraction": 28.06297056810404
+    },
+    {
+      "accession": "XP_012348847",
+      "title": "fibroin heavy chain-like isoform X1 [Apis florea]",
+      "organism": "Apis florea",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Apis"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Apis"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1119,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 179,
+        "V": 47,
+        "L": 28,
+        "I": 39
+      },
+      "letter_fractions": {
+        "A": 15.996425379803394,
+        "V": 4.20017873100983,
+        "L": 2.5022341376228776,
+        "I": 3.485254691689008
+      },
+      "total_target_count": 293,
+      "total_target_fraction": 26.184092940125115
+    },
+    {
+      "accession": "XP_031371229",
+      "title": "fibroin heavy chain-like isoform X2 [Apis dorsata]",
+      "organism": "Apis dorsata",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Apis"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Apis"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1096,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 183,
+        "V": 49,
+        "L": 28,
+        "I": 30
+      },
+      "letter_fractions": {
+        "A": 16.697080291970803,
+        "V": 4.47080291970803,
+        "L": 2.5547445255474455,
+        "I": 2.737226277372263
+      },
+      "total_target_count": 290,
+      "total_target_fraction": 26.459854014598537
+    },
+    {
+      "accession": "XP_031371230",
+      "title": "fibroin heavy chain-like isoform X3 [Apis dorsata]",
+      "organism": "Apis dorsata",
+      "taxonomy_from_order": [
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Apis"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Hymenoptera",
+        "Apocrita",
+        "Aculeata",
+        "Apoidea",
+        "Anthophila",
+        "Apidae",
+        "Apis"
+      ],
+      "suborder": "Apocrita",
+      "superfamily": "Aculeata",
+      "family": "Apoidea",
+      "partial_full": "full",
+      "type": "heavy chain",
+      "length": 1008,
+      "letters": [
+        "A",
+        "V",
+        "L",
+        "I"
+      ],
+      "letter_counts": {
+        "A": 163,
+        "V": 45,
+        "L": 28,
+        "I": 30
+      },
+      "letter_fractions": {
+        "A": 16.17063492063492,
+        "V": 4.464285714285714,
+        "L": 2.7777777777777777,
+        "I": 2.976190476190476
+      },
+      "total_target_count": 266,
+      "total_target_fraction": 26.38888888888889
     }
   ],
   "global_counts": {
@@ -7134,28 +7093,28 @@
     "Bombus vancouverensis nearcticus",
     "Bombus huntii",
     "Bombus vosnesenskii",
-    "Bombus bifarius",
     "Bombus impatiens",
-    "Bombus affinis",
-    "Bombus pyrosoma",
+    "Bombus terrestris",
+    "Bombus pascuorum",
+    "Apis laboriosa",
     "Apis mellifera carnica",
+    "Apis mellifera caucasica",
     "Apis mellifera mellifera",
-    "Apis florea",
-    "partial",
     "Apis andreniformis",
-    "Apis cerana cerana",
+    "partial",
+    "Frieseomelitta varia",
+    "Eufriesea mexicana",
     "Ceratina calcarata",
     "Bombus fervidus",
-    "Bombus terrestris",
+    "Bombus affinis",
     "Bombus flavifrons",
-    "Bombus pascuorum",
+    "Bombus bifarius",
+    "Bombus pyrosoma",
     "Apis mellifera",
-    "Apis laboriosa",
-    "Apis mellifera caucasica",
+    "Apis florea",
     "Apis dorsata",
-    "Frieseomelitta varia",
+    "Apis cerana cerana",
     "Habropoda laboriosa",
-    "Eufriesea mexicana",
     "Mycetomoellerius zeteki",
     "Monomorium pharaonis",
     "Acromyrmex echinatior",

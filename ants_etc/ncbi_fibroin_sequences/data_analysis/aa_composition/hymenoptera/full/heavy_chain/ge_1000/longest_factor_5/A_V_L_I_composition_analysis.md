@@ -34,11 +34,6 @@ This report quantifies the occurrence and percentage of selected amino-acid lett
 | Osmia bicornis bicornis | heavy chain | full | `XP_029044773` | 1164 | 202 | 17.35% | 34 | 2.92% | 35 | 3.01% | 39 | 3.35% |
 | Osmia bicornis bicornis | heavy chain | full | `XP_046142359` | 1114 | 197 | 17.68% | 33 | 2.96% | 33 | 2.96% | 38 | 3.41% |
 | Bombus huntii | heavy chain | full | `XP_050471571` | 1378 | 100 | 7.26% | 45 | 3.27% | 27 | 1.96% | 24 | 1.74% |
-| Bombus bifarius | heavy chain | full | `XP_033298057` | 1226 | 229 | 18.68% | 37 | 3.02% | 36 | 2.94% | 40 | 3.26% |
-| Bombus bifarius | heavy chain | full | `XP_033298059` | 1240 | 224 | 18.06% | 41 | 3.31% | 41 | 3.31% | 47 | 3.79% |
-| Bombus bifarius | heavy chain | full | `XP_033298060` | 1132 | 205 | 18.11% | 37 | 3.27% | 34 | 3.00% | 36 | 3.18% |
-| Bombus bifarius | heavy chain | full | `XP_033298061` | 1117 | 194 | 17.37% | 41 | 3.67% | 37 | 3.31% | 38 | 3.40% |
-| Bombus bifarius | heavy chain | full | `XP_033310929` | 1282 | 98 | 7.64% | 43 | 3.35% | 26 | 2.03% | 21 | 1.64% |
 | Bombus impatiens | heavy chain | full | `XP_012239091` | 1219 | 93 | 7.63% | 43 | 3.53% | 23 | 1.89% | 20 | 1.64% |
 | Bombus impatiens | heavy chain | full | `XP_012240064` | 1243 | 238 | 19.15% | 37 | 2.98% | 38 | 3.06% | 45 | 3.62% |
 | Bombus impatiens | heavy chain | full | `XP_012240068` | 1231 | 232 | 18.85% | 37 | 3.01% | 38 | 3.09% | 45 | 3.66% |
@@ -50,6 +45,40 @@ This report quantifies the occurrence and percentage of selected amino-acid lett
 | Bombus impatiens | heavy chain | full | `XP_033176163` | 1239 | 236 | 19.05% | 37 | 2.99% | 38 | 3.07% | 45 | 3.63% |
 | Bombus impatiens | heavy chain | full | `XP_033176164` | 1198 | 226 | 18.86% | 37 | 3.09% | 37 | 3.09% | 43 | 3.59% |
 | Bombus impatiens | heavy chain | full | `XP_033176165` | 1194 | 229 | 19.18% | 37 | 3.10% | 39 | 3.27% | 46 | 3.85% |
+| Bombus terrestris | heavy chain | full | `XP_020721218` | 1393 | 100 | 7.18% | 49 | 3.52% | 27 | 1.94% | 23 | 1.65% |
+| Bombus terrestris | heavy chain | full | `XP_048264280` | 1202 | 230 | 19.13% | 42 | 3.49% | 43 | 3.58% | 42 | 3.49% |
+| Bombus terrestris | heavy chain | full | `XP_048264281` | 1201 | 229 | 19.07% | 42 | 3.50% | 43 | 3.58% | 42 | 3.50% |
+| Bombus terrestris | heavy chain | full | `XP_048264282` | 1165 | 222 | 19.06% | 42 | 3.61% | 42 | 3.61% | 40 | 3.43% |
+| Bombus terrestris | heavy chain | full | `XP_048264283` | 1153 | 222 | 19.25% | 41 | 3.56% | 43 | 3.73% | 44 | 3.82% |
+| Bombus terrestris | heavy chain | full | `XP_048266237` | 1391 | 99 | 7.12% | 49 | 3.52% | 27 | 1.94% | 23 | 1.65% |
+| Bombus terrestris | heavy chain | full | `XP_048266238` | 1361 | 100 | 7.35% | 49 | 3.60% | 26 | 1.91% | 22 | 1.62% |
+| Bombus pascuorum | heavy chain | full | `XP_060813836` | 1197 | 224 | 18.71% | 42 | 3.51% | 36 | 3.01% | 42 | 3.51% |
+| Bombus pascuorum | heavy chain | full | `XP_060813837` | 1196 | 223 | 18.65% | 42 | 3.51% | 36 | 3.01% | 42 | 3.51% |
+| Bombus pascuorum | heavy chain | full | `XP_060813838` | 1148 | 215 | 18.73% | 43 | 3.75% | 37 | 3.22% | 43 | 3.75% |
+| Bombus pascuorum | heavy chain | full | `XP_060815200` | 1409 | 93 | 6.60% | 43 | 3.05% | 23 | 1.63% | 23 | 1.63% |
+| Bombus pascuorum | heavy chain | full | `XP_060815201` | 1376 | 93 | 6.76% | 43 | 3.12% | 22 | 1.60% | 22 | 1.60% |
+| Bombus pascuorum | heavy chain | full | `XP_060815202` | 1357 | 92 | 6.78% | 42 | 3.10% | 23 | 1.69% | 23 | 1.69% |
+| Apis laboriosa | heavy chain | full | `XP_043789665` | 1297 | 219 | 16.89% | 63 | 4.86% | 30 | 2.31% | 35 | 2.70% |
+| Apis laboriosa | heavy chain | full | `XP_043789666` | 1296 | 218 | 16.82% | 63 | 4.86% | 30 | 2.31% | 35 | 2.70% |
+| Apis laboriosa | heavy chain | full | `XP_043789667` | 1253 | 209 | 16.68% | 60 | 4.79% | 30 | 2.39% | 34 | 2.71% |
+| Apis laboriosa | heavy chain | full | `XP_043789668` | 1242 | 207 | 16.67% | 64 | 5.15% | 31 | 2.50% | 36 | 2.90% |
+| Apis mellifera carnica | heavy chain | full | `KAG9431240` | 1493 | 263 | 17.62% | 71 | 4.76% | 44 | 2.95% | 43 | 2.88% |
+| Apis mellifera caucasica | heavy chain | full | `KAG6801279` | 1517 | 269 | 17.73% | 65 | 4.28% | 46 | 3.03% | 44 | 2.90% |
+| Frieseomelitta varia | heavy chain | full | `XP_043521622` | 1205 | 175 | 14.52% | 49 | 4.07% | 33 | 2.74% | 46 | 3.82% |
+| Frieseomelitta varia | heavy chain | full | `XP_043521623` | 1204 | 174 | 14.45% | 49 | 4.07% | 33 | 2.74% | 46 | 3.82% |
+| Frieseomelitta varia | heavy chain | full | `XP_043521624` | 1200 | 174 | 14.50% | 49 | 4.08% | 33 | 2.75% | 46 | 3.83% |
+| Frieseomelitta varia | heavy chain | full | `XP_043521625` | 1193 | 171 | 14.33% | 49 | 4.11% | 33 | 2.77% | 46 | 3.86% |
+| Frieseomelitta varia | heavy chain | full | `XP_043521626` | 1191 | 175 | 14.69% | 49 | 4.11% | 33 | 2.77% | 46 | 3.86% |
+| Frieseomelitta varia | heavy chain | full | `XP_043521627` | 1182 | 174 | 14.72% | 48 | 4.06% | 32 | 2.71% | 42 | 3.55% |
+| Frieseomelitta varia | heavy chain | full | `XP_043521629` | 1178 | 175 | 14.86% | 49 | 4.16% | 33 | 2.80% | 46 | 3.90% |
+| Frieseomelitta varia | heavy chain | full | `XP_043521630` | 1160 | 165 | 14.22% | 50 | 4.31% | 34 | 2.93% | 47 | 4.05% |
+| Frieseomelitta varia | heavy chain | full | `XP_043521631` | 1155 | 164 | 14.20% | 50 | 4.33% | 34 | 2.94% | 47 | 4.07% |
+| Frieseomelitta varia | heavy chain | full | `XP_043521632` | 1133 | 165 | 14.56% | 50 | 4.41% | 34 | 3.00% | 47 | 4.15% |
+| Frieseomelitta varia | heavy chain | full | `XP_043521633` | 1113 | 155 | 13.93% | 45 | 4.04% | 32 | 2.88% | 42 | 3.77% |
+| Frieseomelitta varia | heavy chain | full | `XP_043521635` | 1086 | 150 | 13.81% | 46 | 4.24% | 32 | 2.95% | 43 | 3.96% |
+| Eufriesea mexicana | heavy chain | full | `XP_017761827` | 1323 | 257 | 19.43% | 48 | 3.63% | 34 | 2.57% | 56 | 4.23% |
+| Eufriesea mexicana | heavy chain | full | `XP_017761828` | 1322 | 256 | 19.36% | 48 | 3.63% | 34 | 2.57% | 56 | 4.24% |
+| Ceratina calcarata | heavy chain | full | `XP_017881835` | 1143 | 219 | 19.16% | 42 | 3.67% | 27 | 2.36% | 33 | 2.89% |
 | Bombus affinis | heavy chain | full | `XP_050579532` | 1385 | 103 | 7.44% | 48 | 3.47% | 26 | 1.88% | 24 | 1.73% |
 | Bombus affinis | heavy chain | full | `XP_050579534` | 1370 | 101 | 7.37% | 47 | 3.43% | 26 | 1.90% | 24 | 1.75% |
 | Bombus affinis | heavy chain | full | `XP_050579535` | 1346 | 100 | 7.43% | 47 | 3.49% | 25 | 1.86% | 24 | 1.78% |
@@ -68,56 +97,27 @@ This report quantifies the occurrence and percentage of selected amino-acid lett
 | Bombus affinis | heavy chain | full | `XP_050587184` | 1154 | 212 | 18.37% | 45 | 3.90% | 40 | 3.47% | 41 | 3.55% |
 | Bombus affinis | heavy chain | full | `XP_050587185` | 1115 | 205 | 18.39% | 43 | 3.86% | 38 | 3.41% | 40 | 3.59% |
 | Bombus affinis | heavy chain | full | `XP_050587186` | 1111 | 205 | 18.45% | 44 | 3.96% | 40 | 3.60% | 43 | 3.87% |
+| Bombus flavifrons | heavy chain | full | `XP_068965756` | 1384 | 111 | 8.02% | 43 | 3.11% | 32 | 2.31% | 21 | 1.52% |
+| Bombus bifarius | heavy chain | full | `XP_033298057` | 1226 | 229 | 18.68% | 37 | 3.02% | 36 | 2.94% | 40 | 3.26% |
+| Bombus bifarius | heavy chain | full | `XP_033298059` | 1240 | 224 | 18.06% | 41 | 3.31% | 41 | 3.31% | 47 | 3.79% |
+| Bombus bifarius | heavy chain | full | `XP_033298060` | 1132 | 205 | 18.11% | 37 | 3.27% | 34 | 3.00% | 36 | 3.18% |
+| Bombus bifarius | heavy chain | full | `XP_033298061` | 1117 | 194 | 17.37% | 41 | 3.67% | 37 | 3.31% | 38 | 3.40% |
+| Bombus bifarius | heavy chain | full | `XP_033310929` | 1282 | 98 | 7.64% | 43 | 3.35% | 26 | 2.03% | 21 | 1.64% |
 | Bombus pyrosoma | heavy chain | full | `XP_043589561` | 1192 | 213 | 17.87% | 40 | 3.36% | 36 | 3.02% | 38 | 3.19% |
 | Bombus pyrosoma | heavy chain | full | `XP_043589562` | 1191 | 212 | 17.80% | 40 | 3.36% | 36 | 3.02% | 38 | 3.19% |
 | Bombus pyrosoma | heavy chain | full | `XP_043589563` | 1143 | 204 | 17.85% | 41 | 3.59% | 37 | 3.24% | 39 | 3.41% |
 | Bombus pyrosoma | heavy chain | full | `XP_043595078` | 1416 | 108 | 7.63% | 47 | 3.32% | 29 | 2.05% | 24 | 1.69% |
 | Bombus pyrosoma | heavy chain | full | `XP_043595082` | 1388 | 108 | 7.78% | 47 | 3.39% | 28 | 2.02% | 23 | 1.66% |
-| Apis mellifera carnica | heavy chain | full | `KAG9431240` | 1493 | 263 | 17.62% | 71 | 4.76% | 44 | 2.95% | 43 | 2.88% |
-| Apis florea | heavy chain | full | `XP_012348847` | 1119 | 179 | 16.00% | 47 | 4.20% | 28 | 2.50% | 39 | 3.49% |
-| Ceratina calcarata | heavy chain | full | `XP_017881835` | 1143 | 219 | 19.16% | 42 | 3.67% | 27 | 2.36% | 33 | 2.89% |
-| Bombus terrestris | heavy chain | full | `XP_020721218` | 1393 | 100 | 7.18% | 49 | 3.52% | 27 | 1.94% | 23 | 1.65% |
-| Bombus terrestris | heavy chain | full | `XP_048264280` | 1202 | 230 | 19.13% | 42 | 3.49% | 43 | 3.58% | 42 | 3.49% |
-| Bombus terrestris | heavy chain | full | `XP_048264281` | 1201 | 229 | 19.07% | 42 | 3.50% | 43 | 3.58% | 42 | 3.50% |
-| Bombus terrestris | heavy chain | full | `XP_048264282` | 1165 | 222 | 19.06% | 42 | 3.61% | 42 | 3.61% | 40 | 3.43% |
-| Bombus terrestris | heavy chain | full | `XP_048264283` | 1153 | 222 | 19.25% | 41 | 3.56% | 43 | 3.73% | 44 | 3.82% |
-| Bombus terrestris | heavy chain | full | `XP_048266237` | 1391 | 99 | 7.12% | 49 | 3.52% | 27 | 1.94% | 23 | 1.65% |
-| Bombus terrestris | heavy chain | full | `XP_048266238` | 1361 | 100 | 7.35% | 49 | 3.60% | 26 | 1.91% | 22 | 1.62% |
-| Bombus flavifrons | heavy chain | full | `XP_068965756` | 1384 | 111 | 8.02% | 43 | 3.11% | 32 | 2.31% | 21 | 1.52% |
-| Bombus pascuorum | heavy chain | full | `XP_060813836` | 1197 | 224 | 18.71% | 42 | 3.51% | 36 | 3.01% | 42 | 3.51% |
-| Bombus pascuorum | heavy chain | full | `XP_060813837` | 1196 | 223 | 18.65% | 42 | 3.51% | 36 | 3.01% | 42 | 3.51% |
-| Bombus pascuorum | heavy chain | full | `XP_060813838` | 1148 | 215 | 18.73% | 43 | 3.75% | 37 | 3.22% | 43 | 3.75% |
-| Bombus pascuorum | heavy chain | full | `XP_060815200` | 1409 | 93 | 6.60% | 43 | 3.05% | 23 | 1.63% | 23 | 1.63% |
-| Bombus pascuorum | heavy chain | full | `XP_060815201` | 1376 | 93 | 6.76% | 43 | 3.12% | 22 | 1.60% | 22 | 1.60% |
-| Bombus pascuorum | heavy chain | full | `XP_060815202` | 1357 | 92 | 6.78% | 42 | 3.10% | 23 | 1.69% | 23 | 1.69% |
 | Apis mellifera | heavy chain | full | `XP_006561846` | 1483 | 257 | 17.33% | 72 | 4.86% | 45 | 3.03% | 43 | 2.90% |
 | Apis mellifera | heavy chain | full | `XP_006561847` | 1428 | 246 | 17.23% | 73 | 5.11% | 45 | 3.15% | 44 | 3.08% |
 | Apis mellifera | heavy chain | full | `XP_006561848` | 1253 | 215 | 17.16% | 62 | 4.95% | 41 | 3.27% | 37 | 2.95% |
 | Apis mellifera | heavy chain | full | `XP_016769592` | 1461 | 252 | 17.25% | 71 | 4.86% | 44 | 3.01% | 43 | 2.94% |
-| Apis laboriosa | heavy chain | full | `XP_043789665` | 1297 | 219 | 16.89% | 63 | 4.86% | 30 | 2.31% | 35 | 2.70% |
-| Apis laboriosa | heavy chain | full | `XP_043789666` | 1296 | 218 | 16.82% | 63 | 4.86% | 30 | 2.31% | 35 | 2.70% |
-| Apis laboriosa | heavy chain | full | `XP_043789667` | 1253 | 209 | 16.68% | 60 | 4.79% | 30 | 2.39% | 34 | 2.71% |
-| Apis laboriosa | heavy chain | full | `XP_043789668` | 1242 | 207 | 16.67% | 64 | 5.15% | 31 | 2.50% | 36 | 2.90% |
-| Apis mellifera caucasica | heavy chain | full | `KAG6801279` | 1517 | 269 | 17.73% | 65 | 4.28% | 46 | 3.03% | 44 | 2.90% |
+| Apis florea | heavy chain | full | `XP_012348847` | 1119 | 179 | 16.00% | 47 | 4.20% | 28 | 2.50% | 39 | 3.49% |
 | Apis dorsata | heavy chain | full | `XP_031371229` | 1096 | 183 | 16.70% | 49 | 4.47% | 28 | 2.55% | 30 | 2.74% |
 | Apis dorsata | heavy chain | full | `XP_031371230` | 1008 | 163 | 16.17% | 45 | 4.46% | 28 | 2.78% | 30 | 2.98% |
-| Frieseomelitta varia | heavy chain | full | `XP_043521622` | 1205 | 175 | 14.52% | 49 | 4.07% | 33 | 2.74% | 46 | 3.82% |
-| Frieseomelitta varia | heavy chain | full | `XP_043521623` | 1204 | 174 | 14.45% | 49 | 4.07% | 33 | 2.74% | 46 | 3.82% |
-| Frieseomelitta varia | heavy chain | full | `XP_043521624` | 1200 | 174 | 14.50% | 49 | 4.08% | 33 | 2.75% | 46 | 3.83% |
-| Frieseomelitta varia | heavy chain | full | `XP_043521625` | 1193 | 171 | 14.33% | 49 | 4.11% | 33 | 2.77% | 46 | 3.86% |
-| Frieseomelitta varia | heavy chain | full | `XP_043521626` | 1191 | 175 | 14.69% | 49 | 4.11% | 33 | 2.77% | 46 | 3.86% |
-| Frieseomelitta varia | heavy chain | full | `XP_043521627` | 1182 | 174 | 14.72% | 48 | 4.06% | 32 | 2.71% | 42 | 3.55% |
-| Frieseomelitta varia | heavy chain | full | `XP_043521629` | 1178 | 175 | 14.86% | 49 | 4.16% | 33 | 2.80% | 46 | 3.90% |
-| Frieseomelitta varia | heavy chain | full | `XP_043521630` | 1160 | 165 | 14.22% | 50 | 4.31% | 34 | 2.93% | 47 | 4.05% |
-| Frieseomelitta varia | heavy chain | full | `XP_043521631` | 1155 | 164 | 14.20% | 50 | 4.33% | 34 | 2.94% | 47 | 4.07% |
-| Frieseomelitta varia | heavy chain | full | `XP_043521632` | 1133 | 165 | 14.56% | 50 | 4.41% | 34 | 3.00% | 47 | 4.15% |
-| Frieseomelitta varia | heavy chain | full | `XP_043521633` | 1113 | 155 | 13.93% | 45 | 4.04% | 32 | 2.88% | 42 | 3.77% |
-| Frieseomelitta varia | heavy chain | full | `XP_043521635` | 1086 | 150 | 13.81% | 46 | 4.24% | 32 | 2.95% | 43 | 3.96% |
 | Habropoda laboriosa | heavy chain | full | `XP_017794400` | 1209 | 215 | 17.78% | 40 | 3.31% | 33 | 2.73% | 41 | 3.39% |
 | Habropoda laboriosa | heavy chain | full | `XP_017794401` | 1162 | 204 | 17.56% | 36 | 3.10% | 33 | 2.84% | 44 | 3.79% |
 | Habropoda laboriosa | heavy chain | full | `XP_017794402` | 1133 | 205 | 18.09% | 38 | 3.35% | 33 | 2.91% | 39 | 3.44% |
-| Eufriesea mexicana | heavy chain | full | `XP_017761827` | 1323 | 257 | 19.43% | 48 | 3.63% | 34 | 2.57% | 56 | 4.23% |
-| Eufriesea mexicana | heavy chain | full | `XP_017761828` | 1322 | 256 | 19.36% | 48 | 3.63% | 34 | 2.57% | 56 | 4.24% |
 
 ### Family: Formicoidea
 | Organism | Type | Partial/Full | Accession ID | Length | A Count | A % | V Count | V % | L Count | L % | I Count | I % |

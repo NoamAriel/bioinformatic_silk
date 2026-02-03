@@ -1,23 +1,23 @@
 organism,total_fraction_mean,total_fraction_sd,length_mean,length_sd
 Osmia bicornis bicornis,26.610,0.297,1166.250,41.072
 Bombus huntii,14.224,0.000,1378.000,0.000
-Bombus bifarius,25.269,5.937,1199.400,71.609
 Bombus impatiens,22.223,7.580,1251.909,43.126
-Bombus affinis,19.018,6.608,1236.222,81.561
-Bombus pyrosoma,22.484,7.052,1266.000,126.109
-Apis mellifera carnica,28.198,0.000,1493.000,0.000
-Apis florea,26.184,0.000,1119.000,0.000
-Ceratina calcarata,28.084,0.000,1143.000,0.000
 Bombus terrestris,23.199,8.298,1266.571,109.596
-Bombus flavifrons,14.957,0.000,1384.000,0.000
 Bombus pascuorum,21.020,8.695,1280.500,112.386
-Apis mellifera,28.271,0.231,1406.250,104.637
 Apis laboriosa,26.810,0.279,1272.000,28.647
+Apis mellifera carnica,28.198,0.000,1493.000,0.000
 Apis mellifera caucasica,27.950,0.000,1517.000,0.000
-Apis dorsata,26.424,0.050,1052.000,62.225
 Frieseomelitta varia,25.285,0.402,1166.667,38.524
-Habropoda laboriosa,27.432,0.323,1168.000,38.354
 Eufriesea mexicana,29.830,0.038,1322.500,0.707
+Ceratina calcarata,28.084,0.000,1143.000,0.000
+Bombus affinis,19.018,6.608,1236.222,81.561
+Bombus flavifrons,14.957,0.000,1384.000,0.000
+Bombus bifarius,25.269,5.937,1199.400,71.609
+Bombus pyrosoma,22.484,7.052,1266.000,126.109
+Apis mellifera,28.271,0.231,1406.250,104.637
+Apis florea,26.184,0.000,1119.000,0.000
+Apis dorsata,26.424,0.050,1052.000,62.225
+Habropoda laboriosa,27.432,0.323,1168.000,38.354
 Cataglyphis hispanica,15.038,0.000,1330.000,0.000
 Polistes fuscatus,25.563,0.000,1420.000,0.000
 Prorops nasuta,30.039,0.000,5606.000,0.000
