@@ -1,0 +1,12 @@
+organism,type,n,count_mean,count_sd,percent_mean,percent_sd,length_mean
+Anoplolepis gracilipes,fibroin 3,4,2.000,0.000,3.951,0.000,405.000
+Osmia lignaria lignaria,fibroin 3,2,2.000,0.000,2.360,0.000,339.000
+Megachile rotundata,fibroin 3,7,1.000,0.000,1.168,0.000,1199.000
+Megachile rotundata,fibroin 3,6,1.000,0.000,1.001,0.000,1199.000
+Megachile rotundata,fibroin 3,3,1.000,0.000,0.500,0.000,1199.000
+Megachile rotundata,fibroin 3,2,9.000,0.000,3.003,0.000,1199.000
+Bombus terrestris,fibroin 3,2,4.000,0.000,4.819,0.000,332.000
+Apis mellifera caucasica,fibroin 3,2,4.000,0.000,4.776,0.000,335.000
+Apis mellifera carnica,fibroin 3,2,4.000,0.000,4.776,0.000,335.000
+Apis dorsata,fibroin 3,2,3.000,0.000,3.593,0.000,334.000
+Apis mellifera,fibroin 3,2,4.000,0.000,4.776,0.000,335.000

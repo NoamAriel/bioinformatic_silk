@@ -1,0 +1,41 @@
+{
+  "accession": "KMQ97142",
+  "title": "fibroin heavy chain-like protein [Lasius niger]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Lasius niger",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Formicoidea",
+    "Formicidae",
+    "Formicinae",
+    "Lasius",
+    "Lasius"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Formicoidea",
+    "Formicidae",
+    "Formicinae",
+    "Lasius",
+    "Lasius"
+  ],
+  "sequence_length": 240,
+  "origin_sequence": "MKTLFISLALICAVVAAAPRERREAILDGHGFYGGGGHGAYGGHGVYGANGAYGAYGGIAGYGGHGVAVAGPLLGATSVVGPHVGATAVSAPAIGPARLSGSIAGPVHVSGAVAGPAVVTASVAGPAHVEGYGGPYDGVYGGGDHVGGYGGYAAGPAHGYAGYAGYGGYAGYAGGHGGHGVVVAGPASHGAVLAGPHSGSAAVSGPHAGSVVIAGPSGKITAHGSGYGAAIHAGLGHGHW",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KMQ97142"
+}

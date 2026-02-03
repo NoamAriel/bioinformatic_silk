@@ -1,0 +1,4 @@
+| organism | type | n | count_mean | count_sd | percent_mean | percent_sd | length_mean |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Apis andreniformis | fibroin 4 | 2 | 3.000 | 0.000 | 3.625 | 0.000 | 331.000 |
+| Apis florea | fibroin 4 | 2 | 2.000 | 0.000 | 2.417 | 0.000 | 331.000 |

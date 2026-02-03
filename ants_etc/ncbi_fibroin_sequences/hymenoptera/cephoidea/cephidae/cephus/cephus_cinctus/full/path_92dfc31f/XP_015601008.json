@@ -1,0 +1,33 @@
+{
+  "accession": "XP_015601008",
+  "title": "fibroin heavy chain isoform X1 [Cephus cinctus]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Cephus cinctus",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Cephoidea",
+    "Cephidae",
+    "Cephus"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Cephoidea",
+    "Cephidae",
+    "Cephus"
+  ],
+  "sequence_length": 398,
+  "origin_sequence": "MGVRICILLTVFSAVGILSEDRLPQYRQVRSRQPFPSLALKDLFADELDVEGPIFATKPQKRDVSHVLSGTAKSPSGAASGAGSFASSGSFAGSSSFPSKSSVGTQGGYTGGGTGAGYAGAGTGGGSGYSGIGTSYTPNSGFQDYYSNQNQASSYPYYPSQNIVPYFGPGFDFQNFLQQYFSNLQAQQEAFQAQLQAQQQAAASSWAGSGAYMTNPDGTIDPNARVHSYSHSTPGMAVATSAVQSDSGYGGSYSSSRGNRFFEMNNRLGYGFPYAQQIPNTYAANTGSGFGGAAGGFGSPAGGYSGSASGSGPHVATASANLGPQGGHQSASISPAAPGIFSRFGESVPPPSGNSFGVFTSSSSGHSVGPDGKETSYKSATTGVNDNGKVSYHTVRDP",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_015601008"
+}

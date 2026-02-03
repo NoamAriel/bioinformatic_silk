@@ -1,0 +1,41 @@
+{
+  "accession": "ABW21702",
+  "title": "silk fibroin [Oecophylla smaragdina]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Oecophylla smaragdina",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Formicoidea",
+    "Formicidae",
+    "Formicinae",
+    "Oecophylla"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Formicoidea",
+    "Formicidae",
+    "Formicinae",
+    "Oecophyllini",
+    "Oecophylla",
+    "Oecophylla smaragdina"
+  ],
+  "sequence_length": 391,
+  "origin_sequence": "MKIPAIIATTLLLWGFADASKSYLLGSSASASASASASASAGGSTGGVGVGSVISGGNNIIRGASTTSVTLAAAAAEAKAALNAGKATVEEQREALQLLTASAEKNAEARSLADDAAVLVQGAAEAQSVAAAKTVAVEQGSNSLDAAAAEAEAAAAASRVSAQQALQAAQTSAAAIQTAAGSALTALKLARKQEAESNNAAEQANKALALSRAASAATQRAVAAQNAAAASAASAGAAQAEARNAYAKAKAAIAALTAAQRNYAAAKASASAGSVVAEQDAQSRAADAEVNAVAQAAARASVRNQEIVEIGAEFGNASGGVISTGTRSSGGKGVSVTAGAQASASASATSSSSSSSGINKGHPRWGHNWGLGSSEASANAEAESSASSYSS",
+  "partial_full": "full",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ABW21702"
+}

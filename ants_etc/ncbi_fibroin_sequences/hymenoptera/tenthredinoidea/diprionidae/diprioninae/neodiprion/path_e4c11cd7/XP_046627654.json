@@ -1,0 +1,36 @@
+{
+  "accession": "XP_046627654",
+  "title": "fibroin heavy chain-like isoform X1 [Neodiprion virginianus]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Neodiprion virginianus",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Tenthredinoidea",
+    "Diprionidae",
+    "Diprioninae",
+    "Neodiprion"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Tenthredinoidea",
+    "Diprionidae",
+    "Diprioninae",
+    "Neodiprion",
+    "Neodiprion virginianus"
+  ],
+  "sequence_length": 540,
+  "origin_sequence": "MRLLCDVVALFLIFCASDSAHTVPNQKNRGARSTVDNVLLLDKKTDDRLSIDLTDKRRNASIAFGDKEGEDEDERILVKPEEFRKTKKQPRTFLGPLSLNFKDKLNPKRGIIYDTRDSTGGGYTSGFSCCGSRYGSSMYPERPEYGYSESSGGGRYSFRPSGRPSDRYGTPSSSHPSDSSDGDRRPGGGGGGGGGGGGYGGSLGGSYPSRYGPPRGGYSGGSDGDRYNSDSHSVYGGSSSSSSTGSGGLYGRPSFSINGLGSYDPGHGTGYGGSGSSIGSGFGGGGSSSGHSGYGGIGSNDGGYGGSGPGSFGGSGSGGSGGGGYGGGGGGYSGYGGSGPFGFGSMDHGFGGGGGYGHGEGGMMPSQSAGGNIQTQKALALKALAGVALIGAAAALATNPVLLPLGIAHGRRRRSAADNFWNEHPLMLLKEYISQIPRNDIQKEDIIVLSRFLASRKCVARLACEVQREYFAELAQYKNINDRENSIYYNLEHRFLDLVQSNVLNNNYVNEQLKKEIKLALAIGAQEGRCEIFLCTLPKD",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_046627654"
+}

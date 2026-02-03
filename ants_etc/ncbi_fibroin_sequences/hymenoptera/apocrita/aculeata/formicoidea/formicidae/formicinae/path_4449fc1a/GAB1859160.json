@@ -1,0 +1,41 @@
+{
+  "accession": "GAB1859160",
+  "title": "Silk fibroin [Camponotus japonicus]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Camponotus japonicus",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Formicoidea",
+    "Formicidae",
+    "Formicinae",
+    "Camponotus"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Formicoidea",
+    "Formicidae",
+    "Formicinae",
+    "Camponotini",
+    "Camponotus",
+    "Camponotus japonicus"
+  ],
+  "sequence_length": 412,
+  "origin_sequence": "MKIPAILVTSLLAWGFASGGVLDSSAASSAQASASASSSSSAIGIGLHGKRLQGIWDKEENKFEGLDKKSLNAFPLKFGVKNGGLDVAKGAAVIESAISDVSTLTEQRSLQDLGLGVIANSAEILASSQAAASASAGAQANSLEEQAIAAIELADKAEYLAAIITTKAAKAAEATASAVARAEAAAAASKVSSEESAAEARSAALAEAKANAASIIANKANIGLAEAAAVLAATAAKAKDSALKSLQAAREAAKAQAEITEASAVALIAISKAKAAVGSAATDQAVCSSQAQAASQIQSRASASESAASAQSETNTAAANAVAIADAEAASQAEAWVESFKRDPWVPLNLKGEASAEAIAIGKGYHGSRSSADASASAEASSNVSLGRGYHGQKESVSEASAAASSSSSAAA",
+  "partial_full": "full",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/GAB1859160"
+}

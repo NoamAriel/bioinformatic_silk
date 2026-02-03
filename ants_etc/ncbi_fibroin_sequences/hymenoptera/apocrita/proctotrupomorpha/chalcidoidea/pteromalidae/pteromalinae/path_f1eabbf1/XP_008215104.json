@@ -1,0 +1,39 @@
+{
+  "accession": "XP_008215104",
+  "title": "fibroin heavy chain isoform X1 [Nasonia vitripennis]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Nasonia vitripennis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Proctotrupomorpha",
+    "Chalcidoidea",
+    "Pteromalidae",
+    "Pteromalinae",
+    "Nasonia"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Proctotrupomorpha",
+    "Chalcidoidea",
+    "Pteromalidae",
+    "Pteromalinae",
+    "Nasonia"
+  ],
+  "sequence_length": 769,
+  "origin_sequence": "MSYLKCLVPLVLLVLLGSASAKPGILGELINHHHQHHQPSLLDPLGLFHKGSGASSKADASASSSATNIQGGLNLGLIGFQGSISNANAQANANAGANGYGGGRGSANAQANANANANAYGGASVSANADANANAGSYGNGGYGQNYGPGYGQGGYNGGQSNANANAQANANANANTQGNTYAYGPTSGYYQNAGGDYNYAQQQPNFVDNNNLQQQSSGYANTQANANAQANANAQANANAQANAGGSGYVQQQSRPIGGGTLVIPIAVVEVPQKPHRQHHHHHHHHRNPPPPPPPRPAVYPPPPPPQRPPPPPQTSPVEIIVIEETRPVRGNGCSLQGCGQYKPTPNYGSNPFLSGGGHANAGANANANAGANAGAGGNNYYQGGAPQYQPGYNQGSGNAGANAGASANANVNAGANSGVGHQVYQPVQPVQPVRPVQPAPVIPQVNYGGANSQAAANANANANAGANSGAGHQVYQPVQPIQPVQPVQPAPVIPQVNYGGANGQAAANANANANAGANGGSGYQVYQPVQPAPVPAPVVQVPQVNYGGAGGQAGANANANANAGANSGAGGYTQPIKTQAPIGGYQVPSGGSYGNSGAKANAAANANANAAANTGSYGQGGSSGLYEVDDSQNGIILNQGPAAGYGSAGSGASANANANANANAGGSTGGFNVVPAVPSGGYGGSSANANSNANANGFASGSASANANANASSKGFGGANASASATANASAGSGGGFGLGGGFASKSSADASASASVDTRDMLIFTN",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_008215104"
+}

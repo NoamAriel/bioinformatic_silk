@@ -1,0 +1,41 @@
+{
+  "accession": "NP_001267830",
+  "title": "silk fibroin 2 precursor [Bombus terrestris]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Bombus terrestris",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Apoidea",
+    "Anthophila",
+    "Apidae",
+    "Bombus",
+    "Bombus"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Apoidea",
+    "Anthophila",
+    "Apidae",
+    "Bombus",
+    "Bombus"
+  ],
+  "sequence_length": 313,
+  "origin_sequence": "MKIPAILVTSLLVWGGLAEGHVVKRDKELKAPALPELLGDGSDTLGASMENGIKVARASQNVGLRTELNAAARAAAAAATKQAKDTEAAEAGAAAAIAIAIAKREEAIKASELASKLLTAAAGSSEAAVSATVRAAQLTAAASAAAKASASASEASAEAQVRANAEANIAKKASAAEAKAAAEAQVKAELAKKAAAGFLAKARLAASAESEATKLAAEAEVALAKARVAVDQSQSAQATATAQAATAVQLQSQAANAEASAVAQAETLLVTAEAVSAAEAEAATKATSWGEECHQREKVTFSEDRLNERQDNW",
+  "partial_full": "full",
+  "type": "fibroin 2",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/NP_001267830"
+}

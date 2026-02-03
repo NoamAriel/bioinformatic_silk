@@ -1,0 +1,36 @@
+{
+  "accession": "XP_046738129",
+  "title": "fibroin heavy chain-like [Diprion similis]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Diprion similis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Tenthredinoidea",
+    "Diprionidae",
+    "Diprioninae",
+    "Diprion"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Tenthredinoidea",
+    "Diprionidae",
+    "Diprioninae",
+    "Diprion",
+    "Diprion similis"
+  ],
+  "sequence_length": 200,
+  "origin_sequence": "MKAFIALLALISVTVATPRERRSLWGGAHGVAVGLAGPVLGGASVAGPHLGPASLAGPVVGPAHVSGAVAGPAHVSGSVAGPAVVTGSVAGPTWVDGGWDGAWGHGWNGVAGWAGAGYGLGAGHGAVLAGPAAHGAVLAGPVGHGAVISGPHSGAAAVSGPNAGSAVISGPSGTISTHGAGYGAGVHAGLAHGWAGHGHW",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_046738129"
+}

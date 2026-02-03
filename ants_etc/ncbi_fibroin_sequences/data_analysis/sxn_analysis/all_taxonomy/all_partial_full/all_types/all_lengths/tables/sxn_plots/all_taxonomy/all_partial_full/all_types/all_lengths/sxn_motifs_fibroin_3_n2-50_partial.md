@@ -1,0 +1,4 @@
+| organism | type | n | count_mean | count_sd | percent_mean | percent_sd | length_mean |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Apis andreniformis | fibroin 3 | 2 | 2.000 | 0.000 | 2.581 | 0.000 | 310.000 |
+| Apis florea | fibroin 3 | 2 | 2.000 | 0.000 | 2.589 | 0.000 | 309.000 |

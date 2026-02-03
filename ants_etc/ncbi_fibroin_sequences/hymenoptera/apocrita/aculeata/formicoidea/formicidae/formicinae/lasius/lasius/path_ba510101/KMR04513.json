@@ -1,0 +1,41 @@
+{
+  "accession": "KMR04513",
+  "title": "silk fibroin [Lasius niger]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Lasius niger",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Formicoidea",
+    "Formicidae",
+    "Formicinae",
+    "Lasius",
+    "Lasius"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Formicoidea",
+    "Formicidae",
+    "Formicinae",
+    "Lasius",
+    "Lasius"
+  ],
+  "sequence_length": 410,
+  "origin_sequence": "MKIPAILVTSLLAWGFASGGVLDSSAAASAQASASASAIGLGLHGKRPHGKLIWNNEEKKIHGIDGKSLNAPAIKVGVKNGGLDVAKGAAIIESAISDVSTLTEQRSRLDLGLGVIANSAEILASAQATTSANAGARANAAVKQAIELLEIADKAENLAAIVTTKAAKAAEATVSAIARATAAAEASKVSSEESAAEAKGAATSEAKANAASIIANKANAALAEAAAVLAATAAKAKESAMRSLQAARASAKAQAEITQAGARALVAIAKAKIAVARAAADQTVCTSQAQAASQIQSRASASESAASAQSETNTAAAEAVAAADAEAAAQAEAWLQSLKHDPWARLNLKGEAKANAAAISIGRGHHGIRSSAEASAEASSSVSLGGHRGRKESVTEALAGASAGSSAAAV",
+  "partial_full": "full",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KMR04513"
+}

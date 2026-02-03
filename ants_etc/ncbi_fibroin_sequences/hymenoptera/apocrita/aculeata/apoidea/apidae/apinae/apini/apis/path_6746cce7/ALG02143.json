@@ -1,0 +1,41 @@
+{
+  "accession": "ALG02143",
+  "title": "silk fibroin 3, partial [Apis andreniformis]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Apis andreniformis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Apoidea",
+    "Anthophila",
+    "Apidae",
+    "Apis"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Apoidea",
+    "Apidae",
+    "Apinae",
+    "Apini",
+    "Apis",
+    "Apis andreniformis"
+  ],
+  "sequence_length": 310,
+  "origin_sequence": "FKATEEVIGKNLEVDLLKNVDTSAKRRENGAPVLGKNVFKSLEKIKSLAGADAKASAVVKASALALAEAYLRASALSAAASAKAVAALKNAQQAQLVAQEKALAALKAQSEEEAASARANAAAAATQSAVERAQVSSRIATAAQNVASDLQKRVSTKAAAEAAATLRELQNAEQTKWSANAALEVSAAATAAETKTTASSEAATAAAKKAAAIASDADGAERSASTEAQSAAKIEGVAAAEGSANTASEDSQAAQLEASAAARANVAAAIGDGAILGLGQDAGAAAQLLAQAKALAEVSSKSENIEDKKF",
+  "partial_full": "partial",
+  "type": "fibroin 3",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ALG02143"
+}

@@ -1,0 +1,40 @@
+{
+  "accession": "XP_058798431",
+  "title": "fibroin heavy chain-like isoform X3 [Phymastichus coffea]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Phymastichus coffea",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Proctotrupomorpha",
+    "Chalcidoidea",
+    "Eulophidae",
+    "Tetrastichinae",
+    "Phymastichus"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Proctotrupomorpha",
+    "Chalcidoidea",
+    "Eulophidae",
+    "Tetrastichinae",
+    "Phymastichus",
+    "Phymastichus coffea"
+  ],
+  "sequence_length": 693,
+  "origin_sequence": "MSSFKFLVPLVLLVLLAVASAKPHNILGQILDNHRHHDSSILDPLGLFHKHPYGQSSANADASAHSEAHALQGGLNLGPISFGGSITSAKSDAHASANANGGQGGAGANAHATANANANVGSVGGNQNYRNYGPYGQDGQGFGPGGFGQSNSNAEAHAQAQAQAQTQAQGNANGYGPGFSPNYGPNYSGPTFNAGSGAKSQANAQAQANANSNTGGLVGAPGYGPNYGPDRFGPFYGGGPAQSQANAQAQADSQGPSCNQGCGQSAPTFSSSNPFLNAGSNAESSANAGASANANAQASGGSYQPAVTGPARPSYYGNPFLYNKSNTGAFSNAGSNTGANYVQPVQPAQPKQPVITVQPPVPQGYSQGGNSNANANAHANAGTSGIVKITIPLGGSEGSYGGFNTAGGHQGSLGSYTGSNNVIGAHQGSVGGFNANAAGGHQGSLGGFNSNSNTNVNANANAAANAAANAAANAGSVDGYNTNANAAGGHQGALDTFSNNNNNVGNHQGSIGGFNTIGGQQGSLGGFDSNANSNANANANANANTNTNANANANANANANAASAGGSGGLIVVDDTLNGNNANVFENGAAGANGNTGVFTAPLLPSYGRFDHAGSHADASANSNANAGGIGSGSASASANANASASSKGYGGANASASASATASAGIGGIFESKSSAGATSVADTRDGLIFSS",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_058798431"
+}

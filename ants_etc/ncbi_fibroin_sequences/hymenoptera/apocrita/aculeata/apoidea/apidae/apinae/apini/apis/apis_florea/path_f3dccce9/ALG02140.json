@@ -1,0 +1,41 @@
+{
+  "accession": "ALG02140",
+  "title": "silk fibroin 4, partial [Apis florea]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Apis florea",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Apoidea",
+    "Anthophila",
+    "Apidae",
+    "Apis"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Apoidea",
+    "Apidae",
+    "Apinae",
+    "Apini",
+    "Apis",
+    "Apis florea"
+  ],
+  "sequence_length": 331,
+  "origin_sequence": "VSLLIWGLASGASEEVEAREKTKASTAVKSEKVEVVVPAKDELKLTSEPIIGRRVGTGASEVASSTGEAIAISLGVGQAAAESQAVAALQSKTAANAAISASELANKVAALVVGATAAQARAATASSGALKASLATEESAEEAEAAVAAAKAAAEKAESLARNLASASARAALSSEKANELAQAESAAAAEAQAKTAAAAKAAEIALKVSEIAVKAEADAAAAAVAAAKARAVADAAAARAAAVNAIAKAEEEASAQAENTAGVSQAAASAAAESRAAAAAAAATSEAAAEAGSLAGELKPPQWKRVPVKKEEWQTSTKEEWKASNEEWEP",
+  "partial_full": "partial",
+  "type": "fibroin 4",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ALG02140"
+}

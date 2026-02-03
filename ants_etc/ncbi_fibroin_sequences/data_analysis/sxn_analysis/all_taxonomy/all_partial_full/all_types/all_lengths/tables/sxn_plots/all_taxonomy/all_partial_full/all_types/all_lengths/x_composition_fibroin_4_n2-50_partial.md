@@ -1,0 +1,4 @@
+| organism | type | x_A | x_G | x_S | x_E |
+| --- | --- | --- | --- | --- | --- |
+| Apis andreniformis | fibroin 4 | 50.000 | 16.667 | 16.667 | 16.667 |
+| Apis florea | fibroin 4 | 75.000 | 0.000 | 0.000 | 25.000 |

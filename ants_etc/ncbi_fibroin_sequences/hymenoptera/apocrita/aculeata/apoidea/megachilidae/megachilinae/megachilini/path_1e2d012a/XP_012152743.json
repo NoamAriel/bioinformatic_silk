@@ -1,0 +1,42 @@
+{
+  "accession": "XP_012152743",
+  "title": "silk fibroin 2 [Megachile rotundata]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Megachile rotundata",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Apoidea",
+    "Anthophila",
+    "Megachilidae",
+    "Megachilinae",
+    "Megachile"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Apoidea",
+    "Megachilidae",
+    "Megachilinae",
+    "Megachilini",
+    "Megachile",
+    "Megachile rotundata"
+  ],
+  "sequence_length": 312,
+  "origin_sequence": "MKIPALLVTSLLVWGLAEGRIIVGKGGEGLEKSVHVGSARLVGDGSDSSGVSVQNALNVVRAGETVGLNVDLSAAARTAASAAASQAADTENAEAGAKAATLMAIAKREQAIKLSEIARGKLTDAAKAAEALVSAARRAAELTAAAKAAAQASASAADAAAQAQVKANADSIIAKKAQAAEAQAAAEAAAKAEMAKKAAAILLAKAQNAAKEEAEATKLAAIAEVAISRARNAVEKAQGAQAAATSQASAAVRLEARAANAEADAVGRLEALLATSEAVAAGESQASAKASSEAKIITDQKSEVEDKGWKSD",
+  "partial_full": "full",
+  "type": "fibroin 2",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_012152743"
+}

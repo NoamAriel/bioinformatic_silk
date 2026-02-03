@@ -1,0 +1,92 @@
+| organism | type | fraction_mean | fraction_sd | length_mean | length_sd |
+| --- | --- | --- | --- | --- | --- |
+| Acromyrmex echinatior | heavy chain | 4.751 | 0.000 | 421.000 | 0.000 |
+| Anoplolepis gracilipes | fibroin 3 | 3.951 | 0.000 | 405.000 | 0.000 |
+| Anoplolepis gracilipes | fibroin 4 | 9.029 | 0.000 | 443.000 | 0.000 |
+| Aphidius gifuensis | heavy chain | 32.343 | 11.749 | 1637.400 | 550.660 |
+| Apis cerana cerana | fibroin 1 | 4.805 | 0.000 | 333.000 | 0.000 |
+| Apis dorsata | fibroin 1 | 4.805 | 0.000 | 333.000 | 0.000 |
+| Apis dorsata | fibroin 3 | 3.593 | 0.000 | 334.000 | 0.000 |
+| Apis dorsata | fibroin 4 | 3.704 | 0.000 | 324.000 | 0.000 |
+| Apis dorsata | heavy chain | 9.322 | 0.733 | 1001.500 | 68.496 |
+| Apis florea | heavy chain | 8.937 | 0.000 | 1119.000 | 0.000 |
+| Apis laboriosa | heavy chain | 8.325 | 0.701 | 1177.500 | 148.071 |
+| Apis mellifera | fibroin 1 | 4.805 | 0.000 | 333.000 | 0.000 |
+| Apis mellifera | fibroin 3 | 4.776 | 0.000 | 335.000 | 0.000 |
+| Apis mellifera | fibroin 4 | 4.678 | 0.000 | 342.000 | 0.000 |
+| Apis mellifera | heavy chain | 11.072 | 0.949 | 1361.200 | 135.496 |
+| Apis mellifera carnica | fibroin 1 | 4.805 | 0.000 | 333.000 | 0.000 |
+| Apis mellifera carnica | fibroin 3 | 4.776 | 0.000 | 335.000 | 0.000 |
+| Apis mellifera carnica | fibroin 4 | 4.678 | 0.000 | 342.000 | 0.000 |
+| Apis mellifera carnica | heavy chain | 11.119 | 0.000 | 1493.000 | 0.000 |
+| Apis mellifera caucasica | fibroin 1 | 4.805 | 0.000 | 333.000 | 0.000 |
+| Apis mellifera caucasica | fibroin 3 | 4.776 | 0.000 | 335.000 | 0.000 |
+| Apis mellifera caucasica | fibroin 4 | 4.678 | 0.000 | 342.000 | 0.000 |
+| Apis mellifera caucasica | heavy chain | 11.206 | 0.000 | 1517.000 | 0.000 |
+| Apis mellifera mellifera | fibroin 1 | 4.805 | 0.000 | 333.000 | 0.000 |
+| Athalia rosae | heavy chain | 6.667 | 0.000 | 420.000 | 0.000 |
+| Belonocnema kinseyi | heavy chain | 3.352 | 3.403 | 854.000 | 609.526 |
+| Bombus affinis | heavy chain | 9.967 | 1.851 | 1236.222 | 81.561 |
+| Bombus bifarius | heavy chain | 8.255 | 1.778 | 1062.000 | 342.600 |
+| Bombus fervidus | fibroin 1 | 8.563 | 0.000 | 327.000 | 0.000 |
+| Bombus flavifrons | heavy chain | 12.139 | 0.000 | 1384.000 | 0.000 |
+| Bombus huntii | heavy chain | 8.560 | 1.785 | 903.375 | 273.693 |
+| Bombus impatiens | heavy chain | 9.574 | 2.101 | 1178.667 | 257.030 |
+| Bombus pascuorum | heavy chain | 9.829 | 3.882 | 1150.429 | 359.104 |
+| Bombus pyrosoma | heavy chain | 9.049 | 1.440 | 1266.000 | 126.109 |
+| Bombus terrestris | Unknown_type | 5.825 | 2.326 | 332.250 | 18.355 |
+| Bombus terrestris | fibroin 1 | 8.563 | 0.000 | 327.000 | 0.000 |
+| Bombus terrestris | fibroin 2 | 3.237 | 0.059 | 309.000 | 5.657 |
+| Bombus terrestris | fibroin 3 | 4.819 | 0.000 | 332.000 | 0.000 |
+| Bombus terrestris | fibroin 4 | 6.723 | 0.000 | 357.000 | 0.000 |
+| Bombus terrestris | heavy chain | 8.614 | 2.758 | 1155.000 | 331.483 |
+| Bombus vancouverensis nearcticus | fibroin 1 | 11.009 | 0.000 | 327.000 | 0.000 |
+| Bombus vosnesenskii | heavy chain | 8.002 | 1.511 | 628.500 | 358.503 |
+| Camponotus japonicus | Unknown_type | 7.131 | 2.960 | 404.500 | 10.607 |
+| Cataglyphis hispanica | heavy chain | 10.526 | 0.000 | 1330.000 | 0.000 |
+| Cephus cinctus | heavy chain | 11.296 | 1.791 | 368.500 | 41.719 |
+| Ceratina calcarata | heavy chain | 4.600 | 1.401 | 840.750 | 353.642 |
+| Ceratosolen solmsi marchali | heavy chain | 9.955 | 0.096 | 442.000 | 4.243 |
+| Chelonus insularis | heavy chain | 5.079 | 0.023 | 157.500 | 0.707 |
+| Cotesia glomerata | heavy chain | 32.818 | 3.617 | 941.500 | 107.114 |
+| Diachasmimorpha longicaudata | heavy chain | 25.743 | 13.464 | 1114.905 | 493.416 |
+| Dinoponera quadriceps | heavy chain | 8.348 | 0.000 | 551.000 | 0.000 |
+| Diprion similis | heavy chain | 2.000 | 0.000 | 200.000 | 0.000 |
+| Eufriesea mexicana | heavy chain | 4.386 | 0.002 | 1322.500 | 0.707 |
+| Fopius arisanus | heavy chain | 41.837 | 0.000 | 392.000 | 0.000 |
+| Frieseomelitta varia | heavy chain | 9.809 | 0.971 | 1099.385 | 245.377 |
+| Habropoda laboriosa | heavy chain | 5.414 | 0.467 | 1113.500 | 113.409 |
+| Lasius niger | Unknown_type | 5.370 | 2.930 | 412.500 | 16.052 |
+| Lasius niger | heavy chain | 3.333 | 0.000 | 240.000 | 0.000 |
+| Leptopilina boulardi | heavy chain | 0.193 | 0.015 | 2087.444 | 161.795 |
+| Megachile rotundata | fibroin 2 | 2.564 | 0.000 | 312.000 | 0.000 |
+| Megachile rotundata | fibroin 3 | 5.671 | 0.000 | 1199.000 | 0.000 |
+| Megachile rotundata | fibroin 4 | 5.319 | 0.000 | 376.000 | 0.000 |
+| Microplitis demolitor | heavy chain | 59.046 | 0.000 | 1006.000 | 0.000 |
+| Microplitis mediator | heavy chain | 21.607 | 20.155 | 734.250 | 496.517 |
+| Mycetomoellerius zeteki | heavy chain | 2.759 | 0.000 | 290.000 | 0.000 |
+| Myrmecia forficata | Unknown_type | 7.998 | 1.990 | 417.000 | 19.715 |
+| Nasonia vitripennis | heavy chain | 5.555 | 0.868 | 692.500 | 108.187 |
+| Neodiprion fabricii | heavy chain | 9.923 | 0.000 | 907.000 | 0.000 |
+| Neodiprion lecontei | heavy chain | 10.341 | 0.000 | 909.000 | 0.000 |
+| Neodiprion pinetum | heavy chain | 0.893 | 0.000 | 448.000 | 0.000 |
+| Neodiprion virginianus | heavy chain | 7.069 | 4.448 | 550.333 | 355.613 |
+| Oecophylla smaragdina | Unknown_type | 11.683 | 0.938 | 407.250 | 24.116 |
+| Osmia bicornis bicornis | heavy chain | 7.155 | 0.741 | 996.667 | 332.197 |
+| Osmia lignaria lignaria | fibroin 2 | 5.000 | 0.000 | 320.000 | 0.000 |
+| Osmia lignaria lignaria | fibroin 3 | 2.360 | 0.000 | 339.000 | 0.000 |
+| Osmia lignaria lignaria | fibroin 4 | 5.618 | 0.000 | 356.000 | 0.000 |
+| Phymastichus coffea | Unknown_type | 4.193 | 0.095 | 811.000 | 18.385 |
+| Phymastichus coffea | heavy chain | 4.906 | 0.000 | 693.000 | 0.000 |
+| Polistes canadensis | heavy chain | 3.597 | 0.000 | 556.000 | 0.000 |
+| Polistes fuscatus | heavy chain | 12.397 | 6.103 | 833.333 | 556.473 |
+| Polyergus mexicanus | fibroin 1 | 3.023 | 0.000 | 397.000 | 0.000 |
+| Polyrhachis lamellidens | Unknown_type | 9.346 | 2.611 | 405.500 | 7.778 |
+| Prorops nasuta | heavy chain | 0.714 | 0.000 | 5606.000 | 0.000 |
+| Trichogramma pretiosum | heavy chain | 7.719 | 0.000 | 285.000 | 0.000 |
+| Vespa mandarinia | heavy chain | 10.155 | 0.000 | 709.000 | 0.000 |
+| Vespa velutina | heavy chain | 16.125 | 0.000 | 831.000 | 0.000 |
+| Vespula maculifrons | heavy chain | 7.622 | 4.862 | 228.000 | 15.556 |
+| Vespula pensylvanica | heavy chain | 11.579 | 0.000 | 380.000 | 0.000 |
+| Vespula squamosa | heavy chain | 1.533 | 0.000 | 261.000 | 0.000 |
+| Vespula vulgaris | heavy chain | 10.180 | 2.264 | 698.471 | 78.556 |

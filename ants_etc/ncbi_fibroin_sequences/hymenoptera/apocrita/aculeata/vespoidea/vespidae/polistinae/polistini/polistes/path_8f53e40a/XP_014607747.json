@@ -1,0 +1,42 @@
+{
+  "accession": "XP_014607747",
+  "title": "PREDICTED: fibroin heavy chain-like [Polistes canadensis]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Polistes canadensis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Vespoidea",
+    "Vespidae",
+    "Polistinae",
+    "Polistini",
+    "Polistes"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Vespoidea",
+    "Vespidae",
+    "Polistinae",
+    "Polistini",
+    "Polistes",
+    "Polistes canadensis"
+  ],
+  "sequence_length": 556,
+  "origin_sequence": "MKLFASSLLFLAASAAANSILPGPTPSPVKTAKPGGPAIGAGVGAGASVGVSAKNNIGSGLSISNRVGSSSRVGIRAGRNIGSNAGIGSLAGYGASIGANAGNNIGSGLGIASEVGKSGKVAATAKRNIGNNLGIGYNAASKANLGATAGKDIGGNLGIGNSVGENSNVGASAGKNIGSGLGIGNDVAQQSNIGLSAGRNIGSNVGIGSNVGKGATVGGSAGGNIGPNAGIGNNVGRGSNIGASAEKNIGDNLGVGSNVGQNSNVGVSAGNNIGYGLGIGNGVGASANVAASAGKNVGKGVNVGANVGAGASLGASAGNSIGSGAGIGIGVGSGSSIDVSAGENVAADDDIISVPIIPPRPRLPLPIPRPRPRPSSSSAAPTTASSAAPSQPSSAQPSNPSSGGAGVGVGVGLGVGVGNEGGVGAGLGVGMLLEHSAVAEIGAGVGVGADVGVGSLVDVGAGVGVGVDEDLGDVLEGVEADVGMNARVNTEIGARKGVEEDTAMSPFPDKPLLTHLLYPHILISIPYPYPSSIKTSNIEYTSSEQLSKSTWGVYTT",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_014607747"
+}

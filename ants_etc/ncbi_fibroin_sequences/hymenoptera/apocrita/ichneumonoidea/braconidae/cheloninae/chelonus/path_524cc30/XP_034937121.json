@@ -1,0 +1,38 @@
+{
+  "accession": "XP_034937121",
+  "title": "fibroin heavy chain-like isoform X2 [Chelonus insularis]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Chelonus insularis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Ichneumonoidea",
+    "Braconidae",
+    "Cheloninae",
+    "Chelonus"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Ichneumonoidea",
+    "Braconidae",
+    "Cheloninae",
+    "Chelonus",
+    "Chelonus insularis"
+  ],
+  "sequence_length": 157,
+  "origin_sequence": "MYKIVSFLAVCVSVVASAPSGLLYGHGVGLAGPVLGAAGLAGPAVGPAALSGPVAGPARISGAVDGGAVVTGSVAGPSVVSGSVVGGTAVVEPGYGYGLGYGWNGLAHGAHGAVLAGPVLGHAAISGPAALPAVVAGPSGSIVAGGGYGHGHRWWGH",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_034937121"
+}

@@ -1,0 +1,14 @@
+| organism | type | n | count_mean | count_sd | percent_mean | percent_sd | length_mean |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Polyergus mexicanus | fibroin 1 | 4 | 1.000 | 0.000 | 2.015 | 0.000 | 397.000 |
+| Polyergus mexicanus | fibroin 1 | 2 | 1.000 | 0.000 | 1.008 | 0.000 | 397.000 |
+| Bombus vancouverensis nearcticus | fibroin 1 | 4 | 1.000 | 0.000 | 2.446 | 0.000 | 327.000 |
+| Bombus vancouverensis nearcticus | fibroin 1 | 2 | 7.000 | 0.000 | 8.563 | 0.000 | 327.000 |
+| Bombus terrestris | fibroin 1 | 2 | 7.000 | 0.000 | 8.563 | 0.000 | 327.000 |
+| Apis mellifera carnica | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |
+| Apis mellifera caucasica | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |
+| Apis mellifera mellifera | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |
+| Apis cerana cerana | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |
+| Bombus fervidus | fibroin 1 | 2 | 7.000 | 0.000 | 8.563 | 0.000 | 327.000 |
+| Apis dorsata | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |
+| Apis mellifera | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |

@@ -1,0 +1,40 @@
+{
+  "accession": "XP_050845658",
+  "title": "fibroin heavy chain-like isoform X16 [Vespula vulgaris]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Vespula vulgaris",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Vespoidea",
+    "Vespidae",
+    "Vespinae",
+    "Vespula"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Vespoidea",
+    "Vespidae",
+    "Vespinae",
+    "Vespula",
+    "Vespula vulgaris"
+  ],
+  "sequence_length": 745,
+  "origin_sequence": "MKVIAFSLLYIVASTTAFSINSSFKTSAALKGGSIISKIPSPGIIGAIGVSQSGGAAAGLSSNAGSSAGAGAAAGAGVGAGAGAGSNAGSGLGAGSNAGAGSNAGSGAGAGPNAGSGAAAGSNAGSNVGSSIAAGIAAGAAAAAGAGSNAGAGPNAGSNAGAGPNAGSNLGSSIAAGIAAGAAAGAGSNAGSNAGAGSNAGSNAGAGPNAGSNAGAGPNAGSAAGAGSNAGSDAGADPNAGSSVGSGIAAGESAGAAAGAGAGPNAGSAVGAGESAGAAAGAGAGPNAGSAVGAGESAGAAAGAGAGPNAGSAVGAGESAAAGAGSNAGSGVGEEGAEEPSSEQPTEAPSSSEQSSEAPSSSEQPCEEPSSSEQPSEAPSSSEQPSEAPSSSEQPCEEPSSSEQPSEAPSSSEQPSEAPSSSEQPSSASPSGSGVGAGVGAGVGAGVGAGAGSGAGAGAGAGAGVGAGVGSGAGAGAGAGAGVGAGAGPGAGAGAGAGAGVGAGVGSEEPSSEQPTEAPSSSEQPTEAPSSSEQPSEAPSSSEQPCEEPSSSEQPSEAPSSSEQPSEAPSSSEQPCEDPSSSEQPSEAPSSSEQPSSASPSGSGVGAGVGAGVGAGVGAGVGAGAGSGAGAGAGAGAGVGAGVGAGVGAGAGAGAGAGLHVGVGAGAGAGAGAGAGAGAGAGLHVGVGAGLGAGVGAGLGVGVGAGVGGKVGAGVGAGLGGKVAAGISNLAARINGGAGGRIRVF",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845658"
+}

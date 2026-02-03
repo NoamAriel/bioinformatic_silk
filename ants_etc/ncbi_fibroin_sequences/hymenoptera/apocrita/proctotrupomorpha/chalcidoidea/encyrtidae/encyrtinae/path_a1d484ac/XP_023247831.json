@@ -1,0 +1,39 @@
+{
+  "accession": "XP_023247831",
+  "title": "fibroin heavy chain-like, partial [Copidosoma floridanum]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Copidosoma floridanum",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Proctotrupomorpha",
+    "Chalcidoidea",
+    "Encyrtidae",
+    "Encyrtinae",
+    "Copidosoma"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Proctotrupomorpha",
+    "Chalcidoidea",
+    "Encyrtidae",
+    "Encyrtinae",
+    "Copidosoma"
+  ],
+  "sequence_length": 657,
+  "origin_sequence": "MKSGLVLLVLAAVVASATAGKLLGINLGVDADIALGVGTGVQDTKSSVLGIDINLGSKKSVNANDYKNIGVGGGSNLGNNKKGGLLDLGVNVGPSVNVGTGKTAIYTESTHKRGHTGLLDLGVNLGLDKSINTNVDKTIGIGGGSNLGHNKKGGLLDLGVNVGPSVNVGTGKTAIYTESTHKRGHTGLLDLGVNLGLDKSINTNVDKTIGIGGGSNLGHNKKGGLLDLGVNVGPSVNVGTGKTAIYTESTHKRGHTGLLDLGVNLGLDKSINTNVDKTIGIGGGSNLGHNKKGGLLDLGVNVGPSVNVGTGKTAIYTESTHKRGHTGLLDLGVNLGLDKSINTNVDKTIGIGGGSNLGHNKKGGLLDLGVNVGPSVNVGTGKTAIYTESTHKRGHTGLLDLGVNLGLDKSINTNVDKTIGIGGGSNLGHNKKGGLLDLGVNVGPSVNVGTGKTAIYTESTHKRGHTGLLDLGVNLGLDKSINTNVDKTIGIGGGSNLGHNKKGGLLDLGVNVGPSVNVGTGKTAIYTESTHKRGHTGLLDLGVNLGLDKSINTNVDKTIGIGGGSNLGHNKKGGLLDLGVNVGPSVNVGTGKTAIYTESTHKRGHTGLLDFAVNLGSVKSIDLDSKKNVGFAGVKIPSHCGKDGLQSVGVNIDLDAQ",
+  "partial_full": "partial",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_023247831"
+}

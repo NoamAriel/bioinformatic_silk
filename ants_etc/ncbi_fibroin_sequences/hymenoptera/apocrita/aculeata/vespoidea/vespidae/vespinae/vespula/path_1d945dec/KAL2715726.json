@@ -1,0 +1,40 @@
+{
+  "accession": "KAL2715726",
+  "title": "fibroin heavy chain-like [Vespula squamosa]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Vespula squamosa",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Vespoidea",
+    "Vespidae",
+    "Vespinae",
+    "Vespula"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Aculeata",
+    "Vespoidea",
+    "Vespidae",
+    "Vespinae",
+    "Vespula",
+    "Vespula squamosa"
+  ],
+  "sequence_length": 261,
+  "origin_sequence": "MTGNVSLTINIDHVQSWCSSDEHESTNFRARFLVLWIKSRINATPPIKRYTQRSELGKMKALLAIVLVLCTYAIGSPVSRQRREIYAGYGHGYHGGYPGHGVALAGPLLGHTTSGPVHVSGAVAGPAVVTASVAGPAYVEGYNGPYDGGYYNSPSLAGYGYKASPGYVGYAGHAGYAGYAGYAGHVGHAGHGVVLAGPASHGAVVSGPHAGGSAVAGPHAGSVIIAGPSGKITAHGAGYGGVHAGLHNHGYLCRTDDTRMH",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAL2715726"
+}

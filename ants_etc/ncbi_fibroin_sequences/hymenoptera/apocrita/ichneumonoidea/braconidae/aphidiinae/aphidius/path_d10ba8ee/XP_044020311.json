@@ -1,0 +1,38 @@
+{
+  "accession": "XP_044020311",
+  "title": "fibroin heavy chain-like isoform X1 [Aphidius gifuensis]",
+  "family_query": "Hymenoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Aphidius gifuensis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Hymenoptera",
+    "Apocrita",
+    "Ichneumonoidea",
+    "Braconidae",
+    "Aphidiinae",
+    "Aphidius"
+  ],
+  "taxonomy_from_order": [
+    "Hymenoptera",
+    "Apocrita",
+    "Ichneumonoidea",
+    "Braconidae",
+    "Aphidiinae",
+    "Aphidius",
+    "Aphidius gifuensis"
+  ],
+  "sequence_length": 671,
+  "origin_sequence": "MARFSLFFITLSVVCFFATVIAHPIDCDDDTISPVSSAASSSQSSSNSASSANSSSGSNPTDCDDSETNSGSNASSNSASSSSSDSSSNAGSNAGSSAGSNAGSNAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSSAGSNAGSNAGSNAGSSAGSNAGSNAGSNAGSNAGSNAGSNAGSNAGSNAGSNAGSKTGSLINVGAKVLSKSGAGSHAISGAGSKAGSLVNVGAKVLSGSGAGSKAGSLVNVGAKVLSGSGAGSHAVSGAGSKAGSLVNVGAKVLSGSGAGSKAGSLVNVGAKVLSGSGAGSHAASGAGSKAGSLVNVGAKVLSGSGAGSKAGSLVNVGAKVLSGSGAGSHAGSGAGSKAGSLVNVGAKVLSGSGAGSHAASGAGSKAGSLVNVGAKVLSGSGAGSHAASGAGSKAGSLVNVGAKVLSGSGAGSHTASGAGSKAGSLVNVGLGVLGSATHHHADC",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044020311"
+}
