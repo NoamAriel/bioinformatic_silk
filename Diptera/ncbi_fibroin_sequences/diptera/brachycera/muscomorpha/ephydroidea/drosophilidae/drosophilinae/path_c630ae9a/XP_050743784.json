@@ -1,0 +1,42 @@
+{
+  "accession": "XP_050743784",
+  "title": "fibroin heavy chain [Drosophila biarmipes]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Drosophila biarmipes",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophila",
+    "Sophophora"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophilinae",
+    "Drosophilini",
+    "Drosophila",
+    "Sophophora",
+    "Drosophila biarmipes"
+  ],
+  "sequence_length": 353,
+  "origin_sequence": "MKFLPVVAVIVLCAAAAQAGTGHPQLVRLHQVTREEYNELLRLTQGKEEVSEARLLSSSIAGIKGLASGFAAGNFIPAIFNSGSKEPKKGRPLCVISANDFDNDDDEGRRLGRVVSIEYEPNSDSSSSSSSGSGHGGGHGSSSGHGSGHESGHGSGHGSGHGSGHGSGSDEDDEVNTVNCILIVNGTDTNTKPKPDHGHGHGSGSGSGHGSGHGSGHGSGPKPAPYYPPPPPYYAPYYGYPPYYPPYPYPPPPPPPPPPTKYSLFSGLKRSFNDEEEDAGRLIKAYNGLYYLPHGYPLRIGKYSKVSQETPAYQPASYPKQEYANTYPKVVRNYGLTHPAPVYVRSPQFEQEN",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050743784"
+}

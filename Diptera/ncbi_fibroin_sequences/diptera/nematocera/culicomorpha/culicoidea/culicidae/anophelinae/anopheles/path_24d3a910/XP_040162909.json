@@ -1,0 +1,40 @@
+{
+  "accession": "XP_040162909",
+  "title": "fibroin heavy chain isoform X2 [Anopheles arabiensis]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Anopheles arabiensis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Anophelinae",
+    "Anopheles"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Nematocera",
+    "Culicomorpha",
+    "Culicoidea",
+    "Culicidae",
+    "Anophelinae",
+    "Anopheles",
+    "Cellia",
+    "Anopheles arabiensis"
+  ],
+  "sequence_length": 271,
+  "origin_sequence": "MKFLVLCTLVAGAAAGYSASTYRDGKATGYNGGYTTHFSGPNGAGVAVGTGTGSFAPGFAGFPGPTVDFNNFFQGIQANFANSLTQSYSEPRATASASSSLLDPAWRKPTYQQHNLYQQQFALQQALFQQQQAAFNGGFGGAGFGGAGFAGAGAGTGFGGFPVYGANFASAPNYIQNRFPAGNFNGASSTASFGPGGFHQTAAVYPGNPAVPNVDTRFGGSEQATSFQSGKPGFVGVSSFSSSSNINGQTHREAVTTVNDNGKVTTHRVHS",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_040162909"
+}

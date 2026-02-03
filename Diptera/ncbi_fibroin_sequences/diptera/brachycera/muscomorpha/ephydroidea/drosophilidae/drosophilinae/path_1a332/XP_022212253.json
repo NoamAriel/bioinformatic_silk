@@ -1,0 +1,42 @@
+{
+  "accession": "XP_022212253",
+  "title": "fibroin heavy chain [Drosophila obscura]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Drosophila obscura",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophila",
+    "Sophophora"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophilinae",
+    "Drosophilini",
+    "Drosophila",
+    "Sophophora",
+    "Drosophila obscura"
+  ],
+  "sequence_length": 622,
+  "origin_sequence": "MLQLQLQLHLLWFLCALLAHIAVPASAEIEYNTINEDGSFQFRHANDDIGGYYHSASGTPDNTVRGRYGSRSPASGQIEETVYTAGPRGFRVNGPKIHRKMDLAQYPVRPRGSPDDPLADPFDDPSYSFSFRTPDQSRSEENDSGNRIRGLYSYLDDVGERHSVRYAAGAGTGFEISNAVPDNPSSVAYSSPLYKAPPRTRGKMSVQRGPAGSYKLIAAGPDHRRAESRAPDGLVRGTYSFLDDKGVQRTVEYIAGAGIGYRVVHNRIGPGTHINPSVADFRLADTDFRLANDFGRGAGGALGVASGSAARGSGSGPSGAGVGGGRGQTGSRTGATDYLQPSGGSRDDGEGVDGNGNGAAENDLGPVDNGGGNLDEEDIGLSSSSGGSSSFRGKEDRRGYAAGGGSSQRGSTTYDAAERERGGAIGGRGGTRTGGGSSAGGGGAATRQRGGGSTRINASGTRNQNRFSNRGGSSERGGAGGGGSTRRGGSASGEGDSSLGYLPPPTGGSGGGGGGGTGSAISGPGDNYNLNDDDVGSSLPPLVTANHRILEIDREREWVQRHRDSTVIKNVGKWYVGLPPGQSVRAHVQNIDIVPLGGRVGLSPSEALRQDEIADLAASREH",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_022212253"
+}

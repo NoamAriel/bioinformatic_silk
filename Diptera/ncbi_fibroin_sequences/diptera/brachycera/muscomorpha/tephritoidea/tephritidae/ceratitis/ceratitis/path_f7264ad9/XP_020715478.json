@@ -1,0 +1,39 @@
+{
+  "accession": "XP_020715478",
+  "title": "fibroin heavy chain [Ceratitis capitata]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Ceratitis capitata",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Tephritoidea",
+    "Tephritidae",
+    "Ceratitis",
+    "Ceratitis"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Tephritoidea",
+    "Tephritidae",
+    "Ceratitis",
+    "Ceratitis"
+  ],
+  "sequence_length": 247,
+  "origin_sequence": "MKLFLALFALVASTAADVSHLSREYLPPVQHDHHAQHGGAAATHFGSISGSSAGASAGPSGTVTYTSQQHSFDYGQQAVAAAAPAAEEPAVSEPVAPADDGPAVAYGSYDAGDQQQYQFVPEAQQQVDAGVGGGNAGVVGADGGSGVVDVADGAFSGSYDLGAQDAGVQDVADNSLSDSYGNSVAHVSLAAAQGPTIRAPQPAVSHVASHDAVAEYVGAGAGAGFGGSVSGSSGLDTQYGSNGGYIY",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_020715478"
+}

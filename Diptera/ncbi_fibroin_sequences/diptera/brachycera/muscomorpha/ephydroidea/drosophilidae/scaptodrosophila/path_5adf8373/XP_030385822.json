@@ -1,0 +1,37 @@
+{
+  "accession": "XP_030385822",
+  "title": "fibroin heavy chain [Scaptodrosophila lebanonensis]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Scaptodrosophila lebanonensis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Scaptodrosophila"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Scaptodrosophila"
+  ],
+  "sequence_length": 514,
+  "origin_sequence": "MDLAQYPVRPRGSPDDPLADPYDDPSYSFSFRTPDQSRSEENDATNRIRGLYSYLDDVGERHSVRYAAGAGTGFEISNAVPDNPSSVGYSNPLYKAHPATRGKMSVQRGPAGSYKLIAAGPDHRRAESRGTDGLVRGTYSFLDDKGVQRTVEYIAGAGIGYRVVKNRVGPGTHVNPSVADFRLTDTDFRLANDFGRGAGGGLAGGAGGGSAFGGSGGGSGPSGGGGGGRIGGSGSGSGPGASRTRGGGAGAGGGGGASRGSTTDYLKPAETTRDEAPSDGDAFQDGLGTVDNSIGGGDDDSNYGGGGGGGVAAGSGQRGRTRYEGGGSGGSRGGADGGGYGGTNGRGGPKNRPGTRTGSGANRNTVSGTRNRNRYGGSGGTRRGGGGGGGDSNGAASGESESGYGYLPPAGGTGSGPADNYNLNDDDVGGSLPPLVTANHRILEIDRDREWVQRHRDSTVIKNVGKWYVGLPPGHSVRAHVQNIDIVPLGGRILSPSEALRQDEIAELAASREH",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_030385822"
+}

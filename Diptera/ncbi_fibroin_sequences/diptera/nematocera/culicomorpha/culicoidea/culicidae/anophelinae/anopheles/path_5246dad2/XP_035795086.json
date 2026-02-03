@@ -1,0 +1,40 @@
+{
+  "accession": "XP_035795086",
+  "title": "fibroin heavy chain-like [Anopheles albimanus]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Anopheles albimanus",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Anophelinae",
+    "Anopheles"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Nematocera",
+    "Culicomorpha",
+    "Culicoidea",
+    "Culicidae",
+    "Anophelinae",
+    "Anopheles",
+    "Nyssorhynchus",
+    "Anopheles albimanus"
+  ],
+  "sequence_length": 383,
+  "origin_sequence": "MRSFVVFAACLALAAADIGLKLRQAAEARASSYDVGQQSVSLDYAPTLFQDTVAGGATGAAELRSGSFGGSASGASAGATAYGGAAAGSFGGSNADYQAGYEAGLRAGASASASAGASAGATDSRFGGFGGSFSGAAANAGASAGASAGASASAAAKTNVRYAAPVIQKHFYYHAAPEEPQAAAEADSLTITPRKHYKIIFIKAPTVSANAGAASRAASQTEEKTIVYVLVNKPAQAQAGAVADASSFSSGKPEVYFIKYQGKDAAQAIANAQANSFAGADAGAGAASFADAGANAASYADSGAFGGAGGFGGASALSGASASANAASLAGASAYDQFDVRSDALAGAGAGEFGGSGVGAGAAANAAASAGATANDLQDTVVY",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_035795086"
+}

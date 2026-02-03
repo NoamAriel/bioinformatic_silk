@@ -1,0 +1,40 @@
+{
+  "accession": "XP_061518800",
+  "title": "fibroin heavy chain isoform X1 [Anopheles gambiae]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Anopheles gambiae",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Anophelinae",
+    "Anopheles"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Nematocera",
+    "Culicomorpha",
+    "Culicoidea",
+    "Culicidae",
+    "Anophelinae",
+    "Anopheles",
+    "Cellia",
+    "Anopheles gambiae"
+  ],
+  "sequence_length": 292,
+  "origin_sequence": "MKFLVLCTLVAGAAAGYSASTYRDGKATGLYNQVPAGVDYADKFPHGNTGYNGGYTTHFSGPNGAGVAVGTGTGSFAPGFAGFPGPTVDFNNFFQGIQANFANSMTQSYSEPGATASASSSLLDPAWRKPTYQQHNLYQQQFALQQALFQQQQAAFNGGFGGAGFGGAGFAGAGAGTGFGGFPVYGANFASAPNYIQNRFPAGNFNGASSSASFGPGGFHQTAAVYPGNPAVPNVDTRFGGSEQATSFQSGKPGFVGVSSFSSSSNINGQTHREAVTTVNDNGKVTTHRVHS",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_061518800"
+}

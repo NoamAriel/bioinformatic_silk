@@ -1,0 +1,41 @@
+{
+  "accession": "XP_055545042",
+  "title": "fibroin heavy chain-like isoform X1 [Wyeomyia smithii]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Wyeomyia smithii",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Culicinae",
+    "Sabethini",
+    "Wyeomyia"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Nematocera",
+    "Culicomorpha",
+    "Culicoidea",
+    "Culicidae",
+    "Culicinae",
+    "Sabethini",
+    "Wyeomyia",
+    "Wyeomyia smithii"
+  ],
+  "sequence_length": 551,
+  "origin_sequence": "MKFVILLAILGCAYVQSQDARFNDGKYYPELYIGKFNDGKYRPDYSGAYRADDLGRYGGKYVGLGGQAVRGGGIGERGSAAFGAGVGSGFGVGAGGGSGSGAGFVSGSGSGFRSGSSVGRVSELSSVSDAASHFGSDASFVSGSDAASQIGSESAFASGSDAASKLASGSVNAFGVGVGSAVGGGFSSATRTSQFGSGLSITRGLGAASKLALGSVNAFEVGAGSGIGGEFSSVTRTSQSGSKSAFTGGGGFSSATRTSQFGSGSSVTRGSGAASKFSSGSADVLGVGAGSGVGGGFPSASKTSKFSSGSTFTGGVEAASKLASGSANGVGSGKGGGFTSATKIPQFGSGSGLVSGSGAASQFASESANAGVRSGIGEGFSAATRTSKFGSKSGFASGSGAASHFGSGSAFASGSGAASKFASGSVGGFGPRSGGFSSADRTTGSGSVYNGSIKEQAEEINQDGYYYRYVTDDETQVAETGRTDGTTLTAKGYYQFVAPDGVMYRVDYVADKNGFAPSGAHLPVAPKIPEQILRSLEYTRRVQHSGHFSQF",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_055545042"
+}

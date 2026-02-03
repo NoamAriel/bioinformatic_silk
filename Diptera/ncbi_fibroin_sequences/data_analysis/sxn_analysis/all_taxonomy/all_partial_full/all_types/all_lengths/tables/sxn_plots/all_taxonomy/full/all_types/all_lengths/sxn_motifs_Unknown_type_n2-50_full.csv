@@ -1,0 +1,8 @@
+organism,type,n,count_mean,count_sd,percent_mean,percent_sd,length_mean
+Uranotaenia lowii,Unknown_type,3,1.000,0.000,2.086,0.078,288.000
+Uranotaenia lowii,Unknown_type,2,2.000,0.000,2.781,0.104,288.000
+Wyeomyia smithii,Unknown_type,3,1.000,0.000,1.029,0.000,583.000
+Wyeomyia smithii,Unknown_type,2,12.000,0.000,8.233,0.000,583.000
+Culex quinquefasciatus,Unknown_type,2,2.000,0.000,7.080,0.000,113.000
+Anopheles coluzzii,Unknown_type,3,1.000,0.000,0.378,0.013,1588.800
+Anopheles coluzzii,Unknown_type,2,8.000,0.000,2.016,0.068,1588.800

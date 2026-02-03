@@ -1,0 +1,17 @@
+| organism | type | n | count_mean | count_sd | percent_mean | percent_sd | length_mean |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Rhagoletis pomonella | heavy chain | 6 | 1.000 | 0.000 | 1.306 | 0.000 | 919.000 |
+| Rhagoletis pomonella | heavy chain | 5 | 1.000 | 0.000 | 1.088 | 0.000 | 919.000 |
+| Rhagoletis pomonella | heavy chain | 3 | 2.000 | 0.000 | 1.306 | 0.000 | 919.000 |
+| Rhagoletis pomonella | heavy chain | 2 | 4.333 | 5.774 | 2.256 | 2.193 | 575.667 |
+| Musca vetustissima | heavy chain | 6 | 1.000 | 0.000 | 0.704 | 0.000 | 1704.000 |
+| Musca vetustissima | heavy chain | 3 | 4.000 | 0.000 | 1.408 | 0.000 | 1704.000 |
+| Musca vetustissima | heavy chain | 2 | 24.000 | 0.000 | 5.634 | 0.000 | 1704.000 |
+| Drosophila guanche | heavy chain | 3 | 1.000 | 0.000 | 1.858 | 0.000 | 323.000 |
+| Drosophila guanche | heavy chain | 2 | 2.000 | 0.000 | 2.477 | 0.000 | 323.000 |
+| Drosophila navojoa | heavy chain | 3 | 1.000 | 0.000 | 1.285 | 0.000 | 467.000 |
+| Drosophila navojoa | heavy chain | 2 | 3.000 | 0.000 | 2.570 | 0.000 | 467.000 |
+| Teleopsis dalmanni | heavy chain | 6 | 1.000 | 0.000 | 1.042 | 0.000 | 1152.000 |
+| Teleopsis dalmanni | heavy chain | 5 | 1.000 | 0.000 | 0.868 | 0.000 | 1152.000 |
+| Teleopsis dalmanni | heavy chain | 3 | 17.000 | 0.000 | 8.854 | 0.000 | 1152.000 |
+| Teleopsis dalmanni | heavy chain | 2 | 52.000 | 0.000 | 18.056 | 0.000 | 1152.000 |

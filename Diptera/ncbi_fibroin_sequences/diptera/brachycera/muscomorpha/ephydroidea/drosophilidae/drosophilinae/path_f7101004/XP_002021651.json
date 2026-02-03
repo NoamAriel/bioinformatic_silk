@@ -1,0 +1,42 @@
+{
+  "accession": "XP_002021651",
+  "title": "fibroin heavy chain [Drosophila persimilis]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Drosophila persimilis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophila",
+    "Sophophora"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophilinae",
+    "Drosophilini",
+    "Drosophila",
+    "Sophophora",
+    "Drosophila persimilis"
+  ],
+  "sequence_length": 831,
+  "origin_sequence": "MALEGFRAVLSVCCVSLASAGFGLGGGSISLGLGHSTGLSGGLGLSMGSGLLSHGVSTHGLGVSNGHGILGAAAAGALHSAGSSAVSGNSYSGSSSSSHNSGFQSANSGAHGADLSAIAGAGKINAGHLGIGASGDIGLAHGFSANHLIGAAGAGASALHSTGSSSASLAAQKIQNFGSSLAEIGASGHHGAALSAIAGSGKINAGHLGIGASGDIGLAHGFSANHLIGGAGAGDLALHSAGSSASFGAQNTGNFGGGLAAIGASEASGSSSYSSSQSSGSHSMSSGQTSVVASGSGKISTGQLGIGASGDAGFAQGSSSIGSVVGGGSHMVANHLIGAAGAGISALQSAGSSAASFAAQNTGNFGGGIASIGSSEASGSSSYSSSQSSGSHSMSSGQTSVVASGSGKISTGQLGIGASGDAGFAHGSSSGSVVGGGSHMVANHLIGAAGAGASALQSAGSSAASFGAQNTGNFGGGIASIGSSEASGSSSYSSSQSSGSHSMSSGQTSVVASGSGKISNGQLGIGTSGDAGFAQGSSSGSVVGGGSHMVANHLIGAAGAGASALQSAGSSAASFGAQNTGNFGGGIAAIGSSEASGSSSYSSSQSSGSHSMSSGHTSVEASGSGHGSSGSVFGIEAHGLLGATGAGASALHSSDSAAASLGALSFNKMVSGLAGTGASGSGLTSLGSHTSGSHKTNTAQLSIGAFGAGHGIGTGSVLSAGSVGGSGAHEAAASLLHGVANGFLGAGASALSSVGAGGASLESHGGSGSLSFGGSHTGSGLFGSHSGGVTLGGHAFGAGGNLDHNAASAGMEFGGGHIGGTINHVGGFLYG",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_002021651"
+}

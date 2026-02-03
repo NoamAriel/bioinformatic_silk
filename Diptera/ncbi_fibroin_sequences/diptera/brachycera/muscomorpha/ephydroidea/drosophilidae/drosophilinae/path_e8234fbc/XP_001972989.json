@@ -1,0 +1,42 @@
+{
+  "accession": "XP_001972989",
+  "title": "fibroin heavy chain isoform X2 [Drosophila erecta]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Drosophila erecta",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophila",
+    "Sophophora"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophilinae",
+    "Drosophilini",
+    "Drosophila",
+    "Sophophora",
+    "Drosophila erecta"
+  ],
+  "sequence_length": 601,
+  "origin_sequence": "MMLHLHRHANFLLFLCAVLGYFADPASADIEYNTINEDGSFQFRHANDDIGGYYHSAAGTPDNSVRGRYGSRSPASGQIEETVYTAGPRGFRVNGPKIHRKMDLAQYPVLPRGSPDDPLADPFDDPSYSFSFRTPDQSRSEENDSGNRIRGLYSYLDDVGERHSVRYAAGAGTGFEISNAVPDSPSVVAYSSPLYKSHPKARGKMSVQRGPAGSYKLIASGSDHRRAESRAPDGLVRGTYSFLDDKGVQRTVEYIAGAGIGYRVVQNRIGPGTHINPSVADFRLADPDFRLANDFGRGAGGGLGPKGGGAGSGGGSGGGALGASGSSGGAGGAGRGRAPGRPGGKDYLKPADGARDRSRGEGDAGGADESLGHHAGNQGDDIGLSSSSSGSSNFNGKEDRRGFPAGSSQRGSTRYDGGGDSSQRGGSGGSTRNSASGSRNRNRFGGGGGSASSERGAGRGDAAGGGGSRRGGGVGAGASSEGDSGLGYLPPTGGSGTSAISGPGDNYHLNDDDVGSSLPPLVTANHRILEIDRDREWVQRHRDSTVIKNVGKWYVGLPPGQSVRAHVQNIDIIPLGGRIGLSPSEALRQDEIAELNASREH",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_001972989"
+}

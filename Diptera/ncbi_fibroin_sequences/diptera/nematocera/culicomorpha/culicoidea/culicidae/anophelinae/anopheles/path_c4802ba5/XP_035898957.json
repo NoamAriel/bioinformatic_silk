@@ -1,0 +1,40 @@
+{
+  "accession": "XP_035898957",
+  "title": "fibroin heavy chain-like [Anopheles stephensi]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Anopheles stephensi",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Anophelinae",
+    "Anopheles"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Nematocera",
+    "Culicomorpha",
+    "Culicoidea",
+    "Culicidae",
+    "Anophelinae",
+    "Anopheles",
+    "Cellia",
+    "Anopheles stephensi"
+  ],
+  "sequence_length": 421,
+  "origin_sequence": "MRFFVVLTACLAVASADIGLKLRQAAGAGGSSYDVGQQSVSVDYAPTVYQDSVVDGAASAGARSFGGAGFGGAGFGGAGFGGAGAGSAASAGAGAGVFGGSFGGASSRSSAGAGAEYDAGYQAGLRAGAAASAGSSTRFGSSGSFAGSSAGAFGGSSGGSFSSGSAFGSSSGASSSAAAKTQVRYAAPVIQKNFYYHVAPEEPKSAAEANTLTITPRKHYKVIFIKAPTVSANAGASAQAASRTEEKTLVYVLVNKPAQAKAGSVADASSYVSGKPEVFFIKYQGKDAQAISNSFAGAGAGSFGGAGAGAGSFGGAGAGSFAGASSDAFATGGAGFDGGFGAGSASYADAGASAGVANDFVDFGARSGVASSSAGSSGYNAGYTAGYTAAATGAGAAGFGVTPSYDSVAVGANAGASNIAF",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_035898957"
+}

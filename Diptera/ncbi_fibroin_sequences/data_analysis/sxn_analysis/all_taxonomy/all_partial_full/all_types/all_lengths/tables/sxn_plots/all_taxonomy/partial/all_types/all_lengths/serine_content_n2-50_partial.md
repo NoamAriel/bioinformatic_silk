@@ -1,0 +1,7 @@
+| organism | type | serine_count_mean | serine_count_sd | serine_fraction_mean | serine_fraction_sd | length_mean | length_sd |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Drosophila guanche | heavy chain | 30.000 | 0.000 | 9.288 | 0.000 | 323.000 | 0.000 |
+| Drosophila navojoa | heavy chain | 62.000 | 0.000 | 13.276 | 0.000 | 467.000 | 0.000 |
+| Musca vetustissima | heavy chain | 231.000 | 0.000 | 13.556 | 0.000 | 1704.000 | 0.000 |
+| Rhagoletis pomonella | heavy chain | 55.000 | 32.909 | 9.314 | 0.698 | 575.667 | 297.335 |
+| Teleopsis dalmanni | heavy chain | 275.000 | 0.000 | 23.872 | 0.000 | 1152.000 | 0.000 |

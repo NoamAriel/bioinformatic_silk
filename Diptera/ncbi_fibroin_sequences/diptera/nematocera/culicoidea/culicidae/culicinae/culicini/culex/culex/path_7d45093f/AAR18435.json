@@ -1,0 +1,41 @@
+{
+  "accession": "AAR18435",
+  "title": "putative salivary cysteine-rich peptide [Culex quinquefasciatus]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Culex quinquefasciatus",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Culicinae",
+    "Culicini",
+    "Culex",
+    "Culex"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Culicinae",
+    "Culicini",
+    "Culex",
+    "Culex"
+  ],
+  "sequence_length": 113,
+  "origin_sequence": "MAKFLVLGLFVLAVIATIEAASFGQCPLASKVQTCTPKCLSDVDCSASGGKCCPNTCNYKSCVSPNQLQQGAGSGSNKYQSGGAGAYCGNVKCNSYESCQLDKTTKRQKCIRS",
+  "partial_full": "full",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/AAR18435"
+}

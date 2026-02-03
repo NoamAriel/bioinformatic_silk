@@ -1,0 +1,43 @@
+{
+  "accession": "XP_065077665",
+  "title": "fibroin heavy chain [Ochlerotatus camptorhynchus]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Ochlerotatus camptorhynchus",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Culicinae",
+    "Aedini",
+    "Ochlerotatus",
+    "Ochlerotatus"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Nematocera",
+    "Culicomorpha",
+    "Culicoidea",
+    "Culicidae",
+    "Culicinae",
+    "Aedini",
+    "Ochlerotatus",
+    "Ochlerotatus",
+    "Ochlerotatus camptorhynchus"
+  ],
+  "sequence_length": 290,
+  "origin_sequence": "MSGNLMFELSAGYASSQYAGTGYNGGFTSNYAGPNGVGAAAGTGAFVPGFAPFQPVPAFPNVFDYNSFYQGLQANFANSAATQAFATAGATAAASASLYGQYSQNPVYPHQGVQYQQPQQYQQMPQRSQAGSDYSYINNNNNNDHYANNGYNNYYNPHNMYQQQLAHQNALFNSIRQQQAAFAGAGAGAGAGYGAGVGAGGGSFGGAPGFAGSSASYGPGGFHQTAHIYPENPQAPNINTRFGGSSQPGGPGYVGVSSFSSSSNINGQSHREAATSVNDNGKVTSYHVRS",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_065077665"
+}

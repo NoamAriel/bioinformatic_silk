@@ -1,0 +1,40 @@
+{
+  "accession": "XP_052900665",
+  "title": "fibroin heavy chain-like [Anopheles moucheti]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Anopheles moucheti",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Anophelinae",
+    "Anopheles"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Nematocera",
+    "Culicomorpha",
+    "Culicoidea",
+    "Culicidae",
+    "Anophelinae",
+    "Anopheles",
+    "Cellia",
+    "Anopheles moucheti"
+  ],
+  "sequence_length": 388,
+  "origin_sequence": "MRFFVIFAACLAVASADIGLKLRQAAAAGAASSYDVGQQSVSVDYAPAVFEDSVVGGADLGSARSSGFSAAGASAGASAGAGSAEYDAGYQAGLLAASAGASANANADAGAGAVDARFGASGAFSGASASSNSFASGSATGSSAGASASAAAQTQVRYAAPVIYKNFYYHVAPEEPKAAAGANTLTITPRKHYKIIFIKAPSASAEAGASAQAASKTEEKTIVYVLVNKPAQAKAGSLADASSYSSGKPEVYFVKYQGKDAQATANADASAFSGASADAFSGATAGANAFGSAAGGANAFGSAAGGAGFGTNFDGSAGSFAGASSAASAGAGGNDYDFNVRSGSQSAASAGSAAGFNAASAGAGAASSYDGLGLGADAGAGAVNTVVY",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_052900665"
+}

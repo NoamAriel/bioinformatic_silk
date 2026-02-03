@@ -1,0 +1,7 @@
+| organism | type | fraction_mean | fraction_sd | length_mean | length_sd |
+| --- | --- | --- | --- | --- | --- |
+| Drosophila guanche | heavy chain | 4.334 | 0.000 | 323.000 | 0.000 |
+| Drosophila navojoa | heavy chain | 3.854 | 0.000 | 467.000 | 0.000 |
+| Musca vetustissima | heavy chain | 7.746 | 0.000 | 1704.000 | 0.000 |
+| Rhagoletis pomonella | heavy chain | 3.489 | 4.329 | 575.667 | 297.335 |
+| Teleopsis dalmanni | heavy chain | 28.819 | 0.000 | 1152.000 | 0.000 |

@@ -1,0 +1,38 @@
+{
+  "accession": "XP_037919736",
+  "title": "fibroin heavy chain-like [Hermetia illucens]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Hermetia illucens",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Stratiomyomorpha",
+    "Stratiomyidae",
+    "Hermetiinae",
+    "Hermetia"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Stratiomyomorpha",
+    "Stratiomyidae",
+    "Hermetiinae",
+    "Hermetia",
+    "Hermetia illucens"
+  ],
+  "sequence_length": 330,
+  "origin_sequence": "MKVFCLLAFVAVASATLQGGYSGLNSGLGYNAGANFGSGLGSGLGFGSGLGYSAGSSLGATAATLGATAATIGATAAPLGVTAAPLGIAGANYGSGLGYSAGLGYSGQGYTGQSFAAAPAITKSLTSFSGLGAGIGAGLGAIQGSGYSAGLAATPATYSAGLGAIQGSGYSAGLAATPATYSAGLGAIQGSGYSAGLAATPSTYSAGLGAIQGSGYSAGLASTPSTYSAGLGAIQGAGFNAGLAATPSTYSAGLGSIHGSGYGSSLAATPSTYSAGLGVSSATGYSAGYGANYGSGFGAHYGSGLGSGYNYKSSAAYNGYGSGINSAWKK",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_037919736"
+}

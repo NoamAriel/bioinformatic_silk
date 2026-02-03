@@ -1,0 +1,96 @@
+organism,type,fraction_mean,fraction_sd,length_mean,length_sd
+Aedes aegypti,heavy chain,5.624,3.605,1151.000,1039.447
+Aedes albopictus,heavy chain,4.833,4.586,606.667,654.115
+Anastrepha ludens,heavy chain,5.169,0.013,1625.000,4.243
+Anastrepha obliqua,heavy chain,4.774,0.010,1592.000,3.464
+Anopheles albimanus,heavy chain,7.440,1.947,350.400,51.394
+Anopheles aquasalis,heavy chain,3.492,1.961,395.000,21.213
+Anopheles arabiensis,heavy chain,5.731,2.841,933.364,756.242
+Anopheles bellator,heavy chain,2.685,0.000,447.000,0.000
+Anopheles coluzzii,Unknown_type,2.394,0.080,1588.800,51.679
+Anopheles coluzzii,heavy chain,5.324,3.650,1051.810,699.069
+Anopheles coustani,heavy chain,3.572,0.794,1438.000,596.798
+Anopheles cruzii,heavy chain,11.765,0.000,391.000,0.000
+Anopheles darlingi,heavy chain,6.086,3.765,412.667,13.429
+Anopheles funestus,heavy chain,10.929,6.856,488.333,256.971
+Anopheles gambiae,heavy chain,8.948,2.626,388.562,224.469
+Anopheles maculipalpis,heavy chain,14.006,0.445,407.000,2.828
+Anopheles marshallii,heavy chain,4.083,4.225,380.500,21.920
+Anopheles merus,heavy chain,6.692,3.561,849.409,756.280
+Anopheles moucheti,heavy chain,7.513,0.478,348.333,81.132
+Anopheles stephensi,heavy chain,9.907,2.712,419.500,3.000
+Anopheles ziemanni,heavy chain,3.572,0.794,1438.000,596.798
+Armigeres subalbatus,heavy chain,5.258,0.788,324.000,41.170
+Bactrocera dorsalis,heavy chain,5.170,1.893,1270.615,440.087
+Bactrocera latifrons,heavy chain,5.566,2.436,1174.500,595.087
+Bactrocera neohumeralis,heavy chain,4.285,0.108,1490.592,44.216
+Bactrocera oleae,heavy chain,4.977,0.000,1527.000,0.000
+Bactrocera tryoni,heavy chain,4.295,0.200,1492.500,69.174
+Calliphora vicina,heavy chain,7.859,9.286,1226.800,560.620
+Ceratitis capitata,heavy chain,6.299,1.739,1249.750,668.518
+Chironomus tepperi,heavy chain,7.104,0.218,253.500,7.778
+Condylostylus longicornis,heavy chain,29.717,0.000,2295.000,0.000
+Culex pipiens pallens,heavy chain,7.404,0.351,304.000,32.534
+Culex quinquefasciatus,Unknown_type,7.080,0.000,113.000,0.000
+Culex quinquefasciatus,heavy chain,7.678,0.890,289.429,29.137
+Culicoides brevitarsis,heavy chain,4.183,0.000,765.000,0.000
+Drosophila albomicans,heavy chain,10.611,0.000,622.000,0.000
+Drosophila ananassae,heavy chain,8.667,0.000,600.000,0.000
+Drosophila arizonae,heavy chain,3.826,3.697,460.000,183.848
+Drosophila biarmipes,heavy chain,11.916,8.095,479.800,132.566
+Drosophila bipectinata,heavy chain,10.330,0.302,593.667,7.095
+Drosophila busckii,heavy chain,5.954,0.000,571.000,0.000
+Drosophila elegans,heavy chain,6.787,1.879,776.000,338.926
+Drosophila erecta,heavy chain,7.858,0.182,611.000,14.142
+Drosophila eugracilis,heavy chain,9.230,2.757,612.400,121.329
+Drosophila ficusphila,heavy chain,11.016,2.217,583.000,17.907
+Drosophila grimshawi,heavy chain,1.559,2.799,2514.000,951.720
+Drosophila guanche,heavy chain,10.352,4.160,890.111,227.643
+Drosophila gunungcola,heavy chain,7.497,0.983,579.333,15.948
+Drosophila hydei,heavy chain,3.380,4.780,833.500,829.436
+Drosophila innubila,heavy chain,8.865,0.000,564.000,0.000
+Drosophila madeirensis,heavy chain,9.465,6.651,696.125,426.994
+Drosophila mauritiana,heavy chain,7.147,1.343,576.000,19.975
+Drosophila miranda,heavy chain,11.481,5.861,927.667,360.952
+Drosophila mojavensis,heavy chain,8.026,0.000,623.000,0.000
+Drosophila montana,heavy chain,7.595,0.000,553.000,0.000
+Drosophila nasuta,heavy chain,11.448,1.159,579.500,58.690
+Drosophila navojoa,heavy chain,12.351,5.511,611.000,446.388
+Drosophila novamexicana,heavy chain,0.257,0.729,4944.722,1091.033
+Drosophila obscura,heavy chain,9.478,2.362,576.333,39.804
+Drosophila persimilis,heavy chain,12.481,8.557,726.500,147.785
+Drosophila pseudoobscura,heavy chain,7.579,2.148,984.000,504.874
+Drosophila rhopaloa,heavy chain,10.206,1.200,552.000,70.571
+Drosophila santomea,heavy chain,7.696,2.255,576.000,23.302
+Drosophila sechellia,heavy chain,7.059,1.346,838.000,359.036
+Drosophila serrata,heavy chain,8.333,0.000,600.000,0.000
+Drosophila simulans,heavy chain,7.356,1.298,556.000,37.014
+Drosophila subobscura,heavy chain,7.535,6.999,631.000,249.604
+Drosophila subpulchrella,heavy chain,6.738,3.413,520.667,126.800
+Drosophila sulfurigaster albostrigata,heavy chain,8.438,0.000,640.000,0.000
+Drosophila teissieri,heavy chain,9.375,1.307,585.000,24.042
+Drosophila virilis,heavy chain,1.663,2.991,4094.750,2413.121
+Drosophila willistoni,heavy chain,8.981,1.681,449.000,199.404
+Drosophila yakuba,heavy chain,7.758,2.202,570.667,27.791
+Episyrphus balteatus,heavy chain,11.518,17.426,1084.250,782.789
+Eupeodes corollae,heavy chain,4.446,0.036,1754.000,49.497
+Eurosta solidaginis,heavy chain,4.248,0.101,1757.667,12.702
+Hermetia illucens,heavy chain,5.193,6.943,831.667,614.603
+Lucilia sericata,heavy chain,5.644,1.664,983.667,497.390
+Malaya genurostris,heavy chain,5.655,1.023,298.571,25.890
+Musca domestica,heavy chain,8.130,6.212,1348.273,542.196
+Musca vetustissima,heavy chain,9.313,6.976,1969.333,1563.701
+Ochlerotatus camptorhynchus,heavy chain,4.828,0.000,290.000,0.000
+Phlebotomus argentipes,heavy chain,11.630,0.637,310.000,16.971
+Rhagoletis pomonella,heavy chain,7.038,0.000,341.000,0.000
+Rhagoletis zephyria,heavy chain,2.867,2.704,1046.500,887.419
+Scaptodrosophila lebanonensis,heavy chain,4.669,0.000,514.000,0.000
+Stomoxys calcitrans,heavy chain,6.132,3.329,2075.250,210.500
+Teleopsis dalmanni,heavy chain,28.962,0.116,1981.000,79.038
+Topomyia yanbarensis,heavy chain,4.588,0.188,700.333,106.308
+Toxorhynchites rutilus septentrionalis,heavy chain,6.754,8.082,1001.714,559.653
+Uranotaenia lowii,Unknown_type,4.867,0.183,288.000,10.954
+Uranotaenia lowii,heavy chain,5.765,1.203,351.000,86.267
+Wyeomyia smithii,Unknown_type,9.262,0.000,583.000,0.000
+Wyeomyia smithii,heavy chain,14.403,4.952,520.333,94.246
+Zeugodacus cucurbitae,heavy chain,6.614,6.286,1313.600,361.859

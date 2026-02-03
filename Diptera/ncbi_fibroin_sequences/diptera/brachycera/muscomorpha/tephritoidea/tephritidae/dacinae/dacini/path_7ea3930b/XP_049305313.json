@@ -1,0 +1,42 @@
+{
+  "accession": "XP_049305313",
+  "title": "fibroin heavy chain isoform X1 [Bactrocera dorsalis]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Bactrocera dorsalis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Tephritoidea",
+    "Tephritidae",
+    "Bactrocera",
+    "Bactrocera"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Tephritoidea",
+    "Tephritidae",
+    "Dacinae",
+    "Dacini",
+    "Bactrocera",
+    "Bactrocera",
+    "Bactrocera dorsalis"
+  ],
+  "sequence_length": 646,
+  "origin_sequence": "MKVFTAIVLAICVCVVSAEELENRRDFHKLHYSQHQQTVQEAKQKLGDVASFEEVSSYGGVGTVGLSGGNSGYGSSGYGSSSYGSGGYSGLQSSAGLQSSAGLSALSAAELASASSFGASSNSAASFGASQSASFGSSFGANSNFAAGASNGASVVIPVSGGASNSFSEQTENVHQQVIPEVVASGSGSSGHESYIHHEERRTESQPVVAYTAPVGGSENYVHHEERRVQSQTATPIVTYAPSGGHESYVHHEERRTQSQPVIQYTAPSGGSENYYRHEERRVAAQPVIQYTLPSGGAENYVHHEERRVQSQAVPVIQYTAPSGGSEKYVTIKEERIQQAAPVQIIAPSGHESYVKYRKVTTAAQPQVIVPSVGGSHSSYVQHSAASNTASQLSNLLSGGLTTGQTGFGSLGSGALTAANSGFGSQSHFGAQSGFGAQSGYSAHHGFGAQSQFGAQHGASSGFGAASNAALTQGAGFGSGFGAQSKFGSQFGAESSFNSKFGSSFGADSSFGAGSGLSAGAGSSGLHHYIAESERLAKAQAQDIGYGGVRSGGSQLADLSAGYGSNAGLSGGFGGSAGGFKTKSWEKASKWSSQSEFGPDGQVKNFKELSTGESENYDINGKRVGYKAATTTLDDNGKVSSYSLHT",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_049305313"
+}

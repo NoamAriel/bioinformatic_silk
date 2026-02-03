@@ -1,0 +1,42 @@
+{
+  "accession": "XP_017050544",
+  "title": "fibroin heavy chain isoform X1 [Drosophila ficusphila]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Drosophila ficusphila",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophila",
+    "Sophophora"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophilinae",
+    "Drosophilini",
+    "Drosophila",
+    "Sophophora",
+    "Drosophila ficusphila"
+  ],
+  "sequence_length": 577,
+  "origin_sequence": "MNKLLIFALCLGVVCADLESRTKRDEFHSRHYAAQQQAILEARKNAGLEGSASVGGYGGGYGGGYQGSYSGGVAGQADGSSGSLGKLESSYDSVGVTESAEGVVAGGSGGAVETLGGGAEVGLGAGSVGSLDVNSGAAFGSGFGSQSAGSFGAQNAASFGSQNAASFGSQFSTNFQTSSASNFGTTAGHHVGSNVQFADNANAGSKVEFGGVNAVDSSAQLLSGVQQTVQTAPASSGYYRHEKIVTSEAAPQQVTYTVPGGSQRYVHHEERIVEQPSQVRVVQAPVQTAHFYQRKVTTTASQPTARLVYGSNSASNFGSNAASNFGSSSAFNTNFGSSFGQNAALNSASSFGQNAALSSGLSSGLNFQGGQNSHLSQILSQAQLNARQQASSGSSTANQVQLGSGYNSALQSGSQFGSQSGLQSGSQFGAQSGAQFGSQSAFQSGFGFNSANSLNSASSLNAGNSASLLSGSLLGGSQGSLLGGQQSLGLGLNAGLAGGQQFGAGNSGSGYQTKQWEKQSKWSSQSEFDSNGNVKSYKDLATGESENYDINGKKTGYHAATASVDDNGKIGTYSVHS",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_017050544"
+}

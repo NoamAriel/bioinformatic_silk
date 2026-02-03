@@ -1,0 +1,41 @@
+{
+  "accession": "XP_058836224",
+  "title": "fibroin heavy chain-like isoform X1 [Topomyia yanbarensis]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Topomyia yanbarensis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Culicinae",
+    "Sabethini",
+    "Topomyia"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Nematocera",
+    "Culicomorpha",
+    "Culicoidea",
+    "Culicidae",
+    "Culicinae",
+    "Sabethini",
+    "Topomyia",
+    "Topomyia yanbarensis"
+  ],
+  "sequence_length": 643,
+  "origin_sequence": "MKVLLKFVFACCVLTHCCWVVDSTNYHQRFNDGFRSSGYGTGESSYQTRHSGVAVGSGYGAQNGQSTNYQSGGGGLNHHLNTAQNGISRGAAVGGSLDAGRSYAFGQSTADSSHYATAGPRGSNWYLNGAGGRGQPYFAGAGFAPISGRFARPNGFGNRYLIGPYGSVYPAWGRLPGAFSSAGSQRGVQNVGYAAKVDNGIGGVDETGAQGTGLASVGGGLNPTTVVGSDGFYNGPYSPFRGDGRYQDSSFVAGFGSGYLSNRGNALPYGLSTSTPTTSQNSGGYQNLANRASTGGAVVGSSHNTVPVSTNNNRPAGSVGDTIRTSAVDPVNINPNSRGDFTSTQNSALASQGSSLAQNQHEPTGSGDQGHLSHSNAALNGQNRADESLSHSNGFGQTASTSIRTNPIETARSQGSRGFGVDGSYPVSAGSGISMGQGSTVGDANGLNYFRNNAGYANPSLLSGRGNQFGGQTGTGLTDGSSNFENSIYNGFQRESNGLSGSIAGSDSRGHRSDSRYNLGNRAGFQTSGGGVASGVTGSQNSVGPSGYGSEAVNGYNANRGTNAAIANGAKAQGEQSIGLKNLNGRVNDNGSYGLSHDSGASSDGISGGQNSYNTNIDQLGFNSETRYMNEGEMTEASFAIKG",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_058836224"
+}

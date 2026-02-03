@@ -1,0 +1,42 @@
+{
+  "accession": "XP_017089837",
+  "title": "fibroin heavy chain isoform X2 [Drosophila bipectinata]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Drosophila bipectinata",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophila",
+    "Sophophora"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophilinae",
+    "Drosophilini",
+    "Drosophila",
+    "Sophophora",
+    "Drosophila bipectinata"
+  ],
+  "sequence_length": 586,
+  "origin_sequence": "MNKFLILALCLGVVAADFQASHNAAHQQAIEQARKNAGYGSSGYYGGSAGQYDSSAGNLGNLESSYESVGVTESAAGAGSGGSSVDSIGGAAGTQFGSVDTIGGAAGTQFGSGSSYGANSGAAFGAGFGAQNAASFGSQSAANFGSSFSSNAAFQTSHAANFGASSAHQAGSNVEFSDNSNAGTKVDFGGANTLDVVSGAAPVSSGNVEYVRQEKIVSAPAQRIVYSAPAASEQYVRHEERIVKQQPQVQIVQQPVETAHYYQRKVTTTASAPQLVQPASSRLVANSASNFGSNSAFSSQFGSSFGQNSAFNTGLSQNAALSSGFGQNSALTSGFGQNSALSSGFGQNAGLTAGFGQNAALSSGFGQNSAFSAGFGQNVGLNSAFKNSQVSQLISQAQQNARQQAASGSYTSGSGLASANQVQGGSGFQSGSGYQTGFNSGFNSASSLNSASSLNSASSLNSGSSLGALVTGDQSLLSGSLLGSGSNVGLGLNAGLTSGQQAGSFGAGYGAGAGNAGSNYQTKQWEKQSKWSSQSQFDSDGNVKNYRDLATGESENVNLNGKKFGYNAATASVDDNGKIGTYSVHS",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_017089837"
+}

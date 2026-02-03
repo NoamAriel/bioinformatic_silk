@@ -1,0 +1,40 @@
+{
+  "accession": "XP_037809483",
+  "title": "fibroin heavy chain isoform X2 [Lucilia sericata]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Lucilia sericata",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Oestroidea",
+    "Calliphoridae",
+    "Luciliinae",
+    "Lucilia"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Oestroidea",
+    "Calliphoridae",
+    "Luciliinae",
+    "Lucilia",
+    "Lucilia sericata"
+  ],
+  "sequence_length": 698,
+  "origin_sequence": "MKYFIVLALCLSAVVAEELHERHFSQHHQTLEEAKKKIADVLEGQHAEYEEVGSYGGVGGVGVGTVGFSSSGLSGADYASTSGSNAGYGASSGSQFGASSGSQFGASHSANFAASSSFDSNANFGASHGVHGAGVHNSVAQGGSSVVIPVVGGAGSTSSYLESSAAENVHHAAPEVVVSGGVGGHESFVRHEEHRSENQVATPLVYTAPSGGSEKYYHHEERRVSNAATPVVYTVPSTGGSENYVRHEERRTQTQTSAPIIQFAPSSGGSEKYVHHEERRVENQAVPIVHYTAPSGGSEKYIHHEERRVQNQAVPIIQYTAPSGGSEKYIHHEERRVQNQAVPVIQYTAPSGGSEKYVHIKEEHVQQAPVQMVVTSPAGGQESYMKYRKVTTTASQPQVIVHTAPATSSSYVHHSSTGATTGSQLGPLVTGSLTSGANSNYKTGYYGNSAYTAPATTYGTAANTNSLFNSGFGTSHQAATNFGASHQAATNFGASHQAASNFGASHQAASKFGAGHQAGFGSGASSAFTDASTFGTQFGAQSKFGSSFGAESKFGSQFGAQSAFGSGSTLAASSGLSNYMQESERLAKMQAQGMSVGGTRAGGSQFNANMDSGASFGGFGSLAGVGAGNAGYKTKSWEKASKWSSQSEFGSDGQVKNFKELSTGESENYDINGRRVGYKAATTTLDDNGKVSSYSLHT",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_037809483"
+}

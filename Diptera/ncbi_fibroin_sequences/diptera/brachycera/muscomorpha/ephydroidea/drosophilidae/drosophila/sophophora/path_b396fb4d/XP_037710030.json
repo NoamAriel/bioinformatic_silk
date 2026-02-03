@@ -1,0 +1,39 @@
+{
+  "accession": "XP_037710030",
+  "title": "fibroin heavy chain isoform X2 [Drosophila subpulchrella]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Drosophila subpulchrella",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophila",
+    "Sophophora"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophila",
+    "Sophophora"
+  ],
+  "sequence_length": 553,
+  "origin_sequence": "MNKMLILALCLGVVCGDFQTSHYNAHQQAIEQARKNAGYGGSAGSGSYGGGYGGASGSADLSGNLESAYESVGATESAEGASAGGSGGQAVESLGGVGGSVGGGAGLGSGSSFGSNFGSGFGSQSAGTFGAQNAAAFGAQNAASFGAQNAASFGAQNAASFGTSFSSNAAFQANSAANFASTAAHQVGSNVEFAENANAGNKVDFGGVNTVQTATPTAEYYSHEKIVTTPQQVTYTIPGGSQRYVHHEERIVEQPTQTHVIQSPVQSAQYYRRKVTTTSSVPQFVQPAASARLAYGSNAASTFGSNSAFNTQFGSSFGQSSALNSGISSGLGFQSNNQLGQLLSQTHETARQQAASQAASANVVQSGSGYNAGSGYNAAQTAFNGGSAAGLNAGYNSGFNSGSQFGFNSASSLNSASSLNSASALNSGSSGSLLGGQQSLLSGSLLGGQQNIGLGLGLGQTSAQQLAGSGNFGAGFGAGAGGAGSNFQTKEWEKQSKWSSQNSFDSNGHVNNYKDLATGERENVNINGKQYGYHAATASVDDNGKFGTHSVHS",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_037710030"
+}
