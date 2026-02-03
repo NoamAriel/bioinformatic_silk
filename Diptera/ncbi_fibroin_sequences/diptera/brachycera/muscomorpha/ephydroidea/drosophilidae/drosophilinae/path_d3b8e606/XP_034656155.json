@@ -1,0 +1,42 @@
+{
+  "accession": "XP_034656155",
+  "title": "fibroin heavy chain [Drosophila subobscura]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Drosophila subobscura",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophila",
+    "Sophophora"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophilinae",
+    "Drosophilini",
+    "Drosophila",
+    "Sophophora",
+    "Drosophila subobscura"
+  ],
+  "sequence_length": 326,
+  "origin_sequence": "MFATTRNLRCSLCWVCLCLWLTAVLAQEQNSTADTDTSWTPLKPPQKRQASSGAAAAKSYDPPPEFYRGPGSVQKLDSTAAGFISKPIGALPPVGGAGAGAGAGGAAPGAGESLSEAYDKWRKGGGSRPLQDRISVGHYGSSGGGSAGKSFGYEGHPYAYDYGPGHGYEQGVAPGHGYDQGAGPQHGYDQGPLPGHGYGSSVETGAGPPYHVYRPRPEPGHYAGPGVEYTYSSYPLDSHEIVAHKGAPEISPKALLAKSFLIPLASATVLGIAAAFINNPLLLQLAPVPGLGVGVGVGVGPPVVGKRRRRRRAARRGGNGMGFAPK",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_034656155"
+}

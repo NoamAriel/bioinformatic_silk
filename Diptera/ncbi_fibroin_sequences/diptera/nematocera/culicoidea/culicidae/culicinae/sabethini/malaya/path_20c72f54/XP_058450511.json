@@ -1,0 +1,39 @@
+{
+  "accession": "XP_058450511",
+  "title": "fibroin heavy chain isoform X3 [Malaya genurostris]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Malaya genurostris",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Culicinae",
+    "Sabethini",
+    "Malaya"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Culicinae",
+    "Sabethini",
+    "Malaya"
+  ],
+  "sequence_length": 302,
+  "origin_sequence": "MLKFLLISALVAGASAGYASSQYAGAGTSSGLYNQISPNFGSYAYADKYPYTNTGYNGGFASNYVGSGGAGAAAGGAAFTPGFAPYQPVPAYPNAFDFNGFFQQLQSNFANSATQAFATAGATAAASASQYGRYHPHQPNPHYQQRLQQSPGYSYSANYNNHYQNYNGHNSNYDPMNLYQQQIAHQNALFNNIRQQQAAFASQAASAGAGAGTGSGYGSAGFAGASASYGPSGFHQTAQIYPENPNSPNINTRFGGDTPQDGNGFVGVSSFSSSSNINGQTHREAATTVNDNGKVTSYHVRS",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_058450511"
+}

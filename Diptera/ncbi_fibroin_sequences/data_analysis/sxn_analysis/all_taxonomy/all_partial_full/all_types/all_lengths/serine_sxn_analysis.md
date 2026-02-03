@@ -369,6 +369,15 @@ This analysis identifies serine composition and continuous runs of the **SX** un
 
 ===
 
+## Superfamily: Chironomoidea
+
+---
+
+### Family: Ceratopogonidae
+| Organism | Type | Partial/Full | Accession ID | Length | Serine Count | Serine Fraction | Total Runs | Residues in Motifs | Residues Fraction | n=8 Count | n=7 Count | n=6 Count | n=5 Count | n=4 Count | n=3 Count | n=2 Count |
+|  :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Culicoides brevitarsis | heavy chain | full | `XP_063697938` | 765 | 80 | **10.46%** | **8** | 32 | **4.18%** | 0 | 0 | 0 | 0 | 0 | 0 | 8 |
+
 ## Superfamily: Culicoidea
 
 ---
@@ -376,14 +385,114 @@ This analysis identifies serine composition and continuous runs of the **SX** un
 ### Family: Culicidae
 | Organism | Type | Partial/Full | Accession ID | Length | Serine Count | Serine Fraction | Total Runs | Residues in Motifs | Residues Fraction | n=8 Count | n=7 Count | n=6 Count | n=5 Count | n=4 Count | n=3 Count | n=2 Count |
 |  :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Aedes aegypti | heavy chain | full | `XP_021694333` | 416 | 56 | **13.46%** | **8** | 34 | **8.17%** | 0 | 0 | 0 | 0 | 0 | 1 | 7 |
-| Aedes aegypti | heavy chain | full | `XP_021699291` | 1886 | 144 | **7.64%** | **14** | 58 | **3.08%** | 0 | 0 | 0 | 0 | 0 | 1 | 13 |
 | Aedes albopictus | heavy chain | full | `XP_019552249` | 438 | 75 | **17.12%** | **14** | 62 | **14.16%** | 0 | 0 | 0 | 0 | 1 | 1 | 12 |
 | Aedes albopictus | heavy chain | full | `XP_019560048` | 1938 | 126 | **6.50%** | **10** | 42 | **2.17%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
 | Aedes albopictus | heavy chain | full | `XP_062706229` | 327 | 31 | **9.48%** | **2** | 10 | **3.06%** | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 | Aedes albopictus | heavy chain | full | `XP_062706230` | 327 | 31 | **9.48%** | **2** | 10 | **3.06%** | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 | Aedes albopictus | heavy chain | full | `XP_062706231` | 305 | 30 | **9.84%** | **2** | 10 | **3.28%** | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 | Aedes albopictus | heavy chain | full | `XP_062706232` | 305 | 30 | **9.84%** | **2** | 10 | **3.28%** | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Anopheles aquasalis | heavy chain | full | `XP_050083266` | 410 | 54 | **13.17%** | **5** | 20 | **4.88%** | 0 | 0 | 0 | 0 | 0 | 0 | 5 |
+| Anopheles aquasalis | heavy chain | full | `XP_050083280` | 380 | 37 | **9.74%** | **2** | 8 | **2.11%** | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
+| Anopheles cruzii | heavy chain | full | `XP_052863596` | 391 | 55 | **14.07%** | **9** | 46 | **11.76%** | 0 | 0 | 0 | 0 | 1 | 3 | 5 |
+| Anopheles darlingi | heavy chain | full | `XP_049529811` | 407 | 37 | **9.09%** | **2** | 8 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
+| Anopheles darlingi | heavy chain | full | `XP_049530170` | 428 | 66 | **15.42%** | **10** | 40 | **9.35%** | 0 | 0 | 0 | 0 | 0 | 0 | 10 |
+| Anopheles darlingi | heavy chain | full | `XP_049530179` | 403 | 48 | **11.91%** | **7** | 28 | **6.95%** | 0 | 0 | 0 | 0 | 0 | 0 | 7 |
+| Anopheles funestus | heavy chain | full | `XP_049278532` | 774 | 109 | **14.08%** | **13** | 52 | **6.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 13 |
+| Anopheles funestus | heavy chain | full | `XP_049299480` | 415 | 60 | **14.46%** | **7** | 30 | **7.23%** | 0 | 0 | 0 | 0 | 0 | 1 | 6 |
+| Anopheles funestus | heavy chain | full | `XP_049300646` | 276 | 48 | **17.39%** | **10** | 52 | **18.84%** | 0 | 0 | 0 | 1 | 0 | 3 | 6 |
+| Anopheles merus | heavy chain | full | `XP_041770430` | 413 | 67 | **16.22%** | **9** | 36 | **8.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
+| Anopheles merus | heavy chain | full | `XP_041770444` | 377 | 63 | **16.71%** | **8** | 42 | **11.14%** | 0 | 0 | 0 | 1 | 1 | 0 | 6 |
+| Anopheles merus | heavy chain | full | `XP_041770456` | 362 | 59 | **16.30%** | **6** | 34 | **9.39%** | 0 | 0 | 0 | 1 | 1 | 0 | 4 |
+| Anopheles merus | heavy chain | full | `XP_041773878` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
+| Anopheles merus | heavy chain | full | `XP_041773879` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
+| Anopheles merus | heavy chain | full | `XP_041773880` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
+| Anopheles merus | heavy chain | full | `XP_041773881` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
+| Anopheles merus | heavy chain | full | `XP_041773882` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
+| Anopheles merus | heavy chain | full | `XP_041773883` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
+| Anopheles merus | heavy chain | full | `XP_041773884` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
+| Anopheles merus | heavy chain | full | `XP_041774632` | 413 | 67 | **16.22%** | **9** | 36 | **8.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
+| Anopheles merus | heavy chain | full | `XP_041774748` | 413 | 67 | **16.22%** | **9** | 36 | **8.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
+| Anopheles merus | heavy chain | full | `XP_041775516` | 413 | 67 | **16.22%** | **9** | 36 | **8.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
+| Anopheles merus | heavy chain | full | `XP_041776017` | 293 | 27 | **9.22%** | **5** | 26 | **8.87%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
+| Anopheles merus | heavy chain | full | `XP_041776018` | 293 | 27 | **9.22%** | **5** | 26 | **8.87%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
+| Anopheles merus | heavy chain | full | `XP_041776019` | 293 | 27 | **9.22%** | **5** | 26 | **8.87%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
+| Anopheles merus | heavy chain | full | `XP_041776020` | 293 | 27 | **9.22%** | **5** | 26 | **8.87%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
+| Anopheles merus | heavy chain | full | `XP_041776021` | 272 | 27 | **9.93%** | **5** | 26 | **9.56%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
+| Anopheles merus | heavy chain | full | `XP_041776022` | 260 | 20 | **7.69%** | **3** | 16 | **6.15%** | 0 | 0 | 0 | 0 | 0 | 2 | 1 |
+| Anopheles merus | heavy chain | full | `XP_041776495` | 389 | 47 | **12.08%** | **5** | 20 | **5.14%** | 0 | 0 | 0 | 0 | 0 | 0 | 5 |
+| Anopheles merus | heavy chain | full | `XP_041780344` | 347 | 56 | **16.14%** | **7** | 34 | **9.80%** | 0 | 0 | 0 | 1 | 0 | 0 | 6 |
+| Anopheles merus | heavy chain | full | `XP_041780763` | 353 | 61 | **17.28%** | **8** | 42 | **11.90%** | 0 | 0 | 0 | 1 | 1 | 0 | 6 |
+| Culex quinquefasciatus | Unknown_type | full | `AAR18435` | 113 | 13 | **11.50%** | **2** | 8 | **7.08%** | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
+| Culex quinquefasciatus | heavy chain | full | `XP_038110703` | 312 | 37 | **11.86%** | **5** | 22 | **7.05%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Culex quinquefasciatus | heavy chain | full | `XP_038110704` | 312 | 37 | **11.86%** | **5** | 22 | **7.05%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Culex quinquefasciatus | heavy chain | full | `XP_038110705` | 312 | 37 | **11.86%** | **5** | 22 | **7.05%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Culex quinquefasciatus | heavy chain | full | `XP_038110706` | 288 | 34 | **11.81%** | **5** | 22 | **7.64%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Culex quinquefasciatus | heavy chain | full | `XP_038110707` | 288 | 34 | **11.81%** | **5** | 22 | **7.64%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Culex quinquefasciatus | heavy chain | full | `XP_038110708` | 284 | 32 | **11.27%** | **5** | 22 | **7.75%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Culex quinquefasciatus | heavy chain | full | `XP_038110709` | 230 | 30 | **13.04%** | **5** | 22 | **9.57%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Malaya genurostris | heavy chain | full | `XP_058450508` | 344 | 36 | **10.47%** | **4** | 18 | **5.23%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+| Malaya genurostris | heavy chain | full | `XP_058450509` | 316 | 32 | **10.13%** | **4** | 18 | **5.70%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+| Malaya genurostris | heavy chain | full | `XP_058450510` | 302 | 34 | **11.26%** | **4** | 18 | **5.96%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+| Malaya genurostris | heavy chain | full | `XP_058450511` | 302 | 34 | **11.26%** | **4** | 18 | **5.96%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+| Malaya genurostris | heavy chain | full | `XP_058450512` | 278 | 29 | **10.43%** | **2** | 10 | **3.60%** | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Malaya genurostris | heavy chain | full | `XP_058450513` | 274 | 30 | **10.95%** | **4** | 18 | **6.57%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+| Malaya genurostris | heavy chain | full | `XP_058450514` | 274 | 30 | **10.95%** | **4** | 18 | **6.57%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+| Topomyia yanbarensis | heavy chain | full | `XP_058811232` | 823 | 79 | **9.60%** | **9** | 36 | **4.37%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
+| Topomyia yanbarensis | heavy chain | full | `XP_058836224` | 643 | 87 | **13.53%** | **7** | 30 | **4.67%** | 0 | 0 | 0 | 0 | 0 | 1 | 6 |
+| Topomyia yanbarensis | heavy chain | full | `XP_058836225` | 635 | 87 | **13.70%** | **7** | 30 | **4.72%** | 0 | 0 | 0 | 0 | 0 | 1 | 6 |
+| Uranotaenia lowii | Unknown_type | full | `XP_055594954` | 300 | 28 | **9.33%** | **3** | 14 | **4.67%** | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
+| Uranotaenia lowii | Unknown_type | full | `XP_055594955` | 300 | 28 | **9.33%** | **3** | 14 | **4.67%** | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
+| Uranotaenia lowii | Unknown_type | full | `XP_055594956` | 280 | 27 | **9.64%** | **3** | 14 | **5.00%** | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
+| Uranotaenia lowii | Unknown_type | full | `XP_055594957` | 280 | 27 | **9.64%** | **3** | 14 | **5.00%** | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
+| Uranotaenia lowii | Unknown_type | full | `XP_055594958` | 280 | 27 | **9.64%** | **3** | 14 | **5.00%** | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
+| Uranotaenia lowii | heavy chain | full | `XP_055588247` | 427 | 49 | **11.48%** | **7** | 28 | **6.56%** | 0 | 0 | 0 | 0 | 0 | 0 | 7 |
+| Uranotaenia lowii | heavy chain | full | `XP_055588248` | 412 | 51 | **12.38%** | **7** | 28 | **6.80%** | 0 | 0 | 0 | 0 | 0 | 0 | 7 |
+| Uranotaenia lowii | heavy chain | full | `XP_055588249` | 324 | 40 | **12.35%** | **4** | 18 | **5.56%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+| Uranotaenia lowii | heavy chain | full | `XP_055594959` | 241 | 21 | **8.71%** | **2** | 10 | **4.15%** | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+
+## Superfamily: Culicomorpha
+
+---
+
+### Family: Chironomoidea
+| Organism | Type | Partial/Full | Accession ID | Length | Serine Count | Serine Fraction | Total Runs | Residues in Motifs | Residues Fraction | n=8 Count | n=7 Count | n=6 Count | n=5 Count | n=4 Count | n=3 Count | n=2 Count |
+|  :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Chironomus tepperi | heavy chain | full | `XP_070509327` | 259 | 32 | **12.36%** | **4** | 18 | **6.95%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+| Chironomus tepperi | heavy chain | full | `XP_070509328` | 248 | 32 | **12.90%** | **4** | 18 | **7.26%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+
+### Family: Culicoidea
+| Organism | Type | Partial/Full | Accession ID | Length | Serine Count | Serine Fraction | Total Runs | Residues in Motifs | Residues Fraction | n=8 Count | n=7 Count | n=6 Count | n=5 Count | n=4 Count | n=3 Count | n=2 Count |
+|  :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Aedes aegypti | heavy chain | full | `XP_021694333` | 416 | 56 | **13.46%** | **8** | 34 | **8.17%** | 0 | 0 | 0 | 0 | 0 | 1 | 7 |
+| Aedes aegypti | heavy chain | full | `XP_021699291` | 1886 | 144 | **7.64%** | **14** | 58 | **3.08%** | 0 | 0 | 0 | 0 | 0 | 1 | 13 |
+| Anopheles albimanus | heavy chain | full | `XP_035783318` | 306 | 31 | **10.13%** | **3** | 16 | **5.23%** | 0 | 0 | 0 | 0 | 0 | 2 | 1 |
+| Anopheles albimanus | heavy chain | full | `XP_035783319` | 296 | 31 | **10.47%** | **3** | 16 | **5.41%** | 0 | 0 | 0 | 0 | 0 | 2 | 1 |
+| Anopheles albimanus | heavy chain | full | `XP_035794704` | 349 | 44 | **12.61%** | **7** | 30 | **8.60%** | 0 | 0 | 0 | 0 | 0 | 1 | 6 |
+| Anopheles albimanus | heavy chain | full | `XP_035795054` | 418 | 68 | **16.27%** | **9** | 38 | **9.09%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
+| Anopheles albimanus | heavy chain | full | `XP_035795086` | 383 | 44 | **11.49%** | **8** | 34 | **8.88%** | 0 | 0 | 0 | 0 | 0 | 1 | 7 |
+| Anopheles arabiensis | heavy chain | full | `XP_040160472` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
+| Anopheles arabiensis | heavy chain | full | `XP_040160473` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
+| Anopheles arabiensis | heavy chain | full | `XP_040160474` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
+| Anopheles arabiensis | heavy chain | full | `XP_040160475` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
+| Anopheles arabiensis | heavy chain | full | `XP_040160477` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
+| Anopheles arabiensis | heavy chain | full | `XP_040160478` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
+| Anopheles arabiensis | heavy chain | full | `XP_040160479` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
+| Anopheles arabiensis | heavy chain | full | `XP_040160480` | 1857 | 125 | **6.73%** | **10** | 42 | **2.26%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
+| Anopheles arabiensis | heavy chain | full | `XP_040162905` | 271 | 25 | **9.23%** | **4** | 20 | **7.38%** | 0 | 0 | 0 | 0 | 0 | 2 | 2 |
+| Anopheles arabiensis | heavy chain | full | `XP_040162907` | 271 | 25 | **9.23%** | **4** | 20 | **7.38%** | 0 | 0 | 0 | 0 | 0 | 2 | 2 |
+| Anopheles arabiensis | heavy chain | full | `XP_040162908` | 271 | 25 | **9.23%** | **4** | 20 | **7.38%** | 0 | 0 | 0 | 0 | 0 | 2 | 2 |
+| Anopheles arabiensis | heavy chain | full | `XP_040162909` | 271 | 25 | **9.23%** | **4** | 20 | **7.38%** | 0 | 0 | 0 | 0 | 0 | 2 | 2 |
+| Anopheles arabiensis | heavy chain | full | `XP_040162910` | 271 | 25 | **9.23%** | **4** | 20 | **7.38%** | 0 | 0 | 0 | 0 | 0 | 2 | 2 |
+| Anopheles arabiensis | heavy chain | full | `XP_040172366` | 368 | 57 | **15.49%** | **6** | 30 | **8.15%** | 0 | 0 | 0 | 1 | 0 | 0 | 5 |
+| Anopheles arabiensis | heavy chain | full | `XP_040173262` | 935 | 88 | **9.41%** | **12** | 52 | **5.56%** | 0 | 0 | 0 | 0 | 0 | 2 | 10 |
+| Anopheles arabiensis | heavy chain | full | `XP_040173387` | 413 | 69 | **16.71%** | **9** | 36 | **8.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
+| Anopheles arabiensis | heavy chain | full | `XP_040173730` | 386 | 51 | **13.21%** | **6** | 24 | **6.22%** | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
+| Anopheles arabiensis | heavy chain | full | `XP_040174308` | 349 | 59 | **16.91%** | **6** | 30 | **8.60%** | 0 | 0 | 0 | 1 | 0 | 0 | 5 |
+| Anopheles arabiensis | heavy chain | full | `XP_040174684` | 395 | 67 | **16.96%** | **8** | 38 | **9.62%** | 0 | 0 | 0 | 1 | 0 | 0 | 7 |
+| Anopheles arabiensis | heavy chain | full | `XP_040174685` | 378 | 59 | **15.61%** | **6** | 30 | **7.94%** | 0 | 0 | 0 | 1 | 0 | 0 | 5 |
+| Anopheles arabiensis | heavy chain | full | `XP_040174686` | 378 | 60 | **15.87%** | **6** | 30 | **7.94%** | 0 | 0 | 0 | 1 | 0 | 0 | 5 |
+| Anopheles arabiensis | heavy chain | full | `XP_040174722` | 413 | 69 | **16.71%** | **9** | 36 | **8.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
+| Anopheles bellator | heavy chain | full | `XP_058056387` | 447 | 20 | **4.47%** | **3** | 12 | **2.68%** | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
 | Anopheles coluzzii | Unknown_type | full | `XP_049461395` | 1632 | 118 | **7.23%** | **9** | 38 | **2.33%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
 | Anopheles coluzzii | Unknown_type | full | `XP_049461396` | 1621 | 118 | **7.28%** | **9** | 38 | **2.34%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
 | Anopheles coluzzii | Unknown_type | full | `XP_049461397` | 1610 | 118 | **7.33%** | **9** | 38 | **2.36%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
@@ -412,30 +521,33 @@ This analysis identifies serine composition and continuous runs of the **SX** un
 | Anopheles coluzzii | heavy chain | full | `XP_049466893` | 362 | 57 | **15.75%** | **5** | 26 | **7.18%** | 0 | 0 | 0 | 1 | 0 | 0 | 4 |
 | Anopheles coustani | heavy chain | full | `XP_058123489` | 1016 | 101 | **9.94%** | **10** | 42 | **4.13%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
 | Anopheles coustani | heavy chain | full | `XP_058127639` | 1860 | 120 | **6.45%** | **13** | 56 | **3.01%** | 0 | 0 | 0 | 0 | 1 | 0 | 12 |
+| Anopheles gambiae | heavy chain | full | `XP_003436203` | 1205 | 83 | **6.89%** | **5** | 20 | **1.66%** | 0 | 0 | 0 | 0 | 0 | 0 | 5 |
+| Anopheles gambiae | heavy chain | full | `XP_003436993` | 349 | 61 | **17.48%** | **7** | 38 | **10.89%** | 0 | 0 | 0 | 1 | 1 | 0 | 5 |
+| Anopheles gambiae | heavy chain | full | `XP_003436994` | 362 | 57 | **15.75%** | **5** | 26 | **7.18%** | 0 | 0 | 0 | 1 | 0 | 0 | 4 |
+| Anopheles gambiae | heavy chain | full | `XP_003436995` | 354 | 58 | **16.38%** | **6** | 32 | **9.04%** | 0 | 0 | 0 | 1 | 0 | 1 | 4 |
+| Anopheles gambiae | heavy chain | full | `XP_003436996` | 413 | 70 | **16.95%** | **11** | 48 | **11.62%** | 0 | 0 | 0 | 0 | 1 | 0 | 10 |
+| Anopheles gambiae | heavy chain | full | `XP_061512421` | 413 | 71 | **17.19%** | **10** | 50 | **12.11%** | 0 | 1 | 0 | 0 | 0 | 0 | 9 |
+| Anopheles gambiae | heavy chain | full | `XP_061512510` | 413 | 71 | **17.19%** | **10** | 50 | **12.11%** | 0 | 1 | 0 | 0 | 0 | 0 | 9 |
+| Anopheles gambiae | heavy chain | full | `XP_061516396` | 362 | 57 | **15.75%** | **6** | 30 | **8.29%** | 0 | 0 | 0 | 1 | 0 | 0 | 5 |
+| Anopheles gambiae | heavy chain | full | `XP_061518800` | 292 | 26 | **8.90%** | **5** | 26 | **8.90%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
+| Anopheles gambiae | heavy chain | full | `XP_061518801` | 292 | 26 | **8.90%** | **5** | 26 | **8.90%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
+| Anopheles gambiae | heavy chain | full | `XP_061518802` | 292 | 26 | **8.90%** | **5** | 26 | **8.90%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
+| Anopheles gambiae | heavy chain | full | `XP_061518804` | 271 | 26 | **9.59%** | **5** | 26 | **9.59%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
+| Anopheles gambiae | heavy chain | full | `XP_061518805` | 271 | 26 | **9.59%** | **5** | 26 | **9.59%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
+| Anopheles gambiae | heavy chain | full | `XP_061518806` | 271 | 26 | **9.59%** | **5** | 26 | **9.59%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
+| Anopheles gambiae | heavy chain | full | `XP_061518807` | 271 | 26 | **9.59%** | **5** | 26 | **9.59%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
+| Anopheles gambiae | heavy chain | full | `XP_310660` | 386 | 48 | **12.44%** | **5** | 20 | **5.18%** | 0 | 0 | 0 | 0 | 0 | 0 | 5 |
 | Anopheles maculipalpis | heavy chain | full | `XP_050070155` | 405 | 72 | **17.78%** | **14** | 58 | **14.32%** | 0 | 0 | 0 | 0 | 0 | 1 | 13 |
 | Anopheles maculipalpis | heavy chain | full | `XP_050070215` | 409 | 65 | **15.89%** | **13** | 56 | **13.69%** | 0 | 0 | 0 | 0 | 1 | 0 | 12 |
-| Anopheles merus | heavy chain | full | `XP_041770430` | 413 | 67 | **16.22%** | **9** | 36 | **8.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
-| Anopheles merus | heavy chain | full | `XP_041770444` | 377 | 63 | **16.71%** | **8** | 42 | **11.14%** | 0 | 0 | 0 | 1 | 1 | 0 | 6 |
-| Anopheles merus | heavy chain | full | `XP_041770456` | 362 | 59 | **16.30%** | **6** | 34 | **9.39%** | 0 | 0 | 0 | 1 | 1 | 0 | 4 |
-| Anopheles merus | heavy chain | full | `XP_041773878` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
-| Anopheles merus | heavy chain | full | `XP_041773879` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
-| Anopheles merus | heavy chain | full | `XP_041773880` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
-| Anopheles merus | heavy chain | full | `XP_041773881` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
-| Anopheles merus | heavy chain | full | `XP_041773882` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
-| Anopheles merus | heavy chain | full | `XP_041773883` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
-| Anopheles merus | heavy chain | full | `XP_041773884` | 1929 | 129 | **6.69%** | **9** | 38 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
-| Anopheles merus | heavy chain | full | `XP_041774632` | 413 | 67 | **16.22%** | **9** | 36 | **8.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
-| Anopheles merus | heavy chain | full | `XP_041774748` | 413 | 67 | **16.22%** | **9** | 36 | **8.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
-| Anopheles merus | heavy chain | full | `XP_041775516` | 413 | 67 | **16.22%** | **9** | 36 | **8.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
-| Anopheles merus | heavy chain | full | `XP_041776017` | 293 | 27 | **9.22%** | **5** | 26 | **8.87%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| Anopheles merus | heavy chain | full | `XP_041776018` | 293 | 27 | **9.22%** | **5** | 26 | **8.87%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| Anopheles merus | heavy chain | full | `XP_041776019` | 293 | 27 | **9.22%** | **5** | 26 | **8.87%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| Anopheles merus | heavy chain | full | `XP_041776020` | 293 | 27 | **9.22%** | **5** | 26 | **8.87%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| Anopheles merus | heavy chain | full | `XP_041776021` | 272 | 27 | **9.93%** | **5** | 26 | **9.56%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| Anopheles merus | heavy chain | full | `XP_041776022` | 260 | 20 | **7.69%** | **3** | 16 | **6.15%** | 0 | 0 | 0 | 0 | 0 | 2 | 1 |
-| Anopheles merus | heavy chain | full | `XP_041776495` | 389 | 47 | **12.08%** | **5** | 20 | **5.14%** | 0 | 0 | 0 | 0 | 0 | 0 | 5 |
-| Anopheles merus | heavy chain | full | `XP_041780344` | 347 | 56 | **16.14%** | **7** | 34 | **9.80%** | 0 | 0 | 0 | 1 | 0 | 0 | 6 |
-| Anopheles merus | heavy chain | full | `XP_041780763` | 353 | 61 | **17.28%** | **8** | 42 | **11.90%** | 0 | 0 | 0 | 1 | 1 | 0 | 6 |
+| Anopheles marshallii | heavy chain | full | `XP_053658428` | 396 | 50 | **12.63%** | **7** | 28 | **7.07%** | 0 | 0 | 0 | 0 | 0 | 0 | 7 |
+| Anopheles marshallii | heavy chain | full | `XP_053669177` | 365 | 26 | **7.12%** | **1** | 4 | **1.10%** | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Anopheles moucheti | heavy chain | full | `XP_052895321` | 255 | 24 | **9.41%** | **4** | 20 | **7.84%** | 0 | 0 | 0 | 0 | 0 | 2 | 2 |
+| Anopheles moucheti | heavy chain | full | `XP_052900665` | 388 | 55 | **14.18%** | **7** | 30 | **7.73%** | 0 | 0 | 0 | 0 | 0 | 1 | 6 |
+| Anopheles moucheti | heavy chain | full | `XP_052900961` | 402 | 53 | **13.18%** | **7** | 28 | **6.97%** | 0 | 0 | 0 | 0 | 0 | 0 | 7 |
+| Anopheles stephensi | heavy chain | full | `XP_035898957` | 421 | 62 | **14.73%** | **9** | 36 | **8.55%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
+| Anopheles stephensi | heavy chain | full | `XP_035898971` | 421 | 62 | **14.73%** | **9** | 36 | **8.55%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
+| Anopheles stephensi | heavy chain | full | `XP_035898985` | 421 | 62 | **14.73%** | **9** | 36 | **8.55%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
+| Anopheles stephensi | heavy chain | full | `XP_035898999` | 415 | 71 | **17.11%** | **13** | 58 | **13.98%** | 0 | 0 | 0 | 0 | 0 | 3 | 10 |
 | Anopheles ziemanni | heavy chain | full | `XP_058170638` | 1860 | 120 | **6.45%** | **13** | 56 | **3.01%** | 0 | 0 | 0 | 0 | 1 | 0 | 12 |
 | Anopheles ziemanni | heavy chain | full | `XP_058178675` | 1016 | 101 | **9.94%** | **10** | 42 | **4.13%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
 | Armigeres subalbatus | heavy chain | full | `XP_062547343` | 377 | 40 | **10.61%** | **5** | 22 | **5.84%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
@@ -457,102 +569,7 @@ This analysis identifies serine composition and continuous runs of the **SX** un
 | Culex pipiens pallens | heavy chain | full | `XP_052565029` | 312 | 37 | **11.86%** | **5** | 22 | **7.05%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 | Culex pipiens pallens | heavy chain | full | `XP_052565031` | 288 | 34 | **11.81%** | **5** | 22 | **7.64%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 | Culex pipiens pallens | heavy chain | full | `XP_052565032` | 284 | 32 | **11.27%** | **5** | 22 | **7.75%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
-| Culex quinquefasciatus | Unknown_type | full | `AAR18435` | 113 | 13 | **11.50%** | **2** | 8 | **7.08%** | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
-| Culex quinquefasciatus | heavy chain | full | `XP_038110703` | 312 | 37 | **11.86%** | **5** | 22 | **7.05%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
-| Culex quinquefasciatus | heavy chain | full | `XP_038110704` | 312 | 37 | **11.86%** | **5** | 22 | **7.05%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
-| Culex quinquefasciatus | heavy chain | full | `XP_038110705` | 312 | 37 | **11.86%** | **5** | 22 | **7.05%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
-| Culex quinquefasciatus | heavy chain | full | `XP_038110706` | 288 | 34 | **11.81%** | **5** | 22 | **7.64%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
-| Culex quinquefasciatus | heavy chain | full | `XP_038110707` | 288 | 34 | **11.81%** | **5** | 22 | **7.64%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
-| Culex quinquefasciatus | heavy chain | full | `XP_038110708` | 284 | 32 | **11.27%** | **5** | 22 | **7.75%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
-| Culex quinquefasciatus | heavy chain | full | `XP_038110709` | 230 | 30 | **13.04%** | **5** | 22 | **9.57%** | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
-
-## Superfamily: Culicomorpha
-
----
-
-### Family: Chironomoidea
-| Organism | Type | Partial/Full | Accession ID | Length | Serine Count | Serine Fraction | Total Runs | Residues in Motifs | Residues Fraction | n=8 Count | n=7 Count | n=6 Count | n=5 Count | n=4 Count | n=3 Count | n=2 Count |
-|  :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Chironomus tepperi | heavy chain | full | `XP_070509327` | 259 | 32 | **12.36%** | **4** | 18 | **6.95%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
-| Chironomus tepperi | heavy chain | full | `XP_070509328` | 248 | 32 | **12.90%** | **4** | 18 | **7.26%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
-| Culicoides brevitarsis | heavy chain | full | `XP_063697938` | 765 | 80 | **10.46%** | **8** | 32 | **4.18%** | 0 | 0 | 0 | 0 | 0 | 0 | 8 |
-
-### Family: Culicoidea
-| Organism | Type | Partial/Full | Accession ID | Length | Serine Count | Serine Fraction | Total Runs | Residues in Motifs | Residues Fraction | n=8 Count | n=7 Count | n=6 Count | n=5 Count | n=4 Count | n=3 Count | n=2 Count |
-|  :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles albimanus | heavy chain | full | `XP_035783318` | 306 | 31 | **10.13%** | **3** | 16 | **5.23%** | 0 | 0 | 0 | 0 | 0 | 2 | 1 |
-| Anopheles albimanus | heavy chain | full | `XP_035783319` | 296 | 31 | **10.47%** | **3** | 16 | **5.41%** | 0 | 0 | 0 | 0 | 0 | 2 | 1 |
-| Anopheles albimanus | heavy chain | full | `XP_035794704` | 349 | 44 | **12.61%** | **7** | 30 | **8.60%** | 0 | 0 | 0 | 0 | 0 | 1 | 6 |
-| Anopheles albimanus | heavy chain | full | `XP_035795054` | 418 | 68 | **16.27%** | **9** | 38 | **9.09%** | 0 | 0 | 0 | 0 | 0 | 1 | 8 |
-| Anopheles albimanus | heavy chain | full | `XP_035795086` | 383 | 44 | **11.49%** | **8** | 34 | **8.88%** | 0 | 0 | 0 | 0 | 0 | 1 | 7 |
-| Anopheles aquasalis | heavy chain | full | `XP_050083266` | 410 | 54 | **13.17%** | **5** | 20 | **4.88%** | 0 | 0 | 0 | 0 | 0 | 0 | 5 |
-| Anopheles aquasalis | heavy chain | full | `XP_050083280` | 380 | 37 | **9.74%** | **2** | 8 | **2.11%** | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
-| Anopheles arabiensis | heavy chain | full | `XP_040160472` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
-| Anopheles arabiensis | heavy chain | full | `XP_040160473` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
-| Anopheles arabiensis | heavy chain | full | `XP_040160474` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
-| Anopheles arabiensis | heavy chain | full | `XP_040160475` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
-| Anopheles arabiensis | heavy chain | full | `XP_040160477` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
-| Anopheles arabiensis | heavy chain | full | `XP_040160478` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
-| Anopheles arabiensis | heavy chain | full | `XP_040160479` | 1901 | 126 | **6.63%** | **10** | 42 | **2.21%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
-| Anopheles arabiensis | heavy chain | full | `XP_040160480` | 1857 | 125 | **6.73%** | **10** | 42 | **2.26%** | 0 | 0 | 0 | 0 | 0 | 1 | 9 |
-| Anopheles arabiensis | heavy chain | full | `XP_040162905` | 271 | 25 | **9.23%** | **4** | 20 | **7.38%** | 0 | 0 | 0 | 0 | 0 | 2 | 2 |
-| Anopheles arabiensis | heavy chain | full | `XP_040162907` | 271 | 25 | **9.23%** | **4** | 20 | **7.38%** | 0 | 0 | 0 | 0 | 0 | 2 | 2 |
-| Anopheles arabiensis | heavy chain | full | `XP_040162908` | 271 | 25 | **9.23%** | **4** | 20 | **7.38%** | 0 | 0 | 0 | 0 | 0 | 2 | 2 |
-| Anopheles arabiensis | heavy chain | full | `XP_040162909` | 271 | 25 | **9.23%** | **4** | 20 | **7.38%** | 0 | 0 | 0 | 0 | 0 | 2 | 2 |
-| Anopheles arabiensis | heavy chain | full | `XP_040162910` | 271 | 25 | **9.23%** | **4** | 20 | **7.38%** | 0 | 0 | 0 | 0 | 0 | 2 | 2 |
-| Anopheles arabiensis | heavy chain | full | `XP_040172366` | 368 | 57 | **15.49%** | **6** | 30 | **8.15%** | 0 | 0 | 0 | 1 | 0 | 0 | 5 |
-| Anopheles arabiensis | heavy chain | full | `XP_040173262` | 935 | 88 | **9.41%** | **12** | 52 | **5.56%** | 0 | 0 | 0 | 0 | 0 | 2 | 10 |
-| Anopheles arabiensis | heavy chain | full | `XP_040173387` | 413 | 69 | **16.71%** | **9** | 36 | **8.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
-| Anopheles arabiensis | heavy chain | full | `XP_040173730` | 386 | 51 | **13.21%** | **6** | 24 | **6.22%** | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
-| Anopheles arabiensis | heavy chain | full | `XP_040174308` | 349 | 59 | **16.91%** | **6** | 30 | **8.60%** | 0 | 0 | 0 | 1 | 0 | 0 | 5 |
-| Anopheles arabiensis | heavy chain | full | `XP_040174684` | 395 | 67 | **16.96%** | **8** | 38 | **9.62%** | 0 | 0 | 0 | 1 | 0 | 0 | 7 |
-| Anopheles arabiensis | heavy chain | full | `XP_040174685` | 378 | 59 | **15.61%** | **6** | 30 | **7.94%** | 0 | 0 | 0 | 1 | 0 | 0 | 5 |
-| Anopheles arabiensis | heavy chain | full | `XP_040174686` | 378 | 60 | **15.87%** | **6** | 30 | **7.94%** | 0 | 0 | 0 | 1 | 0 | 0 | 5 |
-| Anopheles arabiensis | heavy chain | full | `XP_040174722` | 413 | 69 | **16.71%** | **9** | 36 | **8.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
-| Anopheles bellator | heavy chain | full | `XP_058056387` | 447 | 20 | **4.47%** | **3** | 12 | **2.68%** | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
-| Anopheles cruzii | heavy chain | full | `XP_052863596` | 391 | 55 | **14.07%** | **9** | 46 | **11.76%** | 0 | 0 | 0 | 0 | 1 | 3 | 5 |
-| Anopheles darlingi | heavy chain | full | `XP_049529811` | 407 | 37 | **9.09%** | **2** | 8 | **1.97%** | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
-| Anopheles darlingi | heavy chain | full | `XP_049530170` | 428 | 66 | **15.42%** | **10** | 40 | **9.35%** | 0 | 0 | 0 | 0 | 0 | 0 | 10 |
-| Anopheles darlingi | heavy chain | full | `XP_049530179` | 403 | 48 | **11.91%** | **7** | 28 | **6.95%** | 0 | 0 | 0 | 0 | 0 | 0 | 7 |
-| Anopheles funestus | heavy chain | full | `XP_049278532` | 774 | 109 | **14.08%** | **13** | 52 | **6.72%** | 0 | 0 | 0 | 0 | 0 | 0 | 13 |
-| Anopheles funestus | heavy chain | full | `XP_049299480` | 415 | 60 | **14.46%** | **7** | 30 | **7.23%** | 0 | 0 | 0 | 0 | 0 | 1 | 6 |
-| Anopheles funestus | heavy chain | full | `XP_049300646` | 276 | 48 | **17.39%** | **10** | 52 | **18.84%** | 0 | 0 | 0 | 1 | 0 | 3 | 6 |
-| Anopheles gambiae | heavy chain | full | `XP_003436203` | 1205 | 83 | **6.89%** | **5** | 20 | **1.66%** | 0 | 0 | 0 | 0 | 0 | 0 | 5 |
-| Anopheles gambiae | heavy chain | full | `XP_003436993` | 349 | 61 | **17.48%** | **7** | 38 | **10.89%** | 0 | 0 | 0 | 1 | 1 | 0 | 5 |
-| Anopheles gambiae | heavy chain | full | `XP_003436994` | 362 | 57 | **15.75%** | **5** | 26 | **7.18%** | 0 | 0 | 0 | 1 | 0 | 0 | 4 |
-| Anopheles gambiae | heavy chain | full | `XP_003436995` | 354 | 58 | **16.38%** | **6** | 32 | **9.04%** | 0 | 0 | 0 | 1 | 0 | 1 | 4 |
-| Anopheles gambiae | heavy chain | full | `XP_003436996` | 413 | 70 | **16.95%** | **11** | 48 | **11.62%** | 0 | 0 | 0 | 0 | 1 | 0 | 10 |
-| Anopheles gambiae | heavy chain | full | `XP_061512421` | 413 | 71 | **17.19%** | **10** | 50 | **12.11%** | 0 | 1 | 0 | 0 | 0 | 0 | 9 |
-| Anopheles gambiae | heavy chain | full | `XP_061512510` | 413 | 71 | **17.19%** | **10** | 50 | **12.11%** | 0 | 1 | 0 | 0 | 0 | 0 | 9 |
-| Anopheles gambiae | heavy chain | full | `XP_061516396` | 362 | 57 | **15.75%** | **6** | 30 | **8.29%** | 0 | 0 | 0 | 1 | 0 | 0 | 5 |
-| Anopheles gambiae | heavy chain | full | `XP_061518800` | 292 | 26 | **8.90%** | **5** | 26 | **8.90%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| Anopheles gambiae | heavy chain | full | `XP_061518801` | 292 | 26 | **8.90%** | **5** | 26 | **8.90%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| Anopheles gambiae | heavy chain | full | `XP_061518802` | 292 | 26 | **8.90%** | **5** | 26 | **8.90%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| Anopheles gambiae | heavy chain | full | `XP_061518804` | 271 | 26 | **9.59%** | **5** | 26 | **9.59%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| Anopheles gambiae | heavy chain | full | `XP_061518805` | 271 | 26 | **9.59%** | **5** | 26 | **9.59%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| Anopheles gambiae | heavy chain | full | `XP_061518806` | 271 | 26 | **9.59%** | **5** | 26 | **9.59%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| Anopheles gambiae | heavy chain | full | `XP_061518807` | 271 | 26 | **9.59%** | **5** | 26 | **9.59%** | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| Anopheles gambiae | heavy chain | full | `XP_310660` | 386 | 48 | **12.44%** | **5** | 20 | **5.18%** | 0 | 0 | 0 | 0 | 0 | 0 | 5 |
-| Anopheles marshallii | heavy chain | full | `XP_053658428` | 396 | 50 | **12.63%** | **7** | 28 | **7.07%** | 0 | 0 | 0 | 0 | 0 | 0 | 7 |
-| Anopheles marshallii | heavy chain | full | `XP_053669177` | 365 | 26 | **7.12%** | **1** | 4 | **1.10%** | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| Anopheles moucheti | heavy chain | full | `XP_052895321` | 255 | 24 | **9.41%** | **4** | 20 | **7.84%** | 0 | 0 | 0 | 0 | 0 | 2 | 2 |
-| Anopheles moucheti | heavy chain | full | `XP_052900665` | 388 | 55 | **14.18%** | **7** | 30 | **7.73%** | 0 | 0 | 0 | 0 | 0 | 1 | 6 |
-| Anopheles moucheti | heavy chain | full | `XP_052900961` | 402 | 53 | **13.18%** | **7** | 28 | **6.97%** | 0 | 0 | 0 | 0 | 0 | 0 | 7 |
-| Anopheles stephensi | heavy chain | full | `XP_035898957` | 421 | 62 | **14.73%** | **9** | 36 | **8.55%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
-| Anopheles stephensi | heavy chain | full | `XP_035898971` | 421 | 62 | **14.73%** | **9** | 36 | **8.55%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
-| Anopheles stephensi | heavy chain | full | `XP_035898985` | 421 | 62 | **14.73%** | **9** | 36 | **8.55%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
-| Anopheles stephensi | heavy chain | full | `XP_035898999` | 415 | 71 | **17.11%** | **13** | 58 | **13.98%** | 0 | 0 | 0 | 0 | 0 | 3 | 10 |
-| Malaya genurostris | heavy chain | full | `XP_058450508` | 344 | 36 | **10.47%** | **4** | 18 | **5.23%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
-| Malaya genurostris | heavy chain | full | `XP_058450509` | 316 | 32 | **10.13%** | **4** | 18 | **5.70%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
-| Malaya genurostris | heavy chain | full | `XP_058450510` | 302 | 34 | **11.26%** | **4** | 18 | **5.96%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
-| Malaya genurostris | heavy chain | full | `XP_058450511` | 302 | 34 | **11.26%** | **4** | 18 | **5.96%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
-| Malaya genurostris | heavy chain | full | `XP_058450512` | 278 | 29 | **10.43%** | **2** | 10 | **3.60%** | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
-| Malaya genurostris | heavy chain | full | `XP_058450513` | 274 | 30 | **10.95%** | **4** | 18 | **6.57%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
-| Malaya genurostris | heavy chain | full | `XP_058450514` | 274 | 30 | **10.95%** | **4** | 18 | **6.57%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
 | Ochlerotatus camptorhynchus | heavy chain | full | `XP_065077665` | 290 | 30 | **10.34%** | **3** | 14 | **4.83%** | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
-| Topomyia yanbarensis | heavy chain | full | `XP_058811232` | 823 | 79 | **9.60%** | **9** | 36 | **4.37%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
-| Topomyia yanbarensis | heavy chain | full | `XP_058836224` | 643 | 87 | **13.53%** | **7** | 30 | **4.67%** | 0 | 0 | 0 | 0 | 0 | 1 | 6 |
-| Topomyia yanbarensis | heavy chain | full | `XP_058836225` | 635 | 87 | **13.70%** | **7** | 30 | **4.72%** | 0 | 0 | 0 | 0 | 0 | 1 | 6 |
 | Toxorhynchites rutilus septentrionalis | heavy chain | full | `XP_055622373` | 726 | 160 | **22.04%** | **21** | 90 | **12.40%** | 0 | 0 | 0 | 0 | 1 | 1 | 19 |
 | Toxorhynchites rutilus septentrionalis | heavy chain | full | `XP_055623703` | 394 | 31 | **7.87%** | **3** | 12 | **3.05%** | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
 | Toxorhynchites rutilus septentrionalis | heavy chain | full | `XP_055623710` | 387 | 31 | **8.01%** | **3** | 12 | **3.10%** | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
@@ -560,15 +577,6 @@ This analysis identifies serine composition and continuous runs of the **SX** un
 | Toxorhynchites rutilus septentrionalis | heavy chain | full | `XP_055625481` | 1635 | 129 | **7.89%** | **9** | 36 | **2.20%** | 0 | 0 | 0 | 0 | 0 | 0 | 9 |
 | Toxorhynchites rutilus septentrionalis | heavy chain | full | `XP_055625482` | 1439 | 96 | **6.67%** | **5** | 20 | **1.39%** | 0 | 0 | 0 | 0 | 0 | 0 | 5 |
 | Toxorhynchites rutilus septentrionalis | heavy chain | full | `XP_055633915` | 784 | 214 | **27.30%** | **41** | 180 | **22.96%** | 0 | 0 | 0 | 0 | 0 | 8 | 33 |
-| Uranotaenia lowii | Unknown_type | full | `XP_055594954` | 300 | 28 | **9.33%** | **3** | 14 | **4.67%** | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
-| Uranotaenia lowii | Unknown_type | full | `XP_055594955` | 300 | 28 | **9.33%** | **3** | 14 | **4.67%** | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
-| Uranotaenia lowii | Unknown_type | full | `XP_055594956` | 280 | 27 | **9.64%** | **3** | 14 | **5.00%** | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
-| Uranotaenia lowii | Unknown_type | full | `XP_055594957` | 280 | 27 | **9.64%** | **3** | 14 | **5.00%** | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
-| Uranotaenia lowii | Unknown_type | full | `XP_055594958` | 280 | 27 | **9.64%** | **3** | 14 | **5.00%** | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
-| Uranotaenia lowii | heavy chain | full | `XP_055588247` | 427 | 49 | **11.48%** | **7** | 28 | **6.56%** | 0 | 0 | 0 | 0 | 0 | 0 | 7 |
-| Uranotaenia lowii | heavy chain | full | `XP_055588248` | 412 | 51 | **12.38%** | **7** | 28 | **6.80%** | 0 | 0 | 0 | 0 | 0 | 0 | 7 |
-| Uranotaenia lowii | heavy chain | full | `XP_055588249` | 324 | 40 | **12.35%** | **4** | 18 | **5.56%** | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
-| Uranotaenia lowii | heavy chain | full | `XP_055594959` | 241 | 21 | **8.71%** | **2** | 10 | **4.15%** | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 | Wyeomyia smithii | Unknown_type | full | `XP_055532186` | 583 | 85 | **14.58%** | **13** | 54 | **9.26%** | 0 | 0 | 0 | 0 | 0 | 1 | 12 |
 | Wyeomyia smithii | heavy chain | full | `XP_055528321` | 334 | 38 | **11.38%** | **6** | 24 | **7.19%** | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 | Wyeomyia smithii | heavy chain | full | `XP_055532185` | 603 | 86 | **14.26%** | **13** | 54 | **8.96%** | 0 | 0 | 0 | 0 | 0 | 1 | 12 |
@@ -577,11 +585,11 @@ This analysis identifies serine composition and continuous runs of the **SX** un
 | Wyeomyia smithii | heavy chain | full | `XP_055545044` | 549 | 99 | **18.03%** | **23** | 98 | **17.85%** | 0 | 0 | 0 | 0 | 1 | 1 | 21 |
 | Wyeomyia smithii | heavy chain | full | `XP_055545045` | 535 | 94 | **17.57%** | **21** | 90 | **16.82%** | 0 | 0 | 0 | 0 | 1 | 1 | 19 |
 
-## Superfamily: Psychodoidea
+## Superfamily: Psychodomorpha
 
 ---
 
-### Family: Psychodidae
+### Family: Psychodoidea
 | Organism | Type | Partial/Full | Accession ID | Length | Serine Count | Serine Fraction | Total Runs | Residues in Motifs | Residues Fraction | n=8 Count | n=7 Count | n=6 Count | n=5 Count | n=4 Count | n=3 Count | n=2 Count |
 |  :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Phlebotomus argentipes | heavy chain | full | `XP_059618048` | 322 | 49 | **15.22%** | **7** | 36 | **11.18%** | 0 | 0 | 0 | 0 | 1 | 2 | 4 |
@@ -2352,21 +2360,21 @@ This table shows the total count for each amino acid (X) found in the $\mathbf{X
 
 ===
 
+## Superfamily: Chironomoidea
+
+---
+
+### Family: Ceratopogonidae (X-Residue Detail)
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Culicoides brevitarsis (heavy chain) - `XP_063697938` | 2 | **16** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 4 | 0 | 7 |
+
+
 ## Superfamily: Culicoidea
 
 ---
 
 ### Family: Culicidae (X-Residue Detail)
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Aedes aegypti (heavy chain) - `XP_021694333` | 3 | **3** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
-| Aedes aegypti (heavy chain) - `XP_021694333` | 2 | **14** | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 5 | 0 | 4 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Aedes aegypti (heavy chain) - `XP_021699291` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Aedes aegypti (heavy chain) - `XP_021699291` | 2 | **26** | 0 | 0 | 4 | 2 | 1 | 2 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 8 | 1 | 2 | 2 | 1 | 0 | 0 |
-
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Aedes albopictus (heavy chain) - `XP_019552249` | 4 | **4** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
@@ -2397,6 +2405,450 @@ This table shows the total count for each amino acid (X) found in the $\mathbf{X
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Aedes albopictus (heavy chain) - `XP_062706232` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
 | Aedes albopictus (heavy chain) - `XP_062706232` | 2 | **2** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles aquasalis (heavy chain) - `XP_050083266` | 2 | **10** | 3 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles aquasalis (heavy chain) - `XP_050083280` | 2 | **4** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles cruzii (heavy chain) - `XP_052863596` | 4 | **4** | 2 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles cruzii (heavy chain) - `XP_052863596` | 3 | **9** | 6 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+| Anopheles cruzii (heavy chain) - `XP_052863596` | 2 | **10** | 3 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 2 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles darlingi (heavy chain) - `XP_049529811` | 2 | **4** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles darlingi (heavy chain) - `XP_049530170` | 2 | **20** | 2 | 0 | 1 | 0 | 7 | 6 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles darlingi (heavy chain) - `XP_049530179` | 2 | **14** | 2 | 0 | 1 | 0 | 4 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles funestus (heavy chain) - `XP_049278532` | 2 | **26** | 8 | 0 | 0 | 1 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 7 | 0 | 3 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles funestus (heavy chain) - `XP_049299480` | 3 | **3** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
+| Anopheles funestus (heavy chain) - `XP_049299480` | 2 | **12** | 5 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles funestus (heavy chain) - `XP_049300646` | 5 | **5** | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
+| Anopheles funestus (heavy chain) - `XP_049300646` | 3 | **9** | 2 | 0 | 0 | 0 | 1 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles funestus (heavy chain) - `XP_049300646` | 2 | **12** | 2 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 2 | 2 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041770430` | 2 | **18** | 9 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041770444` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041770444` | 4 | **4** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041770444` | 2 | **12** | 5 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 3 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041770456` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041770456` | 4 | **4** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041770456` | 2 | **8** | 4 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041773878` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041773878` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041773879` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041773879` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041773880` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041773880` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041773881` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041773881` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041773882` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041773882` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041773883` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041773883` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041773884` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041773884` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041774632` | 2 | **18** | 9 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041774748` | 2 | **18** | 9 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041775516` | 2 | **18** | 9 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041776017` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041776017` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041776018` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041776018` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041776019` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041776019` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041776020` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041776020` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041776021` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041776021` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041776022` | 3 | **6** | 1 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041776022` | 2 | **2** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041776495` | 2 | **10** | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041780344` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041780344` | 2 | **12** | 4 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 3 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles merus (heavy chain) - `XP_041780763` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041780763` | 4 | **4** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Anopheles merus (heavy chain) - `XP_041780763` | 2 | **12** | 5 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 3 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Culex quinquefasciatus (Unknown_type) - `AAR18435` | 2 | **4** | 1 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Culex quinquefasciatus (heavy chain) - `XP_038110703` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Culex quinquefasciatus (heavy chain) - `XP_038110703` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Culex quinquefasciatus (heavy chain) - `XP_038110704` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Culex quinquefasciatus (heavy chain) - `XP_038110704` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Culex quinquefasciatus (heavy chain) - `XP_038110705` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Culex quinquefasciatus (heavy chain) - `XP_038110705` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Culex quinquefasciatus (heavy chain) - `XP_038110706` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Culex quinquefasciatus (heavy chain) - `XP_038110706` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Culex quinquefasciatus (heavy chain) - `XP_038110707` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Culex quinquefasciatus (heavy chain) - `XP_038110707` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Culex quinquefasciatus (heavy chain) - `XP_038110708` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Culex quinquefasciatus (heavy chain) - `XP_038110708` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Culex quinquefasciatus (heavy chain) - `XP_038110709` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Culex quinquefasciatus (heavy chain) - `XP_038110709` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Malaya genurostris (heavy chain) - `XP_058450508` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Malaya genurostris (heavy chain) - `XP_058450508` | 2 | **6** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Malaya genurostris (heavy chain) - `XP_058450509` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Malaya genurostris (heavy chain) - `XP_058450509` | 2 | **6** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Malaya genurostris (heavy chain) - `XP_058450510` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Malaya genurostris (heavy chain) - `XP_058450510` | 2 | **6** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Malaya genurostris (heavy chain) - `XP_058450511` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Malaya genurostris (heavy chain) - `XP_058450511` | 2 | **6** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Malaya genurostris (heavy chain) - `XP_058450512` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Malaya genurostris (heavy chain) - `XP_058450512` | 2 | **2** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Malaya genurostris (heavy chain) - `XP_058450513` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Malaya genurostris (heavy chain) - `XP_058450513` | 2 | **6** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Malaya genurostris (heavy chain) - `XP_058450514` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Malaya genurostris (heavy chain) - `XP_058450514` | 2 | **6** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Topomyia yanbarensis (heavy chain) - `XP_058811232` | 2 | **18** | 4 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 0 | 0 | 2 | 1 | 1 | 0 | 2 | 1 | 3 | 1 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Topomyia yanbarensis (heavy chain) - `XP_058836224` | 3 | **3** | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Topomyia yanbarensis (heavy chain) - `XP_058836224` | 2 | **12** | 0 | 0 | 2 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 0 | 3 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Topomyia yanbarensis (heavy chain) - `XP_058836225` | 3 | **3** | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Topomyia yanbarensis (heavy chain) - `XP_058836225` | 2 | **12** | 0 | 0 | 2 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 0 | 3 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Uranotaenia lowii (Unknown_type) - `XP_055594954` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Uranotaenia lowii (Unknown_type) - `XP_055594954` | 2 | **4** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Uranotaenia lowii (Unknown_type) - `XP_055594955` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Uranotaenia lowii (Unknown_type) - `XP_055594955` | 2 | **4** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Uranotaenia lowii (Unknown_type) - `XP_055594956` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Uranotaenia lowii (Unknown_type) - `XP_055594956` | 2 | **4** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Uranotaenia lowii (Unknown_type) - `XP_055594957` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Uranotaenia lowii (Unknown_type) - `XP_055594957` | 2 | **4** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Uranotaenia lowii (Unknown_type) - `XP_055594958` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Uranotaenia lowii (Unknown_type) - `XP_055594958` | 2 | **4** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Uranotaenia lowii (heavy chain) - `XP_055588247` | 2 | **14** | 4 | 0 | 0 | 1 | 3 | 2 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Uranotaenia lowii (heavy chain) - `XP_055588248` | 2 | **14** | 1 | 0 | 0 | 0 | 3 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 | 1 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Uranotaenia lowii (heavy chain) - `XP_055588249` | 3 | **3** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Uranotaenia lowii (heavy chain) - `XP_055588249` | 2 | **6** | 3 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Uranotaenia lowii (heavy chain) - `XP_055594959` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Uranotaenia lowii (heavy chain) - `XP_055594959` | 2 | **2** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+
+## Superfamily: Culicomorpha
+
+---
+
+### Family: Chironomoidea (X-Residue Detail)
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Chironomus tepperi (heavy chain) - `XP_070509327` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Chironomus tepperi (heavy chain) - `XP_070509327` | 2 | **6** | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Chironomus tepperi (heavy chain) - `XP_070509328` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Chironomus tepperi (heavy chain) - `XP_070509328` | 2 | **6** | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 1 |
+
+
+### Family: Culicoidea (X-Residue Detail)
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Aedes aegypti (heavy chain) - `XP_021694333` | 3 | **3** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
+| Aedes aegypti (heavy chain) - `XP_021694333` | 2 | **14** | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 5 | 0 | 4 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Aedes aegypti (heavy chain) - `XP_021699291` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Aedes aegypti (heavy chain) - `XP_021699291` | 2 | **26** | 0 | 0 | 4 | 2 | 1 | 2 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 8 | 1 | 2 | 2 | 1 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles albimanus (heavy chain) - `XP_035783318` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 1 |
+| Anopheles albimanus (heavy chain) - `XP_035783318` | 2 | **2** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles albimanus (heavy chain) - `XP_035783319` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 1 |
+| Anopheles albimanus (heavy chain) - `XP_035783319` | 2 | **2** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles albimanus (heavy chain) - `XP_035794704` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Anopheles albimanus (heavy chain) - `XP_035794704` | 2 | **12** | 3 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 1 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles albimanus (heavy chain) - `XP_035795054` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles albimanus (heavy chain) - `XP_035795054` | 2 | **16** | 2 | 0 | 0 | 0 | 5 | 4 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 1 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles albimanus (heavy chain) - `XP_035795086` | 3 | **3** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles albimanus (heavy chain) - `XP_035795086` | 2 | **14** | 5 | 0 | 0 | 0 | 3 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040160472` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040160472` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040160473` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040160473` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040160474` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040160474` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040160475` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040160475` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040160477` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040160477` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040160478` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040160478` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040160479` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040160479` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040160480` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040160480` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040162905` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040162905` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040162907` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040162907` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040162908` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040162908` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040162909` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040162909` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040162910` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040162910` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040172366` | 5 | **5** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040172366` | 2 | **10** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040173262` | 3 | **6** | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040173262` | 2 | **20** | 4 | 0 | 1 | 1 | 1 | 4 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 2 | 2 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040173387` | 2 | **18** | 8 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040173730` | 2 | **12** | 4 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040174308` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040174308` | 2 | **10** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040174684` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040174684` | 2 | **14** | 7 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040174685` | 5 | **5** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040174685` | 2 | **10** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040174686` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles arabiensis (heavy chain) - `XP_040174686` | 2 | **10** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles arabiensis (heavy chain) - `XP_040174722` | 2 | **18** | 8 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles bellator (heavy chain) - `XP_058056387` | 2 | **6** | 1 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -2538,6 +2990,86 @@ This table shows the total count for each amino acid (X) found in the $\mathbf{X
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_003436203` | 2 | **10** | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_003436993` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_003436993` | 4 | **4** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_003436993` | 2 | **10** | 5 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_003436994` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_003436994` | 2 | **8** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_003436995` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_003436995` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_003436995` | 2 | **8** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_003436996` | 4 | **4** | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_003436996` | 2 | **20** | 8 | 0 | 0 | 0 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_061512421` | 7 | **7** | 0 | 0 | 0 | 0 | 1 | 4 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_061512421` | 2 | **18** | 8 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_061512510` | 7 | **7** | 0 | 0 | 0 | 0 | 1 | 4 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_061512510` | 2 | **18** | 8 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_061516396` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_061516396` | 2 | **10** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 2 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_061518800` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_061518800` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_061518801` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_061518801` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_061518802` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_061518802` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_061518804` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_061518804` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_061518805` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_061518805` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_061518806` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_061518806` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_061518807` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| Anopheles gambiae (heavy chain) - `XP_061518807` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Anopheles gambiae (heavy chain) - `XP_310660` | 2 | **10** | 4 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 1 |
+
+| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Anopheles maculipalpis (heavy chain) - `XP_050070155` | 3 | **3** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
 | Anopheles maculipalpis (heavy chain) - `XP_050070155` | 2 | **26** | 6 | 0 | 0 | 0 | 4 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 8 | 0 | 1 | 0 | 0 |
 
@@ -2548,111 +3080,42 @@ This table shows the total count for each amino acid (X) found in the $\mathbf{X
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041770430` | 2 | **18** | 9 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 1 |
+| Anopheles marshallii (heavy chain) - `XP_053658428` | 2 | **14** | 4 | 0 | 0 | 0 | 1 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 | 0 | 1 | 0 | 0 |
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041770444` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041770444` | 4 | **4** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041770444` | 2 | **12** | 5 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 3 | 0 | 0 | 0 | 1 |
+| Anopheles marshallii (heavy chain) - `XP_053669177` | 2 | **2** | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041770456` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041770456` | 4 | **4** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041770456` | 2 | **8** | 4 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| Anopheles moucheti (heavy chain) - `XP_052895321` | 3 | **6** | 1 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
+| Anopheles moucheti (heavy chain) - `XP_052895321` | 2 | **4** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 |
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041773878` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041773878` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles moucheti (heavy chain) - `XP_052900665` | 3 | **3** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles moucheti (heavy chain) - `XP_052900665` | 2 | **12** | 6 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 2 | 0 | 1 |
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041773879` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041773879` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles moucheti (heavy chain) - `XP_052900961` | 2 | **14** | 5 | 0 | 0 | 0 | 1 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 1 | 0 | 0 |
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041773880` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041773880` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles stephensi (heavy chain) - `XP_035898957` | 2 | **18** | 3 | 0 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 5 | 0 | 2 | 0 | 1 |
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041773881` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041773881` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles stephensi (heavy chain) - `XP_035898971` | 2 | **18** | 3 | 0 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 5 | 0 | 2 | 0 | 1 |
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041773882` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041773882` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
+| Anopheles stephensi (heavy chain) - `XP_035898985` | 2 | **18** | 3 | 0 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 5 | 0 | 2 | 0 | 1 |
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041773883` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041773883` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041773884` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041773884` | 2 | **16** | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041774632` | 2 | **18** | 9 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041774748` | 2 | **18** | 9 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041775516` | 2 | **18** | 9 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041776017` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041776017` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041776018` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041776018` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041776019` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041776019` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041776020` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041776020` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041776021` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041776021` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041776022` | 3 | **6** | 1 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041776022` | 2 | **2** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041776495` | 2 | **10** | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041780344` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041780344` | 2 | **12** | 4 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 3 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles merus (heavy chain) - `XP_041780763` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041780763` | 4 | **4** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
-| Anopheles merus (heavy chain) - `XP_041780763` | 2 | **12** | 5 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 3 | 0 | 0 | 0 | 1 |
+| Anopheles stephensi (heavy chain) - `XP_035898999` | 3 | **9** | 0 | 0 | 0 | 0 | 3 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Anopheles stephensi (heavy chain) - `XP_035898999` | 2 | **20** | 5 | 0 | 0 | 1 | 2 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 0 | 1 | 0 | 0 |
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -2760,414 +3223,8 @@ This table shows the total count for each amino acid (X) found in the $\mathbf{X
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Culex quinquefasciatus (Unknown_type) - `AAR18435` | 2 | **4** | 1 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Culex quinquefasciatus (heavy chain) - `XP_038110703` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Culex quinquefasciatus (heavy chain) - `XP_038110703` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Culex quinquefasciatus (heavy chain) - `XP_038110704` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Culex quinquefasciatus (heavy chain) - `XP_038110704` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Culex quinquefasciatus (heavy chain) - `XP_038110705` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Culex quinquefasciatus (heavy chain) - `XP_038110705` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Culex quinquefasciatus (heavy chain) - `XP_038110706` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Culex quinquefasciatus (heavy chain) - `XP_038110706` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Culex quinquefasciatus (heavy chain) - `XP_038110707` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Culex quinquefasciatus (heavy chain) - `XP_038110707` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Culex quinquefasciatus (heavy chain) - `XP_038110708` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Culex quinquefasciatus (heavy chain) - `XP_038110708` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Culex quinquefasciatus (heavy chain) - `XP_038110709` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Culex quinquefasciatus (heavy chain) - `XP_038110709` | 2 | **8** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 2 |
-
-
-## Superfamily: Culicomorpha
-
----
-
-### Family: Chironomoidea (X-Residue Detail)
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Chironomus tepperi (heavy chain) - `XP_070509327` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Chironomus tepperi (heavy chain) - `XP_070509327` | 2 | **6** | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Chironomus tepperi (heavy chain) - `XP_070509328` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Chironomus tepperi (heavy chain) - `XP_070509328` | 2 | **6** | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Culicoides brevitarsis (heavy chain) - `XP_063697938` | 2 | **16** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 4 | 0 | 7 |
-
-
-### Family: Culicoidea (X-Residue Detail)
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles albimanus (heavy chain) - `XP_035783318` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 1 |
-| Anopheles albimanus (heavy chain) - `XP_035783318` | 2 | **2** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles albimanus (heavy chain) - `XP_035783319` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 1 |
-| Anopheles albimanus (heavy chain) - `XP_035783319` | 2 | **2** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles albimanus (heavy chain) - `XP_035794704` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
-| Anopheles albimanus (heavy chain) - `XP_035794704` | 2 | **12** | 3 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 1 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles albimanus (heavy chain) - `XP_035795054` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles albimanus (heavy chain) - `XP_035795054` | 2 | **16** | 2 | 0 | 0 | 0 | 5 | 4 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 1 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles albimanus (heavy chain) - `XP_035795086` | 3 | **3** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles albimanus (heavy chain) - `XP_035795086` | 2 | **14** | 5 | 0 | 0 | 0 | 3 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles aquasalis (heavy chain) - `XP_050083266` | 2 | **10** | 3 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles aquasalis (heavy chain) - `XP_050083280` | 2 | **4** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040160472` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040160472` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040160473` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040160473` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040160474` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040160474` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040160475` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040160475` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040160477` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040160477` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040160478` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040160478` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040160479` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040160479` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040160480` | 3 | **3** | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040160480` | 2 | **18** | 0 | 0 | 1 | 1 | 1 | 3 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040162905` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040162905` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040162907` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040162907` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040162908` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040162908` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040162909` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040162909` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040162910` | 3 | **6** | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040162910` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040172366` | 5 | **5** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040172366` | 2 | **10** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040173262` | 3 | **6** | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040173262` | 2 | **20** | 4 | 0 | 1 | 1 | 1 | 4 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 2 | 2 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040173387` | 2 | **18** | 8 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040173730` | 2 | **12** | 4 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040174308` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040174308` | 2 | **10** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040174684` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040174684` | 2 | **14** | 7 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040174685` | 5 | **5** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040174685` | 2 | **10** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040174686` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles arabiensis (heavy chain) - `XP_040174686` | 2 | **10** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles arabiensis (heavy chain) - `XP_040174722` | 2 | **18** | 8 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles bellator (heavy chain) - `XP_058056387` | 2 | **6** | 1 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles cruzii (heavy chain) - `XP_052863596` | 4 | **4** | 2 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles cruzii (heavy chain) - `XP_052863596` | 3 | **9** | 6 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
-| Anopheles cruzii (heavy chain) - `XP_052863596` | 2 | **10** | 3 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 2 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles darlingi (heavy chain) - `XP_049529811` | 2 | **4** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles darlingi (heavy chain) - `XP_049530170` | 2 | **20** | 2 | 0 | 1 | 0 | 7 | 6 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles darlingi (heavy chain) - `XP_049530179` | 2 | **14** | 2 | 0 | 1 | 0 | 4 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles funestus (heavy chain) - `XP_049278532` | 2 | **26** | 8 | 0 | 0 | 1 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 7 | 0 | 3 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles funestus (heavy chain) - `XP_049299480` | 3 | **3** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
-| Anopheles funestus (heavy chain) - `XP_049299480` | 2 | **12** | 5 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles funestus (heavy chain) - `XP_049300646` | 5 | **5** | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
-| Anopheles funestus (heavy chain) - `XP_049300646` | 3 | **9** | 2 | 0 | 0 | 0 | 1 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles funestus (heavy chain) - `XP_049300646` | 2 | **12** | 2 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 2 | 2 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_003436203` | 2 | **10** | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_003436993` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_003436993` | 4 | **4** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_003436993` | 2 | **10** | 5 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 1 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_003436994` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_003436994` | 2 | **8** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_003436995` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_003436995` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_003436995` | 2 | **8** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_003436996` | 4 | **4** | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_003436996` | 2 | **20** | 8 | 0 | 0 | 0 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_061512421` | 7 | **7** | 0 | 0 | 0 | 0 | 1 | 4 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_061512421` | 2 | **18** | 8 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_061512510` | 7 | **7** | 0 | 0 | 0 | 0 | 1 | 4 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_061512510` | 2 | **18** | 8 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_061516396` | 5 | **5** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_061516396` | 2 | **10** | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_061518800` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_061518800` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_061518801` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_061518801` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_061518802` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_061518802` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_061518804` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_061518804` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_061518805` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_061518805` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_061518806` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_061518806` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_061518807` | 3 | **9** | 2 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
-| Anopheles gambiae (heavy chain) - `XP_061518807` | 2 | **4** | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles gambiae (heavy chain) - `XP_310660` | 2 | **10** | 4 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles marshallii (heavy chain) - `XP_053658428` | 2 | **14** | 4 | 0 | 0 | 0 | 1 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 | 0 | 1 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles marshallii (heavy chain) - `XP_053669177` | 2 | **2** | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles moucheti (heavy chain) - `XP_052895321` | 3 | **6** | 1 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |
-| Anopheles moucheti (heavy chain) - `XP_052895321` | 2 | **4** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles moucheti (heavy chain) - `XP_052900665` | 3 | **3** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Anopheles moucheti (heavy chain) - `XP_052900665` | 2 | **12** | 6 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 2 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles moucheti (heavy chain) - `XP_052900961` | 2 | **14** | 5 | 0 | 0 | 0 | 1 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 1 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles stephensi (heavy chain) - `XP_035898957` | 2 | **18** | 3 | 0 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 5 | 0 | 2 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles stephensi (heavy chain) - `XP_035898971` | 2 | **18** | 3 | 0 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 5 | 0 | 2 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles stephensi (heavy chain) - `XP_035898985` | 2 | **18** | 3 | 0 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 5 | 0 | 2 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Anopheles stephensi (heavy chain) - `XP_035898999` | 3 | **9** | 0 | 0 | 0 | 0 | 3 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
-| Anopheles stephensi (heavy chain) - `XP_035898999` | 2 | **20** | 5 | 0 | 0 | 1 | 2 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 0 | 1 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Malaya genurostris (heavy chain) - `XP_058450508` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Malaya genurostris (heavy chain) - `XP_058450508` | 2 | **6** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Malaya genurostris (heavy chain) - `XP_058450509` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Malaya genurostris (heavy chain) - `XP_058450509` | 2 | **6** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Malaya genurostris (heavy chain) - `XP_058450510` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Malaya genurostris (heavy chain) - `XP_058450510` | 2 | **6** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Malaya genurostris (heavy chain) - `XP_058450511` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Malaya genurostris (heavy chain) - `XP_058450511` | 2 | **6** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Malaya genurostris (heavy chain) - `XP_058450512` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Malaya genurostris (heavy chain) - `XP_058450512` | 2 | **2** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Malaya genurostris (heavy chain) - `XP_058450513` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Malaya genurostris (heavy chain) - `XP_058450513` | 2 | **6** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Malaya genurostris (heavy chain) - `XP_058450514` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Malaya genurostris (heavy chain) - `XP_058450514` | 2 | **6** | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Ochlerotatus camptorhynchus (heavy chain) - `XP_065077665` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
 | Ochlerotatus camptorhynchus (heavy chain) - `XP_065077665` | 2 | **4** | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Topomyia yanbarensis (heavy chain) - `XP_058811232` | 2 | **18** | 4 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 0 | 0 | 2 | 1 | 1 | 0 | 2 | 1 | 3 | 1 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Topomyia yanbarensis (heavy chain) - `XP_058836224` | 3 | **3** | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Topomyia yanbarensis (heavy chain) - `XP_058836224` | 2 | **12** | 0 | 0 | 2 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 0 | 3 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Topomyia yanbarensis (heavy chain) - `XP_058836225` | 3 | **3** | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Topomyia yanbarensis (heavy chain) - `XP_058836225` | 2 | **12** | 0 | 0 | 2 | 0 | 0 | 1 | 1 | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 0 | 3 | 0 | 0 | 0 |
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -3199,49 +3256,6 @@ This table shows the total count for each amino acid (X) found in the $\mathbf{X
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Toxorhynchites rutilus septentrionalis (heavy chain) - `XP_055633915` | 3 | **24** | 2 | 0 | 1 | 0 | 0 | 9 | 0 | 0 | 0 | 2 | 0 | 3 | 0 | 0 | 0 | 4 | 2 | 0 | 0 | 1 |
 | Toxorhynchites rutilus septentrionalis (heavy chain) - `XP_055633915` | 2 | **66** | 4 | 0 | 0 | 1 | 0 | 47 | 0 | 2 | 0 | 0 | 0 | 2 | 1 | 0 | 2 | 3 | 1 | 3 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Uranotaenia lowii (Unknown_type) - `XP_055594954` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Uranotaenia lowii (Unknown_type) - `XP_055594954` | 2 | **4** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Uranotaenia lowii (Unknown_type) - `XP_055594955` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Uranotaenia lowii (Unknown_type) - `XP_055594955` | 2 | **4** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Uranotaenia lowii (Unknown_type) - `XP_055594956` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Uranotaenia lowii (Unknown_type) - `XP_055594956` | 2 | **4** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Uranotaenia lowii (Unknown_type) - `XP_055594957` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Uranotaenia lowii (Unknown_type) - `XP_055594957` | 2 | **4** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Uranotaenia lowii (Unknown_type) - `XP_055594958` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Uranotaenia lowii (Unknown_type) - `XP_055594958` | 2 | **4** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Uranotaenia lowii (heavy chain) - `XP_055588247` | 2 | **14** | 4 | 0 | 0 | 1 | 3 | 2 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Uranotaenia lowii (heavy chain) - `XP_055588248` | 2 | **14** | 1 | 0 | 0 | 0 | 3 | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 | 1 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Uranotaenia lowii (heavy chain) - `XP_055588249` | 3 | **3** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Uranotaenia lowii (heavy chain) - `XP_055588249` | 2 | **6** | 3 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-| Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Uranotaenia lowii (heavy chain) - `XP_055594959` | 3 | **3** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
-| Uranotaenia lowii (heavy chain) - `XP_055594959` | 2 | **2** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -3282,11 +3296,11 @@ This table shows the total count for each amino acid (X) found in the $\mathbf{X
 | Wyeomyia smithii (heavy chain) - `XP_055545045` | 2 | **38** | 5 | 0 | 2 | 1 | 0 | 21 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 4 | 0 | 0 |
 
 
-## Superfamily: Psychodoidea
+## Superfamily: Psychodomorpha
 
 ---
 
-### Family: Psychodidae (X-Residue Detail)
+### Family: Psychodoidea (X-Residue Detail)
 | Organism/Type/ID | n (Run Length) | Total X Residues | X=A | X=C | X=D | X=E | X=F | X=G | X=H | X=I | X=K | X=L | X=M | X=N | X=P | X=Q | X=R | X=S | X=T | X=V | X=W | X=Y |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Phlebotomus argentipes (heavy chain) - `XP_059618048` | 4 | **4** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 |

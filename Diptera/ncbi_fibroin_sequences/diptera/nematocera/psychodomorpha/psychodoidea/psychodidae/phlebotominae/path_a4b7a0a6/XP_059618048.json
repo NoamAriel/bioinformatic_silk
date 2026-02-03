@@ -1,0 +1,40 @@
+{
+  "accession": "XP_059618048",
+  "title": "fibroin heavy chain isoform X1 [Phlebotomus argentipes]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Phlebotomus argentipes",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Nematocera",
+    "Psychodoidea",
+    "Psychodidae",
+    "Phlebotomus",
+    "Euphlebotomus"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Nematocera",
+    "Psychodomorpha",
+    "Psychodoidea",
+    "Psychodidae",
+    "Phlebotominae",
+    "Phlebotomus",
+    "Euphlebotomus",
+    "Phlebotomus argentipes"
+  ],
+  "sequence_length": 322,
+  "origin_sequence": "MKCFAGFFTLFIALQSAFGYSATSGAAAGASAGAGSFSSTGGSNSAGVFSTGSGSVPSNSFSNTPNAGQYGSQYPYVDNNLGSSYGGSAGGSTFGGSTDGSSYGGAAAGAASGGAYAGTGAAPFIPPVQPPTGQFPGQFPSPPSQYDYQNLFLNFWKSLSDNYANAATMTFATPGANAFAAASSGPHNELINEQLAHQAALFNQINAAGSRFGAQPGVGASGGGGGGYYAPSFASSSASLGPQGGYQTANIIPANPNSPNVDTRYGGENPVVTTSVGQPGFYGVSSSSFSTSSDINGQKSSHREAQTTINDNGQVTTYTVRS",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_059618048"
+}
