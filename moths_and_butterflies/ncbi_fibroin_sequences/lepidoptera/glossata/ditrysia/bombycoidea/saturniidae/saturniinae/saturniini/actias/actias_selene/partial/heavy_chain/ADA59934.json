@@ -1,0 +1,41 @@
+{
+  "accession": "ADA59934",
+  "title": "fibroin heavy chain, partial [Actias selene]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Actias selene",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Bombycoidea",
+    "Saturniidae",
+    "Saturniinae",
+    "Saturniini",
+    "Actias"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Neolepidoptera",
+    "Bombycoidea",
+    "Saturniidae",
+    "Saturniinae",
+    "Saturniini",
+    "Actias"
+  ],
+  "sequence_length": 273,
+  "origin_sequence": "VTAFVIFCCALQYASAKNINRLDGNTRFDEYVDNSGQLYERYTTREEYERNAATLPRISGNERLVETIILEEDPFGHEKIYKEDVIIKKVADASSAAAASSAAAAGAGSGSGPTIIVERPTGIVSRHAYGAGSAAAAGAAAAGSGAGGLGGSYGLSDGGYGSGSAAAAAAAAAASSGARASYERAQRAESAAAAAAAAAAASSSGSEDSAVDVYRSSSSRRESSSAASAAAAAAAAAGSAEREYESERAAAAAAAAAAASAAGAAGSGSRGLG",
+  "partial_full": "partial",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ADA59934"
+}

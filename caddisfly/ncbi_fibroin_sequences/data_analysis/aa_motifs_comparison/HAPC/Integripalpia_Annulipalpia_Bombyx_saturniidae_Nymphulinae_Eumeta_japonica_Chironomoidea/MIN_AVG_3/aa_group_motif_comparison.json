@@ -1,0 +1,1777 @@
+{
+  "motifs": [
+    "\u03b1\u03b8\u03c0\u03b8\u03b8",
+    "\u03b1\u03b8\u03c0\u03b8\u03c0",
+    "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8",
+    "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0",
+    "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8",
+    "\u03b8\u03b8\u03b8\u03c0\u03b8",
+    "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0",
+    "\u03b8\u03b8\u03c0\u03b8\u03b8",
+    "\u03b8\u03b8\u03c0\u03b8\u03b8\u03b8",
+    "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8",
+    "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8",
+    "\u03b8\u03b8\u03c0\u03b8\u03c0",
+    "\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0",
+    "\u03b8\u03b8\u03c0\u03c0\u03b8",
+    "\u03b8\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0",
+    "\u03b8\u03c0\u03b1\u03b8\u03c0",
+    "\u03b8\u03c0\u03b1\u03b8\u03c0\u03b8\u03b8",
+    "\u03b8\u03c0\u03b8\u03b8\u03c0",
+    "\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8\u03b8",
+    "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0",
+    "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0\u03b8",
+    "\u03b8\u03c0\u03b8\u03b8\u03c6",
+    "\u03b8\u03c0\u03b8\u03c0\u03b8",
+    "\u03b8\u03c0\u03b8\u03c0\u03b8\u03b1",
+    "\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8",
+    "\u03b8\u03c0\u03b8\u03c0\u03c0",
+    "\u03b8\u03c0\u03c0\u03b8\u03b8",
+    "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0",
+    "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8",
+    "\u03b8\u03c0\u03c0\u03b8\u03c0",
+    "\u03b8\u03c0\u03c6\u03b8\u03c0",
+    "\u03b8\u03c0\u03c6\u03b8\u03c0\u03b8",
+    "\u03b8\u03c6\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8",
+    "\u03c0\u03b8\u03b8\u03c0\u03b8",
+    "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0",
+    "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0\u03b8",
+    "\u03c0\u03b8\u03b8\u03c0\u03c0",
+    "\u03c0\u03b8\u03c0\u03b8\u03b1",
+    "\u03c0\u03b8\u03c0\u03b8\u03c0",
+    "\u03c0\u03b8\u03c0\u03b8\u03c0\u03c6\u03b8",
+    "\u03c0\u03c0\u03b8\u03b8\u03c0",
+    "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8",
+    "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0",
+    "\u03c0\u03c0\u03b8\u03c0\u03b8",
+    "\u03c0\u03c6\u03b8\u03c0\u03b8",
+    "\u03c6\u03b8\u03c0\u03b8\u03b8",
+    "\u03c6\u03b8\u03c0\u03b8\u03c0",
+    "\u03c6\u03b8\u03c0\u03b8\u03c0\u03b8"
+  ],
+  "entries": [
+    {
+      "label": "Integripalpia",
+      "source": "D:\\python\\bioinformatic_silk\\caddisfly\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\Integripalpia\\all_partial_full\\heavy_chain\\ge_1000\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 6.134670694003455,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 7.304762832014016,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 17.694669221922823,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03b8": {
+          "avg_relative_percent": 3.2903765584369613,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 11.906583169051189,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 10.337817515620245,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 2.5309765868111738,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 17.985905471568817,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c6": {
+          "avg_relative_percent": 5.479006367854792,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 10.144142737112844,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 1.7147594129390205,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c6\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 12.598493023183023,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 19.466466890157808,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 10.706422291450261,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0\u03c6\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 4.772683087703392,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 8.844079668292425,
+          "num_records": 6,
+          "num_records_with_motif": 6
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 6,
+          "num_records_with_motif": 0
+        }
+      }
+    },
+    {
+      "label": "Annulipalpia",
+      "source": "D:\\python\\bioinformatic_silk\\caddisfly\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\Annulipalpia\\all_partial_full\\heavy_chain\\ge_1000\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 4.381978147065297,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 3.315447164774147,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 3.9785365977289757,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 4.525258037687676,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 5.171723471643058,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.1223418337170347,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 1.8631854111013437,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03b8": {
+          "avg_relative_percent": 0.09974399399668263,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 2.3757235895496214,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8": {
+          "avg_relative_percent": 3.0545017579923712,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 7.295854289526178,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 4.870620962629955,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 4.181192635908664,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 3.204117748987395,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0": {
+          "avg_relative_percent": 3.9710544896367566,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 3.238663270149557,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 7.907563458111352,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8\u03b8": {
+          "avg_relative_percent": 3.0545017579923712,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 3.573949040673081,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 3.0124741287379893,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c6": {
+          "avg_relative_percent": 0.45482181370597685,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 14.670152256491955,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 4.277768579719024,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 4.525258037687676,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 4.968494429603583,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 3.975730807194394,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 4.424578780179466,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 5.162008576876044,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 4.552894454617405,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0": {
+          "avg_relative_percent": 9.427104955849778,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 10.76673977057256,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c6\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 10.86066143929203,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 8.555537159438048,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 6.494161283506608,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 3.1445308572220387,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 3.5648071497658536,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 7.83379609822939,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0\u03c6\u03b8": {
+          "avg_relative_percent": 3.8270500797108973,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 5.598908868419306,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 6.618946648106483,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 4.990730009672195,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 1.154327294846023,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 9.055403137141036,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.8704217886921546,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 13.153475778052465,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 7.305931443944933,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        }
+      }
+    },
+    {
+      "label": "Bombyx",
+      "source": "D:\\python\\bioinformatic_silk\\moths_and_butterflies\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\Bombyx\\all_partial_full\\heavy_chain\\ge_1000\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.15074027238198112,
+          "num_records": 32,
+          "num_records_with_motif": 8
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 13.474171400097154,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 16.169005680116577,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 12.034872634395347,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 13.75414015359469,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 36.75130380371602,
+          "num_records": 32,
+          "num_records_with_motif": 32
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 39.567493506050226,
+          "num_records": 32,
+          "num_records_with_motif": 32
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 3.865934802657985,
+          "num_records": 32,
+          "num_records_with_motif": 32
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03b8": {
+          "avg_relative_percent": 4.166024546697282,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.2216843646953716,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 32,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 36.91201477103414,
+          "num_records": 32,
+          "num_records_with_motif": 32
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.0031296945418127185,
+          "num_records": 32,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 3.4721722335366656,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 5.3719576734263805,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 32,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 32,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 0.3241952460021027,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 32,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.19901912546363343,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 0.23218897970757232,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c6": {
+          "avg_relative_percent": 0.35509362708882974,
+          "num_records": 32,
+          "num_records_with_motif": 32
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 74.56256683985946,
+          "num_records": 32,
+          "num_records_with_motif": 32
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 16.454287017268253,
+          "num_records": 32,
+          "num_records_with_motif": 31
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 30.2620708907125,
+          "num_records": 32,
+          "num_records_with_motif": 32
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.25719043711405687,
+          "num_records": 32,
+          "num_records_with_motif": 32
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 3.630846132212982,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 4.068854528733436,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 4.74699695018901,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.004888233675779959,
+          "num_records": 32,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 32,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 32,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c6\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 32,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 3.549058082060272,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 3.8725872593095474,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 32,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.3897777967709099,
+          "num_records": 32,
+          "num_records_with_motif": 32
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 13.726419265159956,
+          "num_records": 32,
+          "num_records_with_motif": 32
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 27.310254166830834,
+          "num_records": 32,
+          "num_records_with_motif": 32
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0\u03c6\u03b8": {
+          "avg_relative_percent": 3.3880556705234603,
+          "num_records": 32,
+          "num_records_with_motif": 5
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 3.5354676454378744,
+          "num_records": 32,
+          "num_records_with_motif": 32
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 4.068854528733436,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 4.407176286846787,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03c0\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.20216202747128464,
+          "num_records": 32,
+          "num_records_with_motif": 28
+        },
+        "\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.07917298739120411,
+          "num_records": 32,
+          "num_records_with_motif": 27
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 32,
+          "num_records_with_motif": 0
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0024345590526643813,
+          "num_records": 32,
+          "num_records_with_motif": 1
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.002921470863197258,
+          "num_records": 32,
+          "num_records_with_motif": 1
+        }
+      }
+    },
+    {
+      "label": "saturniidae",
+      "source": "D:\\python\\bioinformatic_silk\\moths_and_butterflies\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\saturniidae\\all_partial_full\\heavy_chain\\ge_1000\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 10.145959416162336,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 11.391954432182272,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03b8": {
+          "avg_relative_percent": 4.4855820576717695,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 5.233179067283731,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8": {
+          "avg_relative_percent": 4.4855820576717695,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.177999288002848,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 0.177999288002848,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 3.915984336062656,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8\u03b8": {
+          "avg_relative_percent": 4.4855820576717695,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.21359914560341758,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c6": {
+          "avg_relative_percent": 1.7799928800284799,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.355998576005696,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0": {
+          "avg_relative_percent": 0.355998576005696,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.21359914560341758,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03c6\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 3.915984336062656,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.21359914560341758,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 3.2039871840512637,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.177999288002848,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0\u03c6\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 3.2039871840512637,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.21359914560341758,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.2491990032039872,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03c0\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.533997864008544,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.355998576005696,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.355998576005696,
+          "num_records": 1,
+          "num_records_with_motif": 1
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 1,
+          "num_records_with_motif": 0
+        }
+      }
+    },
+    {
+      "label": "Nymphulinae",
+      "source": "D:\\python\\bioinformatic_silk\\moths_and_butterflies\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\Nymphulinae\\all_partial_full\\heavy_chain\\ge_1000\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 6.840785469801651,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 1.7672825783534876,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 4.353979965775265,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03b8": {
+          "avg_relative_percent": 3.158664513661383,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 3.7820828155057935,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 3.640996597386602,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 3.7853108917443348,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0": {
+          "avg_relative_percent": 14.74420626819662,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 8.93609189548175,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 12.296976711888323,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 6.087491940717773,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 5.066143414617555,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c6": {
+          "avg_relative_percent": 7.4783893172759335,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 13.772634217380146,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 9.00633585998255,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.6617956699492523,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 4.174315672819721,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0": {
+          "avg_relative_percent": 8.908590287865103,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 6.04911484357833,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c6\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 6.243967501350853,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 7.274290079985402,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 12.222606050862176,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0\u03c6\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 6.336502801698847,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 4.0230763633500874,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 5.882313948714091,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 5.0621880392273155,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 5.769946840925639,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 3.83603299173421,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 4.092949681257443,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        }
+      }
+    },
+    {
+      "label": "Eumeta japonica",
+      "source": "D:\\python\\bioinformatic_silk\\moths_and_butterflies\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\Eumeta_japonica\\all_partial_full\\heavy_chain\\ge_1000\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.3283676469735427,
+          "num_records": 14,
+          "num_records_with_motif": 10
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.36031725055521935,
+          "num_records": 14,
+          "num_records_with_motif": 10
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.1353733955937953,
+          "num_records": 14,
+          "num_records_with_motif": 4
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.013676148796498906,
+          "num_records": 14,
+          "num_records_with_motif": 1
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 14,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.5121582107346438,
+          "num_records": 14,
+          "num_records_with_motif": 10
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.21492947972658194,
+          "num_records": 14,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.8105312390008369,
+          "num_records": 14,
+          "num_records_with_motif": 14
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03b8": {
+          "avg_relative_percent": 0.2598996713997897,
+          "num_records": 14,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.2575168654598901,
+          "num_records": 14,
+          "num_records_with_motif": 7
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 14,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.9683192896285044,
+          "num_records": 14,
+          "num_records_with_motif": 13
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.38346852401910014,
+          "num_records": 14,
+          "num_records_with_motif": 9
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 1.6006957106194355,
+          "num_records": 14,
+          "num_records_with_motif": 13
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.050184008029441285,
+          "num_records": 14,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0": {
+          "avg_relative_percent": 0.47428272782791975,
+          "num_records": 14,
+          "num_records_with_motif": 12
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.04524886877828054,
+          "num_records": 14,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 1.566557485230156,
+          "num_records": 14,
+          "num_records_with_motif": 14
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 14,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.6232844113138708,
+          "num_records": 14,
+          "num_records_with_motif": 12
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 0.22392858016280656,
+          "num_records": 14,
+          "num_records_with_motif": 6
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c6": {
+          "avg_relative_percent": 0.36716857644903234,
+          "num_records": 14,
+          "num_records_with_motif": 11
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 1.351738888657277,
+          "num_records": 14,
+          "num_records_with_motif": 14
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 0.29140262294223745,
+          "num_records": 14,
+          "num_records_with_motif": 9
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.11401692992939526,
+          "num_records": 14,
+          "num_records_with_motif": 3
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 1.3751362851181412,
+          "num_records": 14,
+          "num_records_with_motif": 14
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 1.7274427164009032,
+          "num_records": 14,
+          "num_records_with_motif": 13
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 0.5342355855600006,
+          "num_records": 14,
+          "num_records_with_motif": 11
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.21750584965013825,
+          "num_records": 14,
+          "num_records_with_motif": 7
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 1.7345548189553848,
+          "num_records": 14,
+          "num_records_with_motif": 14
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0": {
+          "avg_relative_percent": 0.8871819609806576,
+          "num_records": 14,
+          "num_records_with_motif": 12
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.2945393662432943,
+          "num_records": 14,
+          "num_records_with_motif": 7
+        },
+        "\u03b8\u03c6\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 14,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 1.5010199481795983,
+          "num_records": 14,
+          "num_records_with_motif": 14
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.7205412009050255,
+          "num_records": 14,
+          "num_records_with_motif": 11
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 0.1436077948464101,
+          "num_records": 14,
+          "num_records_with_motif": 5
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 1.9376940736243307,
+          "num_records": 14,
+          "num_records_with_motif": 14
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 0.4737992339803178,
+          "num_records": 14,
+          "num_records_with_motif": 10
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 1.8509740490590936,
+          "num_records": 14,
+          "num_records_with_motif": 14
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0\u03c6\u03b8": {
+          "avg_relative_percent": 0.03799521494435883,
+          "num_records": 14,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 2.0099133855736504,
+          "num_records": 14,
+          "num_records_with_motif": 14
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.6839737495323336,
+          "num_records": 14,
+          "num_records_with_motif": 12
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.23364121356891138,
+          "num_records": 14,
+          "num_records_with_motif": 7
+        },
+        "\u03c0\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 2.0438932988723977,
+          "num_records": 14,
+          "num_records_with_motif": 14
+        },
+        "\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.9309389609402053,
+          "num_records": 14,
+          "num_records_with_motif": 13
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.5009855923581814,
+          "num_records": 14,
+          "num_records_with_motif": 11
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.6913108611132853,
+          "num_records": 14,
+          "num_records_with_motif": 14
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.18220922189887542,
+          "num_records": 14,
+          "num_records_with_motif": 6
+        }
+      }
+    },
+    {
+      "label": "Chironomoidea",
+      "source": "D:\\python\\bioinformatic_silk\\Diptera\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\Chironomoidea\\all_partial_full\\heavy_chain\\all_lengths\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 1.9733154813799976,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b1\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 9.866577406899987,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 2.3679785776559967,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 7.89326192551999,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03b8": {
+          "avg_relative_percent": 9.471914310623987,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 5.919946444139993,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 4.7359571553119935,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 1.9733154813799976,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b1\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 1.9733154813799976,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8\u03c8\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c6": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 1.9733154813799976,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 3.946630962759995,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 1.9733154813799976,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 2.3679785776559967,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 3.946630962759995,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c6\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 3.157304770207996,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 1.9733154813799976,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 2.3679785776559967,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0\u03c0\u03b8": {
+          "avg_relative_percent": 3.157304770207996,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03c0": {
+          "avg_relative_percent": 1.9733154813799976,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03b1": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 2.9385664466309627,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0\u03c6\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 1.9733154813799976,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03c0\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 2.9385664466309627,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03c6\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 1.9733154813799976,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03c6\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        }
+      }
+    }
+  ],
+  "skip_missing": false
+}

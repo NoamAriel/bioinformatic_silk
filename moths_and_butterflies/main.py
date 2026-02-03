@@ -75,7 +75,7 @@ def main() -> None:
         
 
     run_ncbi_protein_scraper(
-        order_name="Lepidoptera",
+        order_name="pyraloidea",
         protein_terms=["fibroin"],
         expected_types=expected_types,
         output_root=str(BASE / "ncbi_fibroin_sequences"),

@@ -1,0 +1,36 @@
+{
+  "accession": "ANA52002",
+  "title": "fibroin heavy chain [Haritalodes derogata]",
+  "family_query": "pyraloidea",
+  "protein_term": "fibroin",
+  "organism_name": "Haritalodes derogata",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Pyraloidea",
+    "Crambidae",
+    "Spilomelinae"
+  ],
+  "taxonomy_from_order": [
+    "Pyraloidea",
+    "Crambidae",
+    "Spilomelinae",
+    "Haritalodes",
+    "Haritalodes derogata"
+  ],
+  "sequence_length": 440,
+  "origin_sequence": "MRVTTFVILCCALQYVAADAIGDSMKNIEKNYREVNETKTDEYQLGKDGAMTERLTTRKKFERNVEPSKNISGEEKIVRTFVIETDADGHETIYEEDVVIKKVPGAHGGSSASSAAAASSGASAASGAAGAYGAGAGSAANAAANAGPGGPYGPYGPRGPGSAAAAAAAASSGPQRPEIIIVDEARPATASAAASAASGPQGPTGAYGPYGPYGPQGPQGPRRPQGPKGPQGPQGPEVIIIEENNAPATATATASAAAGPQGPAGPYGPYGPYGPQGPQGPRGPQGPNGPQGPAAPEVIIIEENEAPVSASASAAAASGPAGPYGPYGPYGPEGPYGPRGPGSAAAAAAAAASSGPQRPEVIIVEGPEGPYGPCGPVAAAVAAVAAAVAAVAAARNLARKRSTNRIPLATLIKINLIKTSTKSQLTEFVRNAFNDPKYCV",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ANA52002"
+}

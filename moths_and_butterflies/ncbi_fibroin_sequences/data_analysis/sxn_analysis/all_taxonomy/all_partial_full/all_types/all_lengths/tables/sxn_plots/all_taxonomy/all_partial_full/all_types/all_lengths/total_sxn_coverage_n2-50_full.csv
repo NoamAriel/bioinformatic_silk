@@ -1,0 +1,152 @@
+organism,type,fraction_mean,fraction_sd,length_mean,length_sd
+Acentria ephemerella,heavy chain,9.548,0.443,6320.500,239.709
+Achroia grisella,heavy chain,5.870,0.103,2629.000,3230.064
+Achroia grisella,light chain,2.996,0.000,267.000,0.000
+Amyelois transitella,heavy chain,31.070,0.004,4145.500,17.678
+Amyelois transitella,light chain,3.019,0.000,265.000,0.000
+Andraca theae,Unknown_type,3.367,4.252,571.318,485.700
+Antheraea assamensis,heavy chain,10.182,0.000,2809.000,0.000
+Antheraea pernyi,Unknown_type,4.205,5.754,1037.333,1387.236
+Antheraea yamamai,Unknown_type,10.743,0.041,2755.500,142.128
+Anticarsia gemmatalis,light chain,1.521,0.000,263.000,0.000
+Aphomia sociella,Unknown_type,3.587,0.000,223.000,0.000
+Aphomia sociella,heavy chain,3.879,0.002,9075.000,108.000
+Aphomia sociella,light chain,7.491,0.000,267.000,0.000
+Arctia plantaginis,Unknown_type,1.079,0.895,257.308,80.127
+Aricia agestis,Unknown_type,1.554,1.517,209.200,34.896
+Aricia agestis,heavy chain,4.625,5.897,1703.571,1300.695
+Battus philenor,Unknown_type,1.852,0.000,216.000,0.000
+Battus philenor,heavy chain,9.552,0.879,2222.333,1896.087
+Battus philenor,light chain,3.065,0.000,261.000,0.000
+Bicyclus anynana,Unknown_type,1.287,1.820,506.000,383.252
+Bicyclus anynana,heavy chain,0.935,0.024,855.667,21.939
+Bicyclus anynana,light chain,1.556,0.000,257.000,0.000
+Bombyx mandarina,Unknown_type,2.095,1.973,236.667,13.077
+Bombyx mandarina,heavy chain,1.698,1.235,4506.600,2722.798
+Bombyx mandarina,light chain,3.053,0.000,262.000,0.000
+Bombyx mori,Unknown_type,3.667,7.300,344.935,309.144
+Bombyx mori,heavy chain,1.822,1.952,3958.704,1976.383
+Bombyx mori,light chain,2.595,0.783,266.000,6.831
+Chilo suppressalis,Unknown_type,0.723,0.835,248.000,34.283
+Chrysodeixis includens,Unknown_type,2.680,0.924,248.667,1.155
+Cnaphalocrocis medinalis,light chain,3.065,0.000,261.000,0.000
+Colias croceus,Unknown_type,0.471,0.816,251.667,32.563
+Colias croceus,heavy chain,7.701,9.907,2579.000,2834.084
+Colias croceus,light chain,4.478,0.000,268.000,0.000
+Colias eurytheme,Unknown_type,1.261,1.964,207.000,58.335
+Corcyra cephalonica,light chain,5.243,0.000,267.000,0.000
+Cydia fagiglandana,heavy chain,1.230,1.101,362.667,101.264
+Cydia fagiglandana,light chain,3.846,0.000,260.000,0.000
+Danaus chrysippus,Unknown_type,1.890,2.113,449.000,359.405
+Danaus plexippus,heavy chain,5.721,3.878,2153.286,1392.233
+Danaus plexippus,light chain,1.476,0.000,271.000,0.000
+Danaus plexippus plexippus,Unknown_type,0.749,1.059,242.000,35.355
+Dendrolimus spectabilis,Unknown_type,1.521,2.151,241.000,31.113
+Elophila obliteralis,heavy chain,0.318,0.010,6301.000,195.161
+Epargyreus clarus,light chain,2.105,0.000,285.000,0.000
+Ephestia kuehniella,Unknown_type,1.603,1.467,303.333,100.426
+Ephestia kuehniella,heavy chain,21.666,0.000,5631.000,0.000
+Ephestia kuehniella,light chain,1.515,0.000,264.000,0.000
+Eumeta japonica,Unknown_type,2.949,3.245,205.834,223.422
+Eumeta japonica,heavy chain,1.180,1.188,695.324,695.700
+Eumeta japonica,light chain,2.215,1.842,247.429,152.835
+Euphydryas editha,Unknown_type,3.694,4.095,327.000,146.687
+Galleria mellonella,Unknown_type,16.901,30.515,222.875,54.909
+Galleria mellonella,heavy chain,3.793,4.209,3244.000,3894.744
+Galleria mellonella,light chain,2.996,0.000,267.000,0.000
+Haritalodes derogata,heavy chain,2.273,0.000,440.000,0.000
+Haritalodes derogata,light chain,1.498,0.000,267.000,0.000
+Helicoverpa armigera,Unknown_type,0.827,0.910,239.833,16.105
+Helicoverpa armigera,heavy chain,9.366,9.021,1154.667,821.972
+Helicoverpa armigera,light chain,1.533,0.000,261.000,0.000
+Helicoverpa zea,heavy chain,6.933,5.814,1313.500,1874.042
+Helicoverpa zea,light chain,1.533,0.000,261.000,0.000
+Hyphantria cunea,Unknown_type,1.810,0.000,221.000,0.000
+Hyposmocoma kahamanoa,Unknown_type,1.744,0.059,229.500,7.778
+Hyposmocoma kahamanoa,heavy chain,9.890,9.946,375.000,162.635
+Hyposmocoma kahamanoa,light chain,1.575,0.000,254.000,0.000
+Leptidea sinapis,Unknown_type,12.834,5.644,1720.688,907.506
+Leptidea sinapis,heavy chain,15.631,2.052,2216.775,305.085
+Leptidea sinapis,light chain,6.742,0.000,267.000,0.000
+Loxostege sticticalis,Unknown_type,3.998,2.993,256.474,58.599
+Manduca sexta,Unknown_type,4.372,5.055,229.500,11.121
+Manduca sexta,heavy chain,11.648,0.738,2641.906,459.644
+Manduca sexta,light chain,9.079,3.086,169.667,80.532
+Maniola hyperantus,Unknown_type,4.607,4.644,768.400,672.207
+Maniola hyperantus,heavy chain,17.707,16.125,2167.750,431.681
+Maniola hyperantus,light chain,1.581,0.000,253.000,0.000
+Maniola jurtina,Unknown_type,3.428,3.834,355.600,177.942
+Maniola jurtina,heavy chain,6.036,1.539,1407.500,1304.612
+Melitaea cinxia,Unknown_type,1.877,2.654,300.000,103.238
+Melitaea cinxia,heavy chain,6.830,8.822,941.000,1049.578
+Melitaea cinxia,light chain,1.498,0.000,267.000,0.000
+Mythimna loreyi,Unknown_type,1.515,2.624,358.667,194.158
+Mythimna separata,Unknown_type,0.995,0.862,478.333,407.311
+Nymphalis io,heavy chain,7.569,6.866,614.000,721.814
+Nymphalis io,light chain,2.985,0.000,268.000,0.000
+Nymphula nitidulata,heavy chain,2.373,0.001,5899.000,475.176
+Operophtera brumata,Unknown_type,1.410,0.537,612.000,233.345
+Ostrinia furnacalis,Unknown_type,3.439,3.441,232.500,7.937
+Ostrinia furnacalis,heavy chain,1.315,1.656,404.000,105.432
+Ostrinia furnacalis,light chain,1.521,0.000,263.000,0.000
+Ostrinia nubilalis,heavy chain,5.925,7.290,1965.000,2121.020
+Ostrinia nubilalis,light chain,1.521,0.000,263.000,0.000
+Papilio machaon,Unknown_type,0.633,0.895,344.500,183.141
+Papilio machaon,heavy chain,8.535,10.781,1458.714,1830.708
+Papilio machaon,light chain,4.280,1.651,257.000,0.000
+Papilio polytes,heavy chain,15.579,0.000,475.000,0.000
+Papilio polytes,light chain,3.101,0.000,258.000,0.000
+Papilio xuthus,Unknown_type,1.362,2.724,223.500,22.650
+Papilio xuthus,heavy chain,10.423,12.318,625.500,224.153
+Papilio xuthus,light chain,5.150,1.020,196.000,68.191
+Parapoynx stratiotata,heavy chain,0.225,0.036,7101.000,118.794
+Pararge aegeria,Unknown_type,7.745,2.622,803.714,259.775
+Pararge aegeria,heavy chain,5.009,3.496,993.750,864.599
+Pararge aegeria aegeria,Unknown_type,2.911,3.857,276.000,49.376
+Parnassius apollo,Unknown_type,0.787,1.114,232.000,31.113
+Pectinophora gossypiella,Unknown_type,2.707,1.073,222.500,2.887
+Pectinophora gossypiella,heavy chain,9.024,4.010,681.500,308.646
+Pectinophora gossypiella,light chain,2.372,0.000,253.000,0.000
+Phthorimaea operculella,Unknown_type,1.501,1.520,274.000,92.933
+Phthorimaea operculella,light chain,7.860,0.000,229.000,0.000
+Phymatopus californicus,light chain,5.254,0.659,266.300,8.538
+Pieris brassicae,Unknown_type,0.623,1.392,236.400,24.419
+Pieris brassicae,heavy chain,15.502,7.523,1418.367,538.663
+Pieris macdunnoughi,Unknown_type,0.671,1.342,258.750,33.738
+Pieris napi,Unknown_type,1.064,1.843,282.667,83.267
+Pieris napi,heavy chain,36.770,10.984,2000.778,493.940
+Pieris rapae,Unknown_type,1.301,2.253,217.000,12.530
+Pieris rapae,heavy chain,17.834,4.612,1832.333,2649.749
+Plodia interpunctella,heavy chain,4.697,8.622,1874.750,1677.000
+Plodia interpunctella,light chain,4.545,0.000,264.000,0.000
+Plutella xylostella,Unknown_type,1.789,1.601,280.861,142.505
+Plutella xylostella,heavy chain,20.093,9.490,2356.667,1309.427
+Plutella xylostella,light chain,3.175,0.000,252.000,0.000
+Pseudoips prasinana,Unknown_type,5.699,9.014,420.375,373.213
+Pseudoips prasinana,heavy chain,15.031,0.000,652.000,0.000
+Pseudoips prasinana,light chain,1.504,0.000,266.000,0.000
+Samia ricini,Unknown_type,2.180,0.881,893.250,1324.694
+Scirpophaga incertulas,Unknown_type,2.222,2.654,264.333,46.522
+Spodoptera exigua,Unknown_type,2.482,1.686,288.500,70.470
+Spodoptera frugiperda,Unknown_type,1.850,1.309,230.667,14.882
+Spodoptera frugiperda,heavy chain,6.770,3.954,856.500,878.029
+Spodoptera frugiperda,light chain,3.831,0.000,261.000,0.000
+Spodoptera littoralis,Unknown_type,2.132,0.249,394.000,237.701
+Spodoptera litura,Unknown_type,0.877,1.241,343.500,163.342
+Spodoptera litura,heavy chain,5.370,1.742,346.000,90.252
+Spodoptera litura,light chain,3.831,0.000,261.000,0.000
+Trichoplusia ni,Unknown_type,1.770,2.503,220.000,8.485
+Trichoplusia ni,heavy chain,6.925,1.043,718.333,379.540
+Trichoplusia ni,light chain,3.226,0.000,248.000,0.000
+Tuta absoluta,Unknown_type,1.974,2.296,230.778,10.940
+Vanessa atalanta,heavy chain,8.949,8.236,1322.500,1327.239
+Vanessa atalanta,light chain,1.493,0.000,268.000,0.000
+Vanessa cardui,Unknown_type,5.249,1.864,578.600,129.503
+Vanessa cardui,heavy chain,17.108,6.600,3722.429,1491.935
+Vanessa cardui,light chain,1.493,0.000,268.000,0.000
+Vanessa tameamea,heavy chain,9.100,4.725,1760.625,2321.829
+Vanessa tameamea,light chain,1.493,0.000,268.000,0.000
+Yponomeuta evonymella,Unknown_type,1.538,2.176,238.500,30.406
+Zerene cesonia,Unknown_type,1.223,2.119,254.667,33.292
+Zerene cesonia,heavy chain,8.305,11.679,497.000,189.597
+Zerene cesonia,light chain,5.224,0.000,268.000,0.000

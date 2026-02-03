@@ -1,0 +1,37 @@
+{
+  "accession": "WHN38837",
+  "title": "Sn2 [Andraca theae]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Andraca theae",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Bombycoidea",
+    "Endromidae",
+    "Andraca"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Neolepidoptera",
+    "Bombycoidea",
+    "Endromidae",
+    "Andraca"
+  ],
+  "sequence_length": 238,
+  "origin_sequence": "MRSIILLCAVSVQLVWCSGLPSNSNGVGAFAYQDSNGNRYGGTYGLKDGQVVESNGNFPPNFQVNAFTGFDNFFPEYFRNLDNILQEVFNSNLESQRLAYNAAQKALDLTTNHAGYMPNFNFRYPHDDFIGFGGFPDIPSPFAAMPNFENDFSAFAGAAARPGYTHQVAAINPSNPAMPNINKVNQYTDHAKDGNGYMSVSSSSYSSSSNVNGEQKNQRGAETVVNDNGIVTRYKVEN",
+  "partial_full": "full",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/WHN38837"
+}

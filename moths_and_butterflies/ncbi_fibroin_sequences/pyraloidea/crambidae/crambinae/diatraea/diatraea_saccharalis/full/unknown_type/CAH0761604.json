@@ -1,0 +1,36 @@
+{
+  "accession": "CAH0761604",
+  "title": "unnamed protein product [Diatraea saccharalis]",
+  "family_query": "pyraloidea",
+  "protein_term": "fibroin",
+  "organism_name": "Diatraea saccharalis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Pyraloidea",
+    "Crambidae",
+    "Crambinae",
+    "Diatraea"
+  ],
+  "taxonomy_from_order": [
+    "Pyraloidea",
+    "Crambidae",
+    "Crambinae",
+    "Diatraea"
+  ],
+  "sequence_length": 218,
+  "origin_sequence": "MISRAILFCLAVGVCAAGKAGIVRPCYFSDRKCIADNLRANSKCKPVIKGALPNKYTLQNVRFEAPFFNASFIDRTLTIRNHNKCKISEFFFNVPGDTAVLSVDCPYLDLESDRTLIQHTSKKEDSKYNYHIRGEYPLIRLTTNLKHADKLNLCSAFVFGDVTALPIFKVDPLDKPTKNFLSHDLTVLNVFERETFFYRAPYLMRKYINSYICNFGCN",
+  "partial_full": "full",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/CAH0761604"
+}

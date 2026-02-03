@@ -1,0 +1,37 @@
+{
+  "accession": "ADW54439",
+  "title": "heavy chain fibroin, partial [Corcyra cephalonica]",
+  "family_query": "pyraloidea",
+  "protein_term": "fibroin",
+  "organism_name": "Corcyra cephalonica",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Pyraloidea",
+    "Pyralidae",
+    "Galleriinae",
+    "Corcyra"
+  ],
+  "taxonomy_from_order": [
+    "Pyraloidea",
+    "Pyralidae",
+    "Galleriinae",
+    "Corcyra",
+    "Corcyra cephalonica"
+  ],
+  "sequence_length": 105,
+  "origin_sequence": "GLGGYGPYGGWGLGGAGGAGGSPVIVIEDNASAAAAAAAASAAGAGGLGLGGYGPYGGWGLGGAGGAGGSAAAAAAAAGVSRVVARPTVRGACSLTRRQFVVKEF",
+  "partial_full": "partial",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ADW54439"
+}

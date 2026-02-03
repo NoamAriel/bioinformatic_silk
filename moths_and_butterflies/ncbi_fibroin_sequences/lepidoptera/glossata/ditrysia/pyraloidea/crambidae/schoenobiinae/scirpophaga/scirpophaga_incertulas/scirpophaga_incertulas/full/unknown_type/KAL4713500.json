@@ -1,0 +1,37 @@
+{
+  "accession": "KAL4713500",
+  "title": "hypothetical protein ACJJTC_010485 [Scirpophaga incertulas]",
+  "family_query": "pyraloidea",
+  "protein_term": "fibroin",
+  "organism_name": "Scirpophaga incertulas",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Pyraloidea",
+    "Crambidae",
+    "Schoenobiinae",
+    "Scirpophaga"
+  ],
+  "taxonomy_from_order": [
+    "Pyraloidea",
+    "Crambidae",
+    "Schoenobiinae",
+    "Scirpophaga",
+    "Scirpophaga incertulas"
+  ],
+  "sequence_length": 310,
+  "origin_sequence": "MRREIFFLLALVGFNGAAQSYYSRSDGWSGPPDKFNISSSGDKISEEFWEWIGKRKEEDEKEIKILEELIEKKREEVKKEIAELVAKANDINTDKIESKDREVDNHLFHPCKNNGDDCIKQYLTMNSQCAPIYPYKNKHKIFREKSISYLPNFNLTLSITNSEIDGLDGKVEQFYINKKTGNLIYAVDFKSITIDSKMTYFIINQRGKEPVVVGDFVKIKFAPTVLTAVIPISYSGLSLKDALISADISGLPIYDLGPKASKTPDPVVQRTLLAYTINMKTGVRELFLTEAYTYFIEYLQNYICDFGIRT",
+  "partial_full": "full",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAL4713500"
+}

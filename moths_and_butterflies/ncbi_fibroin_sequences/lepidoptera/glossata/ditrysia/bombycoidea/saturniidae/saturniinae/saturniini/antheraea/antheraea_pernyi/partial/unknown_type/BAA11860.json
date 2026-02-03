@@ -1,0 +1,41 @@
+{
+  "accession": "BAA11860",
+  "title": "Antheraea pernyi fibroin, partial [Antheraea pernyi]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Antheraea pernyi",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Bombycoidea",
+    "Saturniidae",
+    "Saturniinae",
+    "Saturniini",
+    "Antheraea"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Neolepidoptera",
+    "Bombycoidea",
+    "Saturniidae",
+    "Saturniinae",
+    "Saturniini",
+    "Antheraea"
+  ],
+  "sequence_length": 421,
+  "origin_sequence": "SGSSAAAAAAAAAASRRAGHERAAGSAAAAAAAAAAAASGVGRSGGSYGWGDGGYGSDSAAAAAAAAAAAAAASGAGGAGVCRGYGGYGSDGSGSAAAAAAAAAAAGSGAGGVGGGYGWGDGAYGSDSAAAAAAAAAAAAGSGAGGRRGYGAYGSDSSAAAAAAAAAASGAGGSGGGYGWGDGGYGSDSAAAAAAAAAAAAAAGSGAGGIGGGFGRGDGGYGSGSSAAAAAAAAAAAARRAGHGRSAGSAAAAAAAAAAAAASGAGGSGGSYGWDYESYGSGSAAAAAGSGAGGSGGGYGWGDGGYGSGSSAAAAAAAAAAAGSRRSGHDRAYGAGSAAAAAAAAAAGAGASRQVGIYGTDDGFILDGGYDSEGSAAAAAAAAAAAASSSGRSTEGHPLLSICCRPCSHSHSYEASRMPVH",
+  "partial_full": "partial",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/BAA11860"
+}

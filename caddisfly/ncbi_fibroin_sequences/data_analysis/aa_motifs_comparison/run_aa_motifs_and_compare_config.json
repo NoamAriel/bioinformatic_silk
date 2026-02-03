@@ -1,0 +1,118 @@
+{
+  "use_compare_config": false,
+  "reuse_existing_outputs": false,
+  "analyses": [
+    {
+      "label": "Integripalpia",
+      "outputs_root": "caddisfly\\ncbi_fibroin_sequences",
+      "taxonomy_terms": [
+        "Integripalpia"
+      ]
+    },
+    {
+      "label": "Annulipalpia",
+      "outputs_root": "caddisfly\\ncbi_fibroin_sequences",
+      "taxonomy_terms": [
+        "Annulipalpia"
+      ]
+    },
+    {
+      "label": "Bombyx",
+      "outputs_root": "moths_and_butterflies\\ncbi_fibroin_sequences",
+      "taxonomy_terms": [
+        "Bombyx"
+      ]
+    },
+    {
+      "label": "saturniidae",
+      "outputs_root": "moths_and_butterflies\\ncbi_fibroin_sequences",
+      "taxonomy_terms": [
+        "saturniidae"
+      ]
+    },
+    {
+      "label": "Nymphulinae",
+      "outputs_root": "moths_and_butterflies\\ncbi_fibroin_sequences",
+      "taxonomy_terms": [
+        "Nymphulinae"
+      ]
+    },
+    {
+      "label": "Eumeta japonica",
+      "outputs_root": "moths_and_butterflies\\ncbi_fibroin_sequences",
+      "taxonomy_terms": [
+        "Eumeta japonica"
+      ]
+    },
+    {
+      "label": "Chironomoidea",
+      "outputs_root": "Diptera\\ncbi_fibroin_sequences",
+      "taxonomy_terms": [
+        "Chironomoidea"
+      ],
+      "length_threshold": null
+    }
+  ],
+  "compare_out_dir": "D:\\python\\bioinformatic_silk\\caddisfly\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs_comparison",
+  "compare_plots_dir": "D:\\python\\bioinformatic_silk\\caddisfly\\ncbi_fibroin_sequences\\plots\\aa_motifs_comparison",
+  "compare_filters": {
+    "partial_full": null,
+    "protein_types": [
+      "heavy chain"
+    ],
+    "length_range": null,
+    "length_threshold": 1000,
+    "length_mode": "ge",
+    "longest_factor": null,
+    "min_motif_length": 5,
+    "max_motif_length": 50,
+    "min_avg_relative": 3,
+    "use_unique_motifs": false,
+    "use_window_normalized": false,
+    "min_avg_relative_taxa": [
+      "Integripalpia",
+      "Annulipalpia"
+    ],
+    "min_avg_relative_min_taxa": 2,
+    "require_non_filter_taxa": true,
+    "group_legend_override": {
+      "H": "Hydrophobic",
+      "\u03b1": "aromatic",
+      "\u03b8": "polar",
+      "q": "charged"
+    },
+    "group_map_override": {
+      "\u03c0": [
+        "A",
+        "V",
+        "L",
+        "I",
+        "M",
+        "P"
+      ],
+      "\u03b1": [
+        "F",
+        "W",
+        "Y"
+      ],
+      "\u03b8": [
+        "C",
+        "N",
+        "Q",
+        "G",
+        "S",
+        "T"
+      ],
+      "\u03c8": [
+        "D",
+        "E"
+      ],
+      "\u03c6": [
+        "K",
+        "R",
+        "H"
+      ]
+    },
+    "group_label": "HAPC"
+  }
+}

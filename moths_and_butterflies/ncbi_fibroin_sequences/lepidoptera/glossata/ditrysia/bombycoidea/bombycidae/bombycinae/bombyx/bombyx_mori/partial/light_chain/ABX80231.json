@@ -1,0 +1,39 @@
+{
+  "accession": "ABX80231",
+  "title": "fibroin light chain, partial [Bombyx mori]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Bombyx mori",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Bombycoidea",
+    "Bombycidae",
+    "Bombycinae",
+    "Bombyx"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Neolepidoptera",
+    "Bombycoidea",
+    "Bombycidae",
+    "Bombycinae",
+    "Bombyx"
+  ],
+  "sequence_length": 15,
+  "origin_sequence": "YLSAGIPGDACAAAN",
+  "partial_full": "partial",
+  "type": "light chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ABX80231"
+}

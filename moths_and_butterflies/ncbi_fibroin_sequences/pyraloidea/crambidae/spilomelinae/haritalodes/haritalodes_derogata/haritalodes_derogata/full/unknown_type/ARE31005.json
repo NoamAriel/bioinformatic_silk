@@ -1,0 +1,36 @@
+{
+  "accession": "ARE31005",
+  "title": "low molecular weight silk protein P25 [Haritalodes derogata]",
+  "family_query": "pyraloidea",
+  "protein_term": "fibroin",
+  "organism_name": "Haritalodes derogata",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Pyraloidea",
+    "Crambidae",
+    "Spilomelinae"
+  ],
+  "taxonomy_from_order": [
+    "Pyraloidea",
+    "Crambidae",
+    "Spilomelinae",
+    "Haritalodes",
+    "Haritalodes derogata"
+  ],
+  "sequence_length": 220,
+  "origin_sequence": "MLGKAIILAVVFNVCWAGAARKGIVRPCRLNDYTCIGQNFAANSKCSKKVLGSIPGEYILNDIRFETPYFNSSYIDNTLIVRRHNKCYVSEFFFNVDKDTSVITVDCPWLDLESNRTLIQHYTKREDTEYNYHIRGEYPLIRLTANLKHADKLDVCNGYVLADVTALPIFKVDPLDKPTERFLSHDLSFLNIYERETFFYRGRHLFRYFINAYICDFGCY",
+  "partial_full": "full",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ARE31005"
+}

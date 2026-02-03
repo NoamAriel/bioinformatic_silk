@@ -1,0 +1,36 @@
+{
+  "accession": "KAL0829929",
+  "title": "hypothetical protein ABMA28_003402 [Loxostege sticticalis]",
+  "family_query": "pyraloidea",
+  "protein_term": "fibroin",
+  "organism_name": "Loxostege sticticalis",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Pyraloidea",
+    "Crambidae",
+    "Pyraustinae",
+    "Loxostege"
+  ],
+  "taxonomy_from_order": [
+    "Pyraloidea",
+    "Crambidae",
+    "Pyraustinae",
+    "Loxostege"
+  ],
+  "sequence_length": 240,
+  "origin_sequence": "MESKLALLLLLVCVAYAAGQGSSQSSGSDDDNDYSYPCSLDDLNCVRNYFAQSGMCSKVSHEDGETVQSEKLVCFTPKFNASYTCLDDSITFYGSKLKEFYVNTKSNNLVMSVSFEAINLYTPKAIVDLQVSGQEDVVVETYINVTYSVVLTLIVPNAGRDGLARASVTSYNTNAVPPFAFGTEVTESSNEVIKNFWNALVQDVATAVQELFLTKGRYLAFIYLQSYICDYGVQYTGELY",
+  "partial_full": "full",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAL0829929"
+}

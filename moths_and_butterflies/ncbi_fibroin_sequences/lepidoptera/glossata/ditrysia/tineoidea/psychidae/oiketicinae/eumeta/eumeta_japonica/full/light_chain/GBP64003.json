@@ -1,0 +1,39 @@
+{
+  "accession": "GBP64003",
+  "title": "Myosin light chain kinase, smooth muscle [Eumeta japonica]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Eumeta japonica",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Tineoidea",
+    "Psychidae",
+    "Oiketicinae",
+    "Eumeta"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Neolepidoptera",
+    "Tineoidea",
+    "Psychidae",
+    "Oiketicinae",
+    "Eumeta"
+  ],
+  "sequence_length": 175,
+  "origin_sequence": "MKSLSVSAVQRTNLCRSEFPANDVMRIPDPHFFPLFYVNATLSVTNFTAAKIGELGSSEVQKLCRSAFSILHRITGGELFERVIDEEFVLTERACAVFMRQICEGVEFVHRQNILHLDMKGGPKPPRVCLIIVTESGPVLLDHYYMTPPSDSKIGSALDRTLHSACFDTRLTGDL",
+  "partial_full": "full",
+  "type": "light chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/GBP64003"
+}

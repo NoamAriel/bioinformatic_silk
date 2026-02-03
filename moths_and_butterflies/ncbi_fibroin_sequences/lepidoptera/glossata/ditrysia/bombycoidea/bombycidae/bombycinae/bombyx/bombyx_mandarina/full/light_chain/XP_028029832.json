@@ -1,0 +1,39 @@
+{
+  "accession": "XP_028029832",
+  "title": "fibroin light chain [Bombyx mandarina]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Bombyx mandarina",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Bombycoidea",
+    "Bombycidae",
+    "Bombycinae",
+    "Bombyx"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Neolepidoptera",
+    "Bombycoidea",
+    "Bombycidae",
+    "Bombycinae",
+    "Bombyx"
+  ],
+  "sequence_length": 262,
+  "origin_sequence": "MKPIFLVLLVATSAYAAPSVTINQYSDNEIPRDIDDGKASSVISRAWDYVDDTDKSIAILNVQEILKDMASQGDYASQASAVAQTAGIIAHLSAGIPGDACAAANVINSYTDGVRSGNFAGFRQSLGPFFGHVGQNLNLINQLVTNPGQLRYSVGPALGCAGGGRIYDFEAAWDAILASSDSGFLNEEYCIVKRLYNSRNSQSNNIAAYITAHLLPPVAQVFHQSAGSITDLLRGVGNGNDATGLVANAQRYIAQAASQVHV",
+  "partial_full": "full",
+  "type": "light chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_028029832"
+}

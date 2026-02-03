@@ -1,0 +1,41 @@
+{
+  "accession": "AAT75297",
+  "title": "fibroin protein, partial [Antheraea pernyi]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Antheraea pernyi",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Bombycoidea",
+    "Saturniidae",
+    "Saturniinae",
+    "Saturniini",
+    "Antheraea"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Neolepidoptera",
+    "Bombycoidea",
+    "Saturniidae",
+    "Saturniinae",
+    "Saturniini",
+    "Antheraea"
+  ],
+  "sequence_length": 35,
+  "origin_sequence": "ASSSGRSTEGHPLLSICCRPCSHSHSYEASRISVH",
+  "partial_full": "partial",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/AAT75297"
+}

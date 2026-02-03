@@ -1,0 +1,36 @@
+{
+  "accession": "AFS32690",
+  "title": "fibroin light chain [Haritalodes derogata]",
+  "family_query": "pyraloidea",
+  "protein_term": "fibroin",
+  "organism_name": "Haritalodes derogata",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Pyraloidea",
+    "Crambidae",
+    "Spilomelinae"
+  ],
+  "taxonomy_from_order": [
+    "Pyraloidea",
+    "Crambidae",
+    "Spilomelinae",
+    "Haritalodes",
+    "Haritalodes derogata"
+  ],
+  "sequence_length": 267,
+  "origin_sequence": "MLPFVLVSLFVSGALAVPVVNVNQYSINEVAPVGDNGRLVSSFLTDRSFEAVDGGDQNIYILTIEQILNDLANQPDSLSQALAVGQTIAVLGELANGVPGDSCEAAALVNAYANGVRSGNFAGVRGALNNFLGRLASNIDLIAQVAANPNALRFSSGPKGNCAGGGRTYQFEAAWDAVLSSANAYQIGLINEEYCAAKRLYSAVNIRSNNVGAAVSAAAVAPVTQAVQGALGPLANFLRAVANGANAASVAGAAKSALLQAGGRVQL",
+  "partial_full": "full",
+  "type": "light chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/AFS32690"
+}

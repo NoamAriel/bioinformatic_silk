@@ -1,0 +1,39 @@
+{
+  "accession": "GBO99698",
+  "title": "hypothetical protein EVAR_794_1 [Eumeta japonica]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Eumeta japonica",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Tineoidea",
+    "Psychidae",
+    "Oiketicinae",
+    "Eumeta"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Neolepidoptera",
+    "Tineoidea",
+    "Psychidae",
+    "Oiketicinae",
+    "Eumeta"
+  ],
+  "sequence_length": 103,
+  "origin_sequence": "MCGVPRNDRCRNSDVSEGSGLKEDVVTRVEGDIEAPDVQYNARNCRSELPAIDVMHRFNTPWLLLPRVSILRHCDAFVANFTAAEFRALFRTSGIVVACRFGP",
+  "partial_full": "full",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/GBO99698"
+}

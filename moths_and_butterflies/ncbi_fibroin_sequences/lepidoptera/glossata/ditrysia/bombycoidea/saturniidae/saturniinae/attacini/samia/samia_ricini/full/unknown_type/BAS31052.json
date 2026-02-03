@@ -1,0 +1,41 @@
+{
+  "accession": "BAS31052",
+  "title": "fibrohexamerin homolog2 [Samia ricini]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Samia ricini",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Bombycoidea",
+    "Saturniidae",
+    "Saturniinae",
+    "Attacini",
+    "Samia"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Neolepidoptera",
+    "Bombycoidea",
+    "Saturniidae",
+    "Saturniinae",
+    "Attacini",
+    "Samia"
+  ],
+  "sequence_length": 246,
+  "origin_sequence": "MKKNLVFLFSLIGYCVCINNDCDIESTDRISQNNHDFEDDCIVHPCNISDTKCIRNFFATHGHCTPMYGPVPDPFRIELMILLTSTSNISVTIADVQVSGLNGEITSFYINKKTNNLVIAFEAKNVTVSSPRITFIYNRKGKEPIRLTDGFFITYSSVTYTATIPNIKNLQLSEAYVYAYLHDNDPNFCLGPGIAQSNDPVVIKEFNDVLKKMGQIGKEASIIQARNFMNVFIQNNICDFGLNITY",
+  "partial_full": "full",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/BAS31052"
+}

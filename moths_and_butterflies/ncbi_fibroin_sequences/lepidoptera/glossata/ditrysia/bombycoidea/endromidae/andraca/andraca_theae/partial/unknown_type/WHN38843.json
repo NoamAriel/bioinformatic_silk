@@ -1,0 +1,37 @@
+{
+  "accession": "WHN38843",
+  "title": "Spi4, partial [Andraca theae]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Andraca theae",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Bombycoidea",
+    "Endromidae",
+    "Andraca"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Neolepidoptera",
+    "Bombycoidea",
+    "Endromidae",
+    "Andraca"
+  ],
+  "sequence_length": 240,
+  "origin_sequence": "MLKLCFFVVGASVVSLALASPVNSVREGKNPDAINKLIKTVITLNGECLVCLNELSPGTSQITAIPALIGTLAQLALVANGSTFDELMDFIGLNERNQISGIIPVFDEYRIQKNVQFDLIVYTDVENTFCSNFNEIYEDYFGGETKNIDLSDSKAAANSINEWVRDKSCRNMDVISSTQLSEDTSLIFVGFNKFVVIWDNVQFIPSRTVIMDFYKNEEETVKMPALYGRGKVKLAENAYP",
+  "partial_full": "partial",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/WHN38843"
+}
