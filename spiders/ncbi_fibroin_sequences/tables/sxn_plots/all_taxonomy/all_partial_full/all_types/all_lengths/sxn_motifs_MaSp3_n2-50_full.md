@@ -1,0 +1,24 @@
+| organism | type | n | count_mean | count_sd | percent_mean | percent_sd | length_mean |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Trichonephila clavipes | MaSp3 | 3 | 1.000 | 0.000 | 0.198 | 0.000 | 3030.000 |
+| Trichonephila clavipes | MaSp3 | 2 | 6.000 | 2.828 | 0.921 | 0.377 | 2630.000 |
+| Trichonephila inaurata madagascariensis | MaSp3 | 3 | 1.000 | 0.000 | 0.183 | 0.000 | 3283.000 |
+| Trichonephila inaurata madagascariensis | MaSp3 | 2 | 6.667 | 2.082 | 0.948 | 0.194 | 2795.667 |
+| Trichonephila clavata | MaSp3 | 4 | 1.000 | 0.000 | 0.335 | 0.030 | 2400.000 |
+| Trichonephila clavata | MaSp3 | 2 | 3.000 | 1.414 | 0.491 | 0.192 | 2400.000 |
+| Nephila pilipes | MaSp3 | 3 | 2.000 | 1.414 | 0.883 | 0.931 | 1923.500 |
+| Nephila pilipes | MaSp3 | 2 | 5.500 | 2.121 | 1.208 | 0.230 | 1923.500 |
+| Caerostris extrusa | MaSp3 | 7 | 1.000 | 0.000 | 0.582 | 0.000 | 2407.000 |
+| Caerostris extrusa | MaSp3 | 6 | 1.000 | 0.000 | 0.499 | 0.000 | 2407.000 |
+| Caerostris extrusa | MaSp3 | 5 | 1.000 | 0.000 | 0.415 | 0.000 | 2407.000 |
+| Caerostris extrusa | MaSp3 | 4 | 1.000 | 0.000 | 0.332 | 0.000 | 2407.000 |
+| Caerostris extrusa | MaSp3 | 3 | 8.000 | 0.000 | 1.994 | 0.000 | 2407.000 |
+| Caerostris extrusa | MaSp3 | 2 | 103.000 | 0.000 | 17.117 | 0.000 | 2407.000 |
+| Caerostris darwini | MaSp3 | 7 | 2.000 | 0.000 | 1.203 | 0.000 | 2328.000 |
+| Caerostris darwini | MaSp3 | 5 | 1.000 | 0.000 | 0.430 | 0.000 | 2328.000 |
+| Caerostris darwini | MaSp3 | 4 | 2.000 | 0.000 | 0.687 | 0.000 | 2328.000 |
+| Caerostris darwini | MaSp3 | 3 | 10.000 | 0.000 | 2.577 | 0.000 | 2328.000 |
+| Caerostris darwini | MaSp3 | 2 | 90.000 | 0.000 | 15.464 | 0.000 | 2328.000 |
+| Araneus ventricosus | MaSp3 | 4 | 1.000 | 0.000 | 0.306 | 0.000 | 2618.000 |
+| Araneus ventricosus | MaSp3 | 3 | 1.000 | 0.000 | 0.229 | 0.000 | 2618.000 |
+| Araneus ventricosus | MaSp3 | 2 | 72.000 | 0.000 | 11.001 | 0.000 | 2618.000 |

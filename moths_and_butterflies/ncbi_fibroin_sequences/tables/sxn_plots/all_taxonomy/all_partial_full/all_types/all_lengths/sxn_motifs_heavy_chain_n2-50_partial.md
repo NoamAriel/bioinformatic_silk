@@ -1,0 +1,28 @@
+| organism | type | n | count_mean | count_sd | percent_mean | percent_sd | length_mean |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Eumeta japonica | heavy chain | 2 | 2.333 | 1.528 | 2.255 | 0.146 | 411.000 |
+| Pieris napi | heavy chain | 6 | 1.000 | 0.000 | 2.381 | 0.000 | 504.000 |
+| Pieris napi | heavy chain | 5 | 2.000 | 0.000 | 3.968 | 0.000 | 504.000 |
+| Pieris napi | heavy chain | 4 | 7.000 | 0.000 | 11.111 | 0.000 | 504.000 |
+| Pieris napi | heavy chain | 3 | 3.000 | 0.000 | 3.571 | 0.000 | 504.000 |
+| Pieris napi | heavy chain | 2 | 18.000 | 0.000 | 14.286 | 0.000 | 504.000 |
+| Trichoplusia ni | heavy chain | 3 | 4.500 | 3.536 | 1.291 | 0.574 | 1915.000 |
+| Trichoplusia ni | heavy chain | 2 | 8.500 | 0.707 | 1.908 | 0.641 | 1915.000 |
+| Trichoplusia ni | heavy chain | 5 | 1.000 | 0.000 | 0.738 | 0.000 | 1355.000 |
+| Hyposmocoma kahamanoa | heavy chain | 2 | 2.000 | 0.000 | 3.664 | 2.514 | 285.500 |
+| Hyposmocoma kahamanoa | heavy chain | 3 | 1.000 | 0.000 | 4.082 | 0.000 | 147.000 |
+| Actias selene | heavy chain | 3 | 1.000 | 0.000 | 2.198 | 0.000 | 273.000 |
+| Actias selene | heavy chain | 2 | 5.000 | 0.000 | 7.326 | 0.000 | 273.000 |
+| Antheraea yamamai | heavy chain | 2 | 3.000 | 0.000 | 7.947 | 0.000 | 151.000 |
+| Bombyx mori | heavy chain | 2 | 3.333 | 1.528 | 10.155 | 8.428 | 276.000 |
+| Phymatopus californicus | heavy chain | 3 | 1.000 | 0.000 | 1.639 | 0.465 | 381.500 |
+| Phymatopus californicus | heavy chain | 2 | 2.500 | 0.707 | 2.841 | 1.547 | 381.500 |
+| Eriocrania semipurpurella | heavy chain | 4 | 1.000 | 0.000 | 5.970 | 0.000 | 134.000 |
+| Eriocrania semipurpurella | heavy chain | 2 | 1.000 | 0.000 | 2.985 | 0.000 | 134.000 |
+| Plodia interpunctella | heavy chain | 3 | 2.000 | 0.000 | 2.358 | 0.000 | 509.000 |
+| Plodia interpunctella | heavy chain | 2 | 20.000 | 0.000 | 15.717 | 0.000 | 509.000 |
+| Ephestia kuehniella | heavy chain | 4 | 4.000 | 1.414 | 5.947 | 0.714 | 553.500 |
+| Ephestia kuehniella | heavy chain | 3 | 4.500 | 2.121 | 4.868 | 0.042 | 553.500 |
+| Ephestia kuehniella | heavy chain | 2 | 12.500 | 3.536 | 9.458 | 1.831 | 553.500 |
+| Cnaphalocrocis medinalis | heavy chain | 2 | 1.000 | 0.000 | 1.980 | 0.000 | 202.000 |
+| Bombyx mandarina | heavy chain | 2 | 2.000 | 0.000 | 19.512 | 0.000 | 41.000 |

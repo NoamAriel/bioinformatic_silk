@@ -1,0 +1,25 @@
+| organism | type | n | count_mean | count_sd | percent_mean | percent_sd | length_mean |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Octonoba varians | Flag | 3 | 1.000 | 0.000 | 0.656 | 0.000 | 914.000 |
+| Octonoba varians | Flag | 2 | 4.000 | 0.000 | 1.751 | 0.000 | 914.000 |
+| Octonoba okinawensis | Flag | 2 | 3.000 | 0.000 | 4.181 | 0.000 | 287.000 |
+| Trichonephila clavipes | Flag | 2 | 3.800 | 4.087 | 3.956 | 1.199 | 344.800 |
+| Trichonephila clavipes | Flag | 4 | 1.000 | 0.000 | 3.756 | 0.000 | 213.000 |
+| Octonoba yesoensis | Flag | 2 | 2.000 | 1.414 | 1.427 | 0.167 | 588.000 |
+| Octonoba sybotides | Flag | 3 | 1.500 | 0.707 | 0.994 | 0.723 | 1020.000 |
+| Octonoba sybotides | Flag | 2 | 6.000 | 0.000 | 2.471 | 0.764 | 1020.000 |
+| Octonoba grandiprojecta | Flag | 2 | 3.000 | 0.000 | 5.381 | 0.000 | 223.000 |
+| Octonoba grandiconcava | Flag | 3 | 1.000 | 0.000 | 1.587 | 0.000 | 378.000 |
+| Octonoba grandiconcava | Flag | 2 | 2.000 | 0.000 | 2.116 | 0.000 | 378.000 |
+| Deinopis spinosa | Flag | 2 | 1.000 | 0.000 | 0.866 | 0.000 | 462.000 |
+| Steatoda grossa | Flag | 2 | 1.000 | 0.000 | 1.370 | 0.000 | 292.000 |
+| Parasteatoda tepidariorum | Flag | 2 | 1.000 | 0.000 | 2.850 | 0.888 | 147.500 |
+| Parasteatoda tepidariorum | Flag | 4 | 1.000 | 0.000 | 4.444 | 0.000 | 180.000 |
+| Latrodectus hesperus | Flag | 2 | 2.000 | 0.000 | 2.492 | 0.000 | 321.000 |
+| Trichonephila inaurata madagascariensis | Flag | 3 | 1.000 | 0.000 | 0.318 | 0.000 | 1884.000 |
+| Trichonephila inaurata madagascariensis | Flag | 2 | 7.000 | 0.000 | 1.486 | 0.000 | 1884.000 |
+| Caerostris extrusa | Flag | 3 | 1.000 | 0.000 | 1.299 | 0.000 | 462.000 |
+| Caerostris extrusa | Flag | 2 | 1.000 | 0.000 | 0.866 | 0.000 | 462.000 |
+| Araneus ventricosus | Flag | 2 | 6.571 | 2.936 | 3.379 | 3.967 | 1512.429 |
+| Araneus ventricosus | Flag | 3 | 9.200 | 7.662 | 2.327 | 1.696 | 2001.000 |
+| Araneus diadematus | Flag | 2 | 1.000 | 0.000 | 2.876 | 0.969 | 151.750 |

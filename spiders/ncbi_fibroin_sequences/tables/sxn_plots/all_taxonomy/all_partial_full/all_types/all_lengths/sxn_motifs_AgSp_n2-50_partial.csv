@@ -1,0 +1,41 @@
+organism,type,n,count_mean,count_sd,percent_mean,percent_sd,length_mean
+Crossopriza lyoni,AgSp,2,1.000,0.000,1.887,0.000,212.000
+Trichonephila clavipes,AgSp,2,1.667,1.155,1.116,0.352,558.333
+Trichonephila clavipes,AgSp,3,1.000,0.000,0.754,0.000,796.000
+Verrucosa arenata,AgSp,3,1.000,0.000,0.051,0.021,12746.000
+Verrucosa arenata,AgSp,2,34.000,59.341,1.482,2.530,9666.250
+Metepeira labyrinthea,AgSp,3,1.000,0.000,0.051,0.000,11757.000
+Metepeira labyrinthea,AgSp,2,6.500,1.732,0.496,0.302,6743.000
+Metepeira labyrinthea,AgSp,5,1.000,0.000,0.130,0.000,7694.000
+Metepeira labyrinthea,AgSp,4,1.000,0.000,0.104,0.000,7694.000
+Argiope trifasciata,AgSp,2,82.667,107.072,2.795,3.595,10619.667
+Argiope trifasciata,AgSp,3,1.000,0.000,0.097,0.000,6205.000
+Steatoda grossa,AgSp,2,1.667,1.155,2.219,2.137,391.000
+Steatoda grossa,AgSp,3,1.000,0.000,0.966,0.000,621.000
+Parasteatoda tepidariorum,AgSp,3,1.000,0.000,0.999,0.025,600.750
+Parasteatoda tepidariorum,AgSp,2,2.500,1.000,1.653,0.608,600.750
+Latrodectus hesperus,AgSp,2,96.300,181.636,3.111,1.952,8105.100
+Latrodectus hesperus,AgSp,4,2.000,0.000,1.308,0.000,1223.000
+Latrodectus hesperus,AgSp,3,2.333,1.528,0.604,0.499,5399.333
+Trichonephila inaurata madagascariensis,AgSp,3,1.000,0.000,0.418,0.000,1434.000
+Trichonephila inaurata madagascariensis,AgSp,2,2.667,2.887,0.425,0.356,2246.000
+Trichonephila clavata,AgSp,3,1.000,0.000,0.319,0.000,1882.000
+Trichonephila clavata,AgSp,2,2.000,0.000,0.425,0.000,1882.000
+Nephila pilipes,AgSp,2,3.000,0.000,2.804,0.000,428.000
+Nephila pilipes,AgSp,3,1.000,0.000,1.333,0.000,450.000
+Neoscona crucifera,AgSp,3,1.000,0.000,0.177,0.101,4052.000
+Neoscona crucifera,AgSp,2,6.333,7.572,0.912,1.366,6165.000
+Micrathena sagittata,AgSp,2,29.600,51.820,1.126,1.185,10287.000
+Mastophora hutchinsoni,AgSp,2,1.750,1.500,0.393,0.523,4609.500
+Larinioides cornutus,AgSp,2,12.333,14.468,0.512,0.590,9712.000
+Larinioides cornutus,AgSp,3,1.000,0.000,0.096,0.000,6276.000
+Argiope aurantia,AgSp,2,15.000,17.795,1.388,1.536,6217.250
+Argiope argentata,AgSp,2,41.800,86.829,1.484,3.018,7856.000
+Argiope argentata,AgSp,3,1.000,0.000,0.107,0.007,5599.333
+Argiope appensa,AgSp,2,44.667,59.003,2.154,3.036,8415.000
+Argiope appensa,AgSp,3,1.000,0.000,0.095,0.027,6589.000
+Araneus ventricosus,AgSp,2,2.333,1.528,0.500,0.180,1734.000
+Araneus marmoreus,AgSp,2,46.000,32.435,1.655,1.536,12094.750
+Araneus marmoreus,AgSp,4,1.000,0.000,0.052,0.000,15454.000
+Araneus marmoreus,AgSp,3,3.000,0.000,0.116,0.000,15454.000
+Araneus diadematus,AgSp,2,2.000,1.414,1.795,0.454,501.500

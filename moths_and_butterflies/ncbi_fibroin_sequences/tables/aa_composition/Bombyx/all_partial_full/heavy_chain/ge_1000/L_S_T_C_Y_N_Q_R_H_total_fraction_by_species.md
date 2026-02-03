@@ -1,0 +1,4 @@
+| organism | total_fraction_mean | total_fraction_sd | length_mean | length_sd |
+| --- | --- | --- | --- | --- |
+| Bombyx mori | 21.066 | 3.915 | 4436.917 | 1505.956 |
+| Bombyx mandarina | 20.944 | 4.019 | 5575.500 | 1732.676 |

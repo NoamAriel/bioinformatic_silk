@@ -1,0 +1,89 @@
+{
+  "groups": {
+    "\u03c0": [
+      "A",
+      "V",
+      "L",
+      "I",
+      "M",
+      "P"
+    ],
+    "\u03b1": [
+      "F",
+      "W",
+      "Y"
+    ],
+    "\u03b7": [
+      "S",
+      "T"
+    ],
+    "\u03b8": [
+      "C",
+      "N",
+      "Q",
+      "G"
+    ],
+    "\u03c8": [
+      "D",
+      "E"
+    ],
+    "\u03c6": [
+      "K",
+      "R",
+      "H"
+    ]
+  },
+  "group_legend": {
+    "\u03c0": "nonpolar",
+    "\u03b1": "aromatic",
+    "\u03b7": "hydroxyl",
+    "\u03b8": "polar",
+    "\u03c8": "negative charged",
+    "\u03c6": "positive charged"
+  },
+  "group_order": [
+    "\u03c0",
+    "\u03b1",
+    "\u03b7",
+    "\u03b8",
+    "\u03c8",
+    "\u03c6"
+  ],
+  "multi_group_joiner": "|",
+  "unknown_label": "unknown",
+  "include_motif_string": false,
+  "include_motif_counts": true,
+  "min_motif_length": 5,
+  "max_motif_length": 50,
+  "skip_unknown_motifs": true,
+  "include_unique_motifs": true,
+  "unique_motif_length": 5,
+  "skip_combined_motifs": true,
+  "include_reflected_sequence": true,
+  "include_similar_motifs": true,
+  "include_taxonomy_shared_motifs": true,
+  "analyzed_records": [],
+  "similar_motifs": {},
+  "taxonomy_shared_motifs": {
+    "nodes": []
+  },
+  "global_group_counts": {
+    "\u03c0": 0,
+    "\u03b1": 0,
+    "\u03b7": 0,
+    "\u03b8": 0,
+    "\u03c8": 0,
+    "\u03c6": 0
+  },
+  "global_group_fractions": {
+    "\u03c0": 0.0,
+    "\u03b1": 0.0,
+    "\u03b7": 0.0,
+    "\u03b8": 0.0,
+    "\u03c8": 0.0,
+    "\u03c6": 0.0
+  },
+  "global_label_counts": {},
+  "num_records": 0,
+  "total_length": 0
+}

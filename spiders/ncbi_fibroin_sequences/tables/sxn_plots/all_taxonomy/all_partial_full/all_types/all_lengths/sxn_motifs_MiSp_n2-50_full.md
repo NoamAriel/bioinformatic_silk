@@ -1,0 +1,27 @@
+| organism | type | n | count_mean | count_sd | percent_mean | percent_sd | length_mean |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Octonoba okinawensis | MiSp | 3 | 3.000 | 0.000 | 0.673 | 0.000 | 2675.000 |
+| Octonoba okinawensis | MiSp | 2 | 16.000 | 0.000 | 2.393 | 0.000 | 2675.000 |
+| Trichonephila clavipes | MiSp | 5 | 1.000 | 0.000 | 0.953 | 0.000 | 1049.000 |
+| Trichonephila clavipes | MiSp | 3 | 2.667 | 2.082 | 1.182 | 1.002 | 1407.333 |
+| Trichonephila clavipes | MiSp | 2 | 9.750 | 3.775 | 2.844 | 0.892 | 1370.750 |
+| Trichonephila clavipes | MiSp | 4 | 1.333 | 0.577 | 0.702 | 0.126 | 1478.000 |
+| Octonoba sybotides | MiSp | 3 | 3.000 | 0.000 | 0.628 | 0.000 | 2864.000 |
+| Octonoba sybotides | MiSp | 2 | 17.000 | 0.000 | 2.374 | 0.000 | 2864.000 |
+| Latrodectus hesperus | MiSp | 3 | 2.000 | 0.000 | 0.549 | 0.000 | 2187.000 |
+| Latrodectus hesperus | MiSp | 2 | 24.000 | 0.000 | 4.390 | 0.000 | 2187.000 |
+| Trichonephila antipodiana | MiSp | 2 | 2.000 | 0.000 | 7.477 | 0.000 | 107.000 |
+| Nephila pilipes | MiSp | 2 | 7.000 | 0.000 | 8.805 | 0.000 | 318.000 |
+| Caerostris extrusa | MiSp | 6 | 1.000 | 0.000 | 0.417 | 0.000 | 2875.000 |
+| Caerostris extrusa | MiSp | 3 | 2.000 | 0.000 | 0.417 | 0.000 | 2875.000 |
+| Caerostris extrusa | MiSp | 2 | 9.000 | 0.000 | 1.252 | 0.000 | 2875.000 |
+| Caerostris darwini | MiSp | 6 | 1.000 | 0.000 | 0.848 | 0.680 | 2024.667 |
+| Caerostris darwini | MiSp | 3 | 2.667 | 1.155 | 1.391 | 1.620 | 2024.667 |
+| Caerostris darwini | MiSp | 2 | 7.333 | 1.155 | 1.898 | 1.189 | 2024.667 |
+| Argiope argentata | MiSp | 5 | 1.000 | 0.000 | 0.346 | 0.000 | 2893.000 |
+| Argiope argentata | MiSp | 4 | 1.000 | 0.000 | 0.277 | 0.000 | 2893.000 |
+| Argiope argentata | MiSp | 3 | 2.000 | 0.000 | 0.415 | 0.000 | 2893.000 |
+| Argiope argentata | MiSp | 2 | 7.000 | 0.000 | 0.968 | 0.000 | 2893.000 |
+| Araneus ventricosus | MiSp | 2 | 4.714 | 5.345 | 4.180 | 1.757 | 699.857 |
+| Araneus ventricosus | MiSp | 4 | 1.000 | 0.000 | 0.322 | 0.000 | 2484.000 |
+| Araneus ventricosus | MiSp | 3 | 2.000 | 0.000 | 0.483 | 0.000 | 2484.000 |

@@ -1,0 +1,35 @@
+organism,type,fraction_mean,fraction_sd,length_mean,length_sd
+Actias selene,heavy chain,9.524,0.000,273.000,0.000
+Andraca theae,Unknown_type,1.648,1.763,238.143,122.338
+Antheraea mylitta,Unknown_type,11.045,0.000,507.000,0.000
+Antheraea pernyi,Unknown_type,12.512,11.844,230.500,228.722
+Antheraea yamamai,heavy chain,7.947,0.000,151.000,0.000
+Bombyx mandarina,Unknown_type,1.498,2.595,103.333,64.663
+Bombyx mandarina,heavy chain,19.512,0.000,41.000,0.000
+Bombyx mori,Unknown_type,1.753,4.059,70.312,60.768
+Bombyx mori,heavy chain,0.846,3.487,31.556,106.133
+Bombyx mori,light chain,0.152,0.652,51.543,46.548
+Brenthis ino,Unknown_type,3.161,0.951,253.333,64.143
+Cnaphalocrocis medinalis,heavy chain,1.980,0.000,202.000,0.000
+Cricula trifenestrata,Unknown_type,8.935,0.000,291.000,0.000
+Ephestia kuehniella,Unknown_type,40.078,13.803,221.333,57.292
+Ephestia kuehniella,heavy chain,20.273,2.503,553.500,256.680
+Eriocrania semipurpurella,heavy chain,8.955,0.000,134.000,0.000
+Eumeta japonica,Unknown_type,3.047,4.343,191.849,334.387
+Eumeta japonica,heavy chain,1.353,1.239,327.800,231.529
+Galleria mellonella,Unknown_type,6.562,1.574,955.500,724.784
+Helicoverpa armigera,Unknown_type,8.602,0.000,279.000,0.000
+Hyphantria cunea,light chain,2.367,0.000,169.000,0.000
+Hyposmocoma kahamanoa,Unknown_type,1.633,0.000,245.000,0.000
+Hyposmocoma kahamanoa,heavy chain,5.705,5.400,285.500,195.869
+Iphiclides podalirius,Unknown_type,1.449,1.009,258.250,76.186
+Neomicropteryx cornuta,Unknown_type,1.442,0.727,420.000,15.556
+Operophtera brumata,Unknown_type,2.927,4.139,194.500,14.849
+Phymatopus californicus,heavy chain,4.479,2.012,381.500,108.187
+Pieris napi,heavy chain,35.317,0.000,504.000,0.000
+Plodia interpunctella,heavy chain,18.075,0.000,509.000,0.000
+Rhodinia fugax,Unknown_type,18.509,0.000,1221.000,0.000
+Saturnia japonica,Unknown_type,16.751,0.000,991.000,0.000
+Spodoptera frugiperda,Unknown_type,1.656,0.000,483.000,0.000
+Trichoplusia ni,heavy chain,3.568,0.590,1915.000,791.960
+Yponomeuta evonymella,Unknown_type,12.621,0.000,412.000,0.000
