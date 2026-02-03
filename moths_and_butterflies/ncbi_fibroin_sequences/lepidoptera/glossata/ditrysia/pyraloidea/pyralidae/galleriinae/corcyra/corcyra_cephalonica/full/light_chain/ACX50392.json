@@ -1,0 +1,39 @@
+{
+  "accession": "ACX50392",
+  "title": "fibroin light chain [Corcyra cephalonica]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Corcyra cephalonica",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Pyraloidea",
+    "Pyralidae",
+    "Galleriinae",
+    "Corcyra"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Pyraloidea",
+    "Pyralidae",
+    "Galleriinae",
+    "Corcyra"
+  ],
+  "sequence_length": 267,
+  "origin_sequence": "MLPFVLVLLVASSALAAPSVSITQDNINNIAPVASNGRAVSSYLTDRAFEIVDGGDTNIYILTIQQILNDLANQPDSLSQNLAVVQTVAALGELATGAPGDSCEAAALVDAYASAVRTGNSGALAAAAGNYINRLLSSVNNIVQLANNPNAVRYTSGPSGSCSNGGRSYQFEAAWDAVLSSANAYQIGLINEEYCAAKRLYSAFNTRSNNVGAAITAATVATQAGIADHLIPSLTSLLSSVASGGNVASAAAQVRTAVSSGATKIRL",
+  "partial_full": "full",
+  "type": "light chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ACX50392"
+}

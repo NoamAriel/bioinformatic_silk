@@ -1,0 +1,39 @@
+{
+  "accession": "KAI5635088",
+  "title": "fibroin p25 domain-containing protein [Phthorimaea operculella]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Phthorimaea operculella",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Gelechioidea",
+    "Gelechiidae",
+    "Gelechiinae",
+    "Phthorimaea"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Gelechioidea",
+    "Gelechiidae",
+    "Gelechiinae",
+    "Phthorimaea"
+  ],
+  "sequence_length": 227,
+  "origin_sequence": "MCKSIILVLALVSCAYSASTPKKSDIVHPCETNGHTIDLKCVRQNLEANSKCTRKGLKAIQPSYQLGEFKFETPYFNATYIDQDLVIKNHHKCYVSEFFYNLKKDVAVLSVDCPGLIFASNRTLIQHASKQEDKVYSMSSTWEYPMIRLTSNIKHADNMDICDSFVFTDVVQMPKFVVSPNDKPTKEFLSKDLSYLNIYERETFFYRGFQLFRHFISSAVCNFGCHA",
+  "partial_full": "full",
+  "type": "Unknown_type",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAI5635088"
+}

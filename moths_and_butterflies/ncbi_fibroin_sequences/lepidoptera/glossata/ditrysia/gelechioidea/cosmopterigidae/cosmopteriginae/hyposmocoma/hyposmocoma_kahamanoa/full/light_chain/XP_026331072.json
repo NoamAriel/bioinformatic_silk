@@ -1,0 +1,39 @@
+{
+  "accession": "XP_026331072",
+  "title": "fibroin light chain-like [Hyposmocoma kahamanoa]",
+  "family_query": "Lepidoptera",
+  "protein_term": "fibroin",
+  "organism_name": "Hyposmocoma kahamanoa",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Gelechioidea",
+    "Cosmopterigidae",
+    "Cosmopteriginae",
+    "Hyposmocoma"
+  ],
+  "taxonomy_from_order": [
+    "Lepidoptera",
+    "Glossata",
+    "Ditrysia",
+    "Gelechioidea",
+    "Cosmopterigidae",
+    "Cosmopteriginae",
+    "Hyposmocoma"
+  ],
+  "sequence_length": 254,
+  "origin_sequence": "MLPLVLVLFAASSALAAPSVSVTTSNINDIAPLLDNGALVSSYLTDRAFELIDGGDTNIYILTLQQILNDLANQPDPRTQAVALAQTISVLGALGTGFTGFSCDAAAVINAAASGNGEAAAARAYASRLASYVDVIAKLAVNPNSVRNTFGLEGSCPGYGRVYRFEDAWEIILNNASPYTVGLFNEEYCAAKRLYQAFNVRSNAVGAAATAAAMPSVVNIVQNAVGPLSNFLRAAISGGNCSAAAATARAALLR",
+  "partial_full": "full",
+  "type": "light chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_026331072"
+}
