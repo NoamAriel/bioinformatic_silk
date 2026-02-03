@@ -1,0 +1,42 @@
+{
+  "accession": "XP_039481338",
+  "title": "fibroin heavy chain isoform X2 [Drosophila santomea]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Drosophila santomea",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophila",
+    "Sophophora"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Brachycera",
+    "Muscomorpha",
+    "Ephydroidea",
+    "Drosophilidae",
+    "Drosophilinae",
+    "Drosophilini",
+    "Drosophila",
+    "Sophophora",
+    "Drosophila santomea"
+  ],
+  "sequence_length": 557,
+  "origin_sequence": "MNKLLVLALCLGVVCGDFQASHYNYHGQAVEQARKNTGYGGHSSGFGAGYGGASGQVDGAALGNLESSYDSVGATESAEGASAGGAGGVELLGGAAGTNTIGSGVGSAGSFGSNFGAGFGTQNSAGFGAQNSAGFGAQNSAAFGAQNAASFGSSFSTNSAFQTSSNFGSSAAHQVGSNVEFAENANAGNKVDFGGVNAVDTSAQLLSGVQTVQSAPTSEYYRHEKIVSTPQQVVYTIPGGSQRYVHHEERVVEQPARTQITQTVPVQSEHYYQRKVTTTASAPQLVQPVASSRLTYGSNAASTFGSNVASNFGSNTASNFGSNAGFNSQLGSSFGQNFQQNSQLSQLISQTQQAARQQAASQGVSANQVQAGSGYTSGSQGGFNSGYNSAFNSGSQFGFNSASSLNSASSLNSASAGNSAALLSGSLLGGSQGSLLSGQVGGQQSLLSGSLLSGQQKMGLGLNAAQTGQVAGAGNFGAGLSAGAGNLGSGYSTKQWEKQSKWSSQNSFDSNGHNNNYKDLVTGESESVDINGKRTGYHAVTASVDDNGKFATHSVHS",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_039481338"
+}

@@ -85,6 +85,8 @@ def main() -> None:
         protein_terms=["fibroin"],
         expected_types=expected_types,
         output_root=str(BASE / "ncbi_fibroin_sequences"),
+        path_max_length=None,
+        allow_long_paths=True,
     )
 
     # 2) Analyze serine + [SX]_n motifs in the downloaded folder

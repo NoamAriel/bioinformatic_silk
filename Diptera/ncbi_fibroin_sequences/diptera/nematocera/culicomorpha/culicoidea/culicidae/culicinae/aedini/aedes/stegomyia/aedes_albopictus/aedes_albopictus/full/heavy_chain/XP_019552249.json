@@ -1,0 +1,43 @@
+{
+  "accession": "XP_019552249",
+  "title": "fibroin heavy chain [Aedes albopictus]",
+  "family_query": "Diptera",
+  "protein_term": "fibroin",
+  "organism_name": "Aedes albopictus",
+  "taxonomy_full": [
+    "Eukaryota",
+    "Metazoa",
+    "Ecdysozoa",
+    "Arthropoda",
+    "Hexapoda",
+    "Insecta",
+    "Pterygota",
+    "Neoptera",
+    "Endopterygota",
+    "Diptera",
+    "Nematocera",
+    "Culicoidea",
+    "Culicidae",
+    "Culicinae",
+    "Aedini",
+    "Aedes",
+    "Stegomyia"
+  ],
+  "taxonomy_from_order": [
+    "Diptera",
+    "Nematocera",
+    "Culicomorpha",
+    "Culicoidea",
+    "Culicidae",
+    "Culicinae",
+    "Aedini",
+    "Aedes",
+    "Stegomyia",
+    "Aedes albopictus"
+  ],
+  "sequence_length": 438,
+  "origin_sequence": "MRAIVLFSACLALASADIGLKLRQAAAASGKSVSSYDVGQGSVSVDYSPASFDQTVLGDAAEARSGFSGAVSGANANAFSSSGANAYGGAQYDAGFQAGLAAGRAALAASSASSSASSGSNSGSFGGRFGGSSSFGGAGANAVSGAGAGAFGGASGFGGASGFGGASGFGGASASAKASAGSKVRYITKPEIVKKHFYYHVAPEAEAEAEAEARVEIQPQTHYKVLFIKAPSVSAGAAARAAARTRTQEKTIVYVLVNKPEAEGKSAADAAVDTYASAKPEVYFIKYQGKNAGAGASASAGASAGASAGAFDASNVGAFDGSSSFLSGADADAAVAAFGGASSGASASSFDASAGGTTFGSTPTFLASSADASASSGAFSGVRTDAVDSQSVGDAGYTAGFTAGAAAAGASAGSSSFDGASYDGASFGGSSTLSSLNF",
+  "partial_full": "full",
+  "type": "heavy chain",
+  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_019552249"
+}
