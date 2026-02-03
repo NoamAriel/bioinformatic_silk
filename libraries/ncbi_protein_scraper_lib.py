@@ -1,4 +1,5 @@
 import json
+import os
 import re
 import time
 import xml.etree.ElementTree as ET
@@ -36,13 +37,18 @@ def safe_filename(name: str, max_len: int = 80) -> str:
 def safe_join(
     base: Path,
     parts: List[str],
-    max_length: int = 200,
+    max_length: Optional[int] = 200,
     tail_reserve: int = 60,
 ) -> Path:
     """
     Join path parts under base, abbreviating with short hashes if the full path
     would exceed max_length (helps on Windows path length limits).
     """
+    if max_length is None:
+        path = base
+        for part in parts:
+            path = path / part
+        return path
     path = base
     for idx, part in enumerate(parts):
         candidate = path / part
@@ -58,6 +64,19 @@ def safe_join(
             candidate = path / short
         path = candidate
     return path
+
+
+def _ensure_long_path(path: Path) -> Path:
+    if os.name != "nt":
+        return path
+    path_str = str(path)
+    if path_str.startswith("\\\\?\\"):
+        return path
+    if len(path_str) < 248:
+        return path
+    if path_str.startswith("\\\\"):
+        return Path("\\\\?\\UNC\\" + path_str.lstrip("\\"))
+    return Path("\\\\?\\" + path_str)
 
 
 T = TypeVar("T")
@@ -354,6 +373,8 @@ def run_ncbi_protein_scraper(
     api_key: Optional[str] = None,
     output_root: str = "ncbi_sequences",
     sleep_time: float = 0.20,
+    path_max_length: Optional[int] = 200,
+    allow_long_paths: bool = False,
 ) -> None:
     """
     Generic scraper: searches NCBI Protein for <order> <protein_term>, downloads GenBank,
@@ -496,10 +517,15 @@ def run_ncbi_protein_scraper(
                     path_nodes = lineage + [species, seq_band, prot_type]
 
                     safe_parts = [safe_filename(node) for node in path_nodes]
-                    target = safe_join(root_dir, safe_parts)
+                    target = safe_join(root_dir, safe_parts, max_length=path_max_length)
+                    if allow_long_paths:
+                        target = _ensure_long_path(target)
                     target.mkdir(parents=True, exist_ok=True)
                     md_path = target / f"{accession}.md"
                     json_path = target / f"{accession}.json"
+                    if allow_long_paths:
+                        md_path = _ensure_long_path(md_path)
+                        json_path = _ensure_long_path(json_path)
 
                     record = {
                         "accession": accession,

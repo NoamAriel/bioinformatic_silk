@@ -9,5 +9,5 @@
 | Bombus terrestris | fibroin 3 | 2 | 4.000 | 0.000 | 4.819 | 0.000 | 332.000 |
 | Apis mellifera caucasica | fibroin 3 | 2 | 4.000 | 0.000 | 4.776 | 0.000 | 335.000 |
 | Apis mellifera carnica | fibroin 3 | 2 | 4.000 | 0.000 | 4.776 | 0.000 | 335.000 |
-| Apis dorsata | fibroin 3 | 2 | 3.000 | 0.000 | 3.593 | 0.000 | 334.000 |
 | Apis mellifera | fibroin 3 | 2 | 4.000 | 0.000 | 4.776 | 0.000 | 335.000 |
+| Apis dorsata | fibroin 3 | 2 | 3.000 | 0.000 | 3.593 | 0.000 | 334.000 |

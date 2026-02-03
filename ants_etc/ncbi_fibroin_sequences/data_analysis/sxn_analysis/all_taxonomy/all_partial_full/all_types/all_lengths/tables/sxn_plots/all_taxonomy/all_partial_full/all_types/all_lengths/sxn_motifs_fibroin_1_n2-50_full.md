@@ -8,7 +8,7 @@
 | Apis mellifera carnica | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |
 | Apis mellifera caucasica | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |
 | Apis mellifera mellifera | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |
-| Apis cerana cerana | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |
 | Bombus fervidus | fibroin 1 | 2 | 7.000 | 0.000 | 8.563 | 0.000 | 327.000 |
-| Apis dorsata | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |
+| Apis cerana cerana | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |
 | Apis mellifera | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |
+| Apis dorsata | fibroin 1 | 2 | 4.000 | 0.000 | 4.805 | 0.000 | 333.000 |

@@ -1,11 +1,11 @@
 | organism | type | n | count_mean | count_sd | percent_mean | percent_sd | length_mean |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Rhyacophila obliterata | light chain | 3 | 2.000 | 0.000 | 4.743 | 0.000 | 253.000 |
+| Limnephilus lunatus | light chain | 3 | 1.000 | 0.000 | 2.410 | 0.000 | 249.000 |
+| Limnephilus lunatus | light chain | 2 | 2.000 | 0.000 | 3.213 | 0.000 | 249.000 |
 | Limnephilus flavicornis | light chain | 2 | 2.000 | 0.000 | 3.213 | 0.000 | 249.000 |
 | Limnephilus decipiens | light chain | 3 | 1.000 | 0.000 | 2.410 | 0.000 | 249.000 |
 | Limnephilus decipiens | light chain | 2 | 2.000 | 0.000 | 3.213 | 0.000 | 249.000 |
-| Limnephilus lunatus | light chain | 3 | 1.000 | 0.000 | 2.410 | 0.000 | 249.000 |
-| Limnephilus lunatus | light chain | 2 | 2.000 | 0.000 | 3.213 | 0.000 | 249.000 |
 | Plectrocnemia conspersa | light chain | 3 | 1.000 | 0.000 | 2.532 | 0.000 | 237.000 |
 | Plectrocnemia conspersa | light chain | 2 | 2.000 | 0.000 | 3.376 | 0.000 | 237.000 |
 | Stenopsyche marmorata | light chain | 3 | 1.000 | 0.000 | 2.419 | 0.000 | 248.000 |

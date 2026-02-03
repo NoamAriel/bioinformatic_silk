@@ -34,7 +34,7 @@ tic = time.perf_counter()
 # - tables_root: where tables should be written (defaults to <data_root>/tables)
 data_root: Path | None = None # Path(r"D:\python\bioinformatic_silk\caddosfly\ncbi_fibroin_sequences")
 plots_root: Path | None = None # Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\plots")
-phylo_tree_json = Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\phylo_tree.json")
+phylo_tree_json = Path(r"bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\phylo_tree.json")
 tables_root: Path | None = None # Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\tables")
 
 

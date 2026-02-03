@@ -227,46 +227,6 @@
                         }
                       }
                     },
-                    "Bombus bifarius": {
-                      "__rank__": "species",
-                      "Bombus bifarius": {
-                        "__rank__": "species",
-                        "full": {
-                          "heavy chain": [
-                            {
-                              "accession": "XP_033315999",
-                              "title": "fibroin heavy chain-like [Bombus bifarius]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_033315999"
-                            },
-                            {
-                              "accession": "XP_033310929",
-                              "title": "fibroin heavy chain-like isoform X3 [Bombus bifarius]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_033310929"
-                            },
-                            {
-                              "accession": "XP_033298061",
-                              "title": "fibroin heavy chain-like isoform X4 [Bombus bifarius]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_033298061"
-                            },
-                            {
-                              "accession": "XP_033298060",
-                              "title": "fibroin heavy chain-like isoform X3 [Bombus bifarius]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_033298060"
-                            },
-                            {
-                              "accession": "XP_033298059",
-                              "title": "fibroin heavy chain-like isoform X2 [Bombus bifarius]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_033298059"
-                            },
-                            {
-                              "accession": "XP_033298057",
-                              "title": "fibroin heavy chain-like isoform X1 [Bombus bifarius]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_033298057"
-                            }
-                          ]
-                        }
-                      }
-                    },
                     "Bombus impatiens": {
                       "__rank__": "species",
                       "Bombus impatiens": {
@@ -340,139 +300,154 @@
                   },
                   "Bombus": {
                     "__rank__": "subgenus",
-                    "Bombus affinis": {
+                    "Bombus terrestris": {
                       "__rank__": "species",
-                      "Bombus affinis": {
+                      "Bombus terrestris": {
                         "__rank__": "species",
                         "full": {
+                          "fibroin 1": [
+                            {
+                              "accession": "NP_001267833",
+                              "title": "silk fibroin 1 precursor [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/NP_001267833"
+                            }
+                          ],
+                          "fibroin 2": [
+                            {
+                              "accession": "NP_001267830",
+                              "title": "silk fibroin 2 precursor [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/NP_001267830"
+                            },
+                            {
+                              "accession": "XP_048266611",
+                              "title": "silk fibroin 2 isoform X1 [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048266611"
+                            }
+                          ],
+                          "fibroin 3": [
+                            {
+                              "accession": "NP_001267828",
+                              "title": "silk fibroin 3 precursor [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/NP_001267828"
+                            }
+                          ],
+                          "fibroin 4": [
+                            {
+                              "accession": "NP_001267825",
+                              "title": "silk fibroin 4 precursor [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/NP_001267825"
+                            }
+                          ],
                           "heavy chain": [
                             {
-                              "accession": "XP_050587186",
-                              "title": "fibroin heavy chain-like isoform X5 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050587186"
+                              "accession": "XP_048264283",
+                              "title": "fibroin heavy chain isoform X4 [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048264283"
                             },
                             {
-                              "accession": "XP_050587185",
-                              "title": "fibroin heavy chain-like isoform X4 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050587185"
+                              "accession": "XP_048264282",
+                              "title": "fibroin heavy chain isoform X3 [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048264282"
                             },
                             {
-                              "accession": "XP_050587184",
-                              "title": "fibroin heavy chain-like isoform X3 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050587184"
+                              "accession": "XP_048264281",
+                              "title": "fibroin heavy chain isoform X2 [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048264281"
                             },
                             {
-                              "accession": "XP_050587183",
-                              "title": "fibroin heavy chain-like isoform X2 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050587183"
+                              "accession": "XP_048264280",
+                              "title": "fibroin heavy chain isoform X1 [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048264280"
                             },
                             {
-                              "accession": "XP_050587182",
-                              "title": "fibroin heavy chain-like isoform X1 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050587182"
+                              "accession": "XP_012172987",
+                              "title": "fibroin heavy chain-like [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_012172987"
                             },
                             {
-                              "accession": "XP_050579547",
-                              "title": "fibroin heavy chain-like isoform X15 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579547"
+                              "accession": "XP_048266238",
+                              "title": "fibroin heavy chain isoform X3 [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048266238"
                             },
                             {
-                              "accession": "XP_050579546",
-                              "title": "fibroin heavy chain-like isoform X14 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579546"
+                              "accession": "XP_048266237",
+                              "title": "fibroin heavy chain isoform X2 [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048266237"
                             },
                             {
-                              "accession": "XP_050579543",
-                              "title": "fibroin heavy chain-like isoform X12 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579543"
+                              "accession": "XP_020721218",
+                              "title": "fibroin heavy chain isoform X1 [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_020721218"
+                            }
+                          ],
+                          "Unknown_type": [
+                            {
+                              "accession": "ABW21697",
+                              "title": "silk fibroin [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ABW21697"
                             },
                             {
-                              "accession": "XP_050579542",
-                              "title": "fibroin heavy chain-like isoform X11 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579542"
+                              "accession": "ABW21696",
+                              "title": "silk fibroin [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ABW21696"
                             },
                             {
-                              "accession": "XP_050579541",
-                              "title": "fibroin heavy chain-like isoform X10 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579541"
+                              "accession": "ABW21695",
+                              "title": "silk fibroin [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ABW21695"
                             },
                             {
-                              "accession": "XP_050579540",
-                              "title": "fibroin heavy chain-like isoform X9 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579540"
-                            },
-                            {
-                              "accession": "XP_050579539",
-                              "title": "fibroin heavy chain-like isoform X8 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579539"
-                            },
-                            {
-                              "accession": "XP_050579538",
-                              "title": "fibroin heavy chain-like isoform X7 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579538"
-                            },
-                            {
-                              "accession": "XP_050579537",
-                              "title": "fibroin heavy chain-like isoform X6 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579537"
-                            },
-                            {
-                              "accession": "XP_050579536",
-                              "title": "fibroin heavy chain-like isoform X5 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579536"
-                            },
-                            {
-                              "accession": "XP_050579535",
-                              "title": "fibroin heavy chain-like isoform X4 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579535"
-                            },
-                            {
-                              "accession": "XP_050579534",
-                              "title": "fibroin heavy chain-like isoform X3 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579534"
-                            },
-                            {
-                              "accession": "XP_050579532",
-                              "title": "fibroin heavy chain-like isoform X2 [Bombus affinis]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579532"
+                              "accession": "ABW21694",
+                              "title": "silk fibroin [Bombus terrestris]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ABW21694"
                             }
                           ]
                         }
                       }
                     }
                   },
-                  "Melanobombus": {
+                  "Thoracobombus": {
                     "__rank__": "subgenus",
-                    "Bombus pyrosoma": {
+                    "Bombus pascuorum": {
                       "__rank__": "species",
-                      "Bombus pyrosoma": {
+                      "Bombus pascuorum": {
                         "__rank__": "species",
                         "full": {
                           "heavy chain": [
                             {
-                              "accession": "XP_043595082",
-                              "title": "fibroin heavy chain-like isoform X5 [Bombus pyrosoma]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043595082"
+                              "accession": "XP_060815202",
+                              "title": "fibroin heavy chain-like isoform X3 [Bombus pascuorum]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060815202"
                             },
                             {
-                              "accession": "XP_043595078",
-                              "title": "fibroin heavy chain-like isoform X1 [Bombus pyrosoma]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043595078"
+                              "accession": "XP_060815201",
+                              "title": "fibroin heavy chain-like isoform X2 [Bombus pascuorum]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060815201"
                             },
                             {
-                              "accession": "XP_043589563",
-                              "title": "fibroin heavy chain-like isoform X3 [Bombus pyrosoma]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043589563"
+                              "accession": "XP_060815200",
+                              "title": "fibroin heavy chain-like isoform X1 [Bombus pascuorum]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060815200"
                             },
                             {
-                              "accession": "XP_043589562",
-                              "title": "fibroin heavy chain-like isoform X2 [Bombus pyrosoma]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043589562"
+                              "accession": "XP_060813838",
+                              "title": "fibroin heavy chain-like isoform X3 [Bombus pascuorum]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060813838"
                             },
                             {
-                              "accession": "XP_043589561",
-                              "title": "fibroin heavy chain-like isoform X1 [Bombus pyrosoma]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043589561"
+                              "accession": "XP_060813837",
+                              "title": "fibroin heavy chain-like isoform X2 [Bombus pascuorum]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060813837"
+                            },
+                            {
+                              "accession": "XP_060813836",
+                              "title": "fibroin heavy chain-like isoform X1 [Bombus pascuorum]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060813836"
+                            },
+                            {
+                              "accession": "XP_060829638",
+                              "title": "fibroin heavy chain-like [Bombus pascuorum]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060829638"
                             }
                           ]
                         }
@@ -485,6 +460,46 @@
                 "__rank__": "tribe",
                 "Apis": {
                   "__rank__": "genus",
+                  "Apis laboriosa": {
+                    "__rank__": "species",
+                    "Apis laboriosa": {
+                      "__rank__": "species",
+                      "full": {
+                        "heavy chain": [
+                          {
+                            "accession": "XP_043789671",
+                            "title": "fibroin heavy chain-like isoform X6 [Apis laboriosa]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043789671"
+                          },
+                          {
+                            "accession": "XP_043789669",
+                            "title": "fibroin heavy chain-like isoform X5 [Apis laboriosa]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043789669"
+                          },
+                          {
+                            "accession": "XP_043789668",
+                            "title": "fibroin heavy chain-like isoform X4 [Apis laboriosa]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043789668"
+                          },
+                          {
+                            "accession": "XP_043789667",
+                            "title": "fibroin heavy chain-like isoform X3 [Apis laboriosa]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043789667"
+                          },
+                          {
+                            "accession": "XP_043789666",
+                            "title": "fibroin heavy chain-like isoform X2 [Apis laboriosa]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043789666"
+                          },
+                          {
+                            "accession": "XP_043789665",
+                            "title": "fibroin heavy chain-like isoform X1 [Apis laboriosa]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043789665"
+                          }
+                        ]
+                      }
+                    }
+                  },
                   "Apis mellifera": {
                     "__rank__": "species",
                     "Apis mellifera carnica": {
@@ -530,6 +545,49 @@
                         }
                       }
                     },
+                    "Apis mellifera caucasica": {
+                      "__rank__": "subspecies",
+                      "Apis mellifera caucasica": {
+                        "__rank__": "subspecies",
+                        "full": {
+                          "heavy chain": [
+                            {
+                              "accession": "KAG6801279",
+                              "title": "fibroin heavy chain isoform X3 [Apis mellifera caucasica]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAG6801279"
+                            }
+                          ],
+                          "fibroin 1": [
+                            {
+                              "accession": "KAG6798117",
+                              "title": "silk fibroin 1 precursor [Apis mellifera caucasica]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAG6798117"
+                            }
+                          ],
+                          "fibroin 2": [
+                            {
+                              "accession": "KAG6798116",
+                              "title": "silk fibroin 2 precursor [Apis mellifera caucasica]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAG6798116"
+                            }
+                          ],
+                          "fibroin 3": [
+                            {
+                              "accession": "KAG6798115",
+                              "title": "silk fibroin 3 precursor [Apis mellifera caucasica]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAG6798115"
+                            }
+                          ],
+                          "fibroin 4": [
+                            {
+                              "accession": "KAG6798114",
+                              "title": "silk fibroin 4 precursor [Apis mellifera caucasica]",
+                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAG6798114"
+                            }
+                          ]
+                        }
+                      }
+                    },
                     "Apis mellifera mellifera": {
                       "__rank__": "subspecies",
                       "Apis mellifera mellifera": {
@@ -543,51 +601,6 @@
                             }
                           ]
                         }
-                      }
-                    }
-                  },
-                  "Apis florea": {
-                    "__rank__": "species",
-                    "Apis florea": {
-                      "__rank__": "species",
-                      "full": {
-                        "heavy chain": [
-                          {
-                            "accession": "XP_012348847",
-                            "title": "fibroin heavy chain-like isoform X1 [Apis florea]",
-                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_012348847"
-                          }
-                        ]
-                      },
-                      "partial": {
-                        "fibroin 2": [
-                          {
-                            "accession": "ALG02146",
-                            "title": "silk fibroin 2, partial [Apis florea]",
-                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ALG02146"
-                          }
-                        ],
-                        "fibroin 1": [
-                          {
-                            "accession": "ALG02144",
-                            "title": "silk fibroin 1, partial [Apis florea]",
-                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ALG02144"
-                          }
-                        ],
-                        "fibroin 3": [
-                          {
-                            "accession": "ALG02142",
-                            "title": "silk fibroin 3, partial [Apis florea]",
-                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ALG02142"
-                          }
-                        ],
-                        "fibroin 4": [
-                          {
-                            "accession": "ALG02140",
-                            "title": "silk fibroin 4, partial [Apis florea]",
-                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ALG02140"
-                          }
-                        ]
                       }
                     }
                   },
@@ -626,22 +639,111 @@
                         ]
                       }
                     }
-                  },
-                  "Apis cerana": {
+                  }
+                }
+              },
+              "Meliponini": {
+                "__rank__": "tribe",
+                "Frieseomelitta": {
+                  "__rank__": "genus",
+                  "Frieseomelitta varia": {
                     "__rank__": "species",
-                    "Apis cerana cerana": {
-                      "__rank__": "subspecies",
-                      "Apis cerana cerana": {
-                        "__rank__": "subspecies",
-                        "full": {
-                          "fibroin 1": [
-                            {
-                              "accession": "ANW10806",
-                              "title": "silk fibroin 1 [Apis cerana cerana]",
-                              "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ANW10806"
-                            }
-                          ]
-                        }
+                    "Frieseomelitta varia": {
+                      "__rank__": "species",
+                      "full": {
+                        "heavy chain": [
+                          {
+                            "accession": "XP_043521635",
+                            "title": "fibroin heavy chain-like isoform X13 [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521635"
+                          },
+                          {
+                            "accession": "XP_043521633",
+                            "title": "fibroin heavy chain-like isoform X12 [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521633"
+                          },
+                          {
+                            "accession": "XP_043521632",
+                            "title": "fibroin heavy chain-like isoform X11 [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521632"
+                          },
+                          {
+                            "accession": "XP_043521631",
+                            "title": "fibroin heavy chain-like isoform X10 [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521631"
+                          },
+                          {
+                            "accession": "XP_043521630",
+                            "title": "fibroin heavy chain-like isoform X9 [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521630"
+                          },
+                          {
+                            "accession": "XP_043521629",
+                            "title": "fibroin heavy chain-like isoform X8 [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521629"
+                          },
+                          {
+                            "accession": "XP_043521627",
+                            "title": "fibroin heavy chain-like isoform X6 [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521627"
+                          },
+                          {
+                            "accession": "XP_043521626",
+                            "title": "fibroin heavy chain-like isoform X5 [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521626"
+                          },
+                          {
+                            "accession": "XP_043521625",
+                            "title": "fibroin heavy chain-like isoform X4 [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521625"
+                          },
+                          {
+                            "accession": "XP_043521624",
+                            "title": "fibroin heavy chain-like isoform X3 [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521624"
+                          },
+                          {
+                            "accession": "XP_043521623",
+                            "title": "fibroin heavy chain-like isoform X2 [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521623"
+                          },
+                          {
+                            "accession": "XP_043521622",
+                            "title": "fibroin heavy chain-like isoform X1 [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521622"
+                          },
+                          {
+                            "accession": "XP_043519445",
+                            "title": "fibroin heavy chain-like [Frieseomelitta varia]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043519445"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              "Euglossini": {
+                "__rank__": "tribe",
+                "Eufriesea": {
+                  "__rank__": "genus",
+                  "Eufriesea mexicana": {
+                    "__rank__": "species",
+                    "Eufriesea mexicana": {
+                      "__rank__": "species",
+                      "full": {
+                        "heavy chain": [
+                          {
+                            "accession": "XP_017761828",
+                            "title": "PREDICTED: fibroin heavy chain isoform X2 [Eufriesea mexicana]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_017761828"
+                          },
+                          {
+                            "accession": "XP_017761827",
+                            "title": "PREDICTED: fibroin heavy chain isoform X1 [Eufriesea mexicana]",
+                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_017761827"
+                          }
+                        ]
                       }
                     }
                   }
@@ -709,104 +811,99 @@
                       ]
                     }
                   },
-                  "Bombus terrestris": {
+                  "Bombus affinis": {
                     "__rank__": "species",
                     "full": {
-                      "fibroin 1": [
-                        {
-                          "accession": "NP_001267833",
-                          "title": "silk fibroin 1 precursor [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/NP_001267833"
-                        }
-                      ],
-                      "fibroin 2": [
-                        {
-                          "accession": "NP_001267830",
-                          "title": "silk fibroin 2 precursor [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/NP_001267830"
-                        },
-                        {
-                          "accession": "XP_048266611",
-                          "title": "silk fibroin 2 isoform X1 [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048266611"
-                        }
-                      ],
-                      "fibroin 3": [
-                        {
-                          "accession": "NP_001267828",
-                          "title": "silk fibroin 3 precursor [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/NP_001267828"
-                        }
-                      ],
-                      "fibroin 4": [
-                        {
-                          "accession": "NP_001267825",
-                          "title": "silk fibroin 4 precursor [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/NP_001267825"
-                        }
-                      ],
                       "heavy chain": [
                         {
-                          "accession": "XP_048264283",
-                          "title": "fibroin heavy chain isoform X4 [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048264283"
+                          "accession": "XP_050587186",
+                          "title": "fibroin heavy chain-like isoform X5 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050587186"
                         },
                         {
-                          "accession": "XP_048264282",
-                          "title": "fibroin heavy chain isoform X3 [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048264282"
+                          "accession": "XP_050587185",
+                          "title": "fibroin heavy chain-like isoform X4 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050587185"
                         },
                         {
-                          "accession": "XP_048264281",
-                          "title": "fibroin heavy chain isoform X2 [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048264281"
+                          "accession": "XP_050587184",
+                          "title": "fibroin heavy chain-like isoform X3 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050587184"
                         },
                         {
-                          "accession": "XP_048264280",
-                          "title": "fibroin heavy chain isoform X1 [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048264280"
+                          "accession": "XP_050587183",
+                          "title": "fibroin heavy chain-like isoform X2 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050587183"
                         },
                         {
-                          "accession": "XP_012172987",
-                          "title": "fibroin heavy chain-like [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_012172987"
+                          "accession": "XP_050587182",
+                          "title": "fibroin heavy chain-like isoform X1 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050587182"
                         },
                         {
-                          "accession": "XP_048266238",
-                          "title": "fibroin heavy chain isoform X3 [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048266238"
+                          "accession": "XP_050579547",
+                          "title": "fibroin heavy chain-like isoform X15 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579547"
                         },
                         {
-                          "accession": "XP_048266237",
-                          "title": "fibroin heavy chain isoform X2 [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_048266237"
+                          "accession": "XP_050579546",
+                          "title": "fibroin heavy chain-like isoform X14 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579546"
                         },
                         {
-                          "accession": "XP_020721218",
-                          "title": "fibroin heavy chain isoform X1 [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_020721218"
-                        }
-                      ],
-                      "Unknown_type": [
-                        {
-                          "accession": "ABW21697",
-                          "title": "silk fibroin [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ABW21697"
+                          "accession": "XP_050579543",
+                          "title": "fibroin heavy chain-like isoform X12 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579543"
                         },
                         {
-                          "accession": "ABW21696",
-                          "title": "silk fibroin [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ABW21696"
+                          "accession": "XP_050579542",
+                          "title": "fibroin heavy chain-like isoform X11 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579542"
                         },
                         {
-                          "accession": "ABW21695",
-                          "title": "silk fibroin [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ABW21695"
+                          "accession": "XP_050579541",
+                          "title": "fibroin heavy chain-like isoform X10 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579541"
                         },
                         {
-                          "accession": "ABW21694",
-                          "title": "silk fibroin [Bombus terrestris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ABW21694"
+                          "accession": "XP_050579540",
+                          "title": "fibroin heavy chain-like isoform X9 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579540"
+                        },
+                        {
+                          "accession": "XP_050579539",
+                          "title": "fibroin heavy chain-like isoform X8 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579539"
+                        },
+                        {
+                          "accession": "XP_050579538",
+                          "title": "fibroin heavy chain-like isoform X7 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579538"
+                        },
+                        {
+                          "accession": "XP_050579537",
+                          "title": "fibroin heavy chain-like isoform X6 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579537"
+                        },
+                        {
+                          "accession": "XP_050579536",
+                          "title": "fibroin heavy chain-like isoform X5 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579536"
+                        },
+                        {
+                          "accession": "XP_050579535",
+                          "title": "fibroin heavy chain-like isoform X4 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579535"
+                        },
+                        {
+                          "accession": "XP_050579534",
+                          "title": "fibroin heavy chain-like isoform X3 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579534"
+                        },
+                        {
+                          "accession": "XP_050579532",
+                          "title": "fibroin heavy chain-like isoform X2 [Bombus affinis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050579532"
                         }
                       ]
                     }
@@ -824,47 +921,74 @@
                         }
                       ]
                     }
-                  }
-                },
-                "Thoracobombus": {
-                  "Bombus pascuorum": {
+                  },
+                  "Bombus bifarius": {
                     "__rank__": "species",
                     "full": {
                       "heavy chain": [
                         {
-                          "accession": "XP_060815202",
-                          "title": "fibroin heavy chain-like isoform X3 [Bombus pascuorum]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060815202"
+                          "accession": "XP_033315999",
+                          "title": "fibroin heavy chain-like [Bombus bifarius]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_033315999"
                         },
                         {
-                          "accession": "XP_060815201",
-                          "title": "fibroin heavy chain-like isoform X2 [Bombus pascuorum]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060815201"
+                          "accession": "XP_033310929",
+                          "title": "fibroin heavy chain-like isoform X3 [Bombus bifarius]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_033310929"
                         },
                         {
-                          "accession": "XP_060815200",
-                          "title": "fibroin heavy chain-like isoform X1 [Bombus pascuorum]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060815200"
+                          "accession": "XP_033298061",
+                          "title": "fibroin heavy chain-like isoform X4 [Bombus bifarius]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_033298061"
                         },
                         {
-                          "accession": "XP_060813838",
-                          "title": "fibroin heavy chain-like isoform X3 [Bombus pascuorum]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060813838"
+                          "accession": "XP_033298060",
+                          "title": "fibroin heavy chain-like isoform X3 [Bombus bifarius]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_033298060"
                         },
                         {
-                          "accession": "XP_060813837",
-                          "title": "fibroin heavy chain-like isoform X2 [Bombus pascuorum]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060813837"
+                          "accession": "XP_033298059",
+                          "title": "fibroin heavy chain-like isoform X2 [Bombus bifarius]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_033298059"
                         },
                         {
-                          "accession": "XP_060813836",
-                          "title": "fibroin heavy chain-like isoform X1 [Bombus pascuorum]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060813836"
+                          "accession": "XP_033298057",
+                          "title": "fibroin heavy chain-like isoform X1 [Bombus bifarius]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_033298057"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "Melanobombus": {
+                  "Bombus pyrosoma": {
+                    "__rank__": "species",
+                    "full": {
+                      "heavy chain": [
+                        {
+                          "accession": "XP_043595082",
+                          "title": "fibroin heavy chain-like isoform X5 [Bombus pyrosoma]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043595082"
                         },
                         {
-                          "accession": "XP_060829638",
-                          "title": "fibroin heavy chain-like [Bombus pascuorum]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_060829638"
+                          "accession": "XP_043595078",
+                          "title": "fibroin heavy chain-like isoform X1 [Bombus pyrosoma]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043595078"
+                        },
+                        {
+                          "accession": "XP_043589563",
+                          "title": "fibroin heavy chain-like isoform X3 [Bombus pyrosoma]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043589563"
+                        },
+                        {
+                          "accession": "XP_043589562",
+                          "title": "fibroin heavy chain-like isoform X2 [Bombus pyrosoma]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043589562"
+                        },
+                        {
+                          "accession": "XP_043589561",
+                          "title": "fibroin heavy chain-like isoform X1 [Bombus pyrosoma]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043589561"
                         }
                       ]
                     }
@@ -953,79 +1077,44 @@
                     ]
                   }
                 },
-                "Apis laboriosa": {
+                "Apis florea": {
                   "__rank__": "species",
                   "full": {
                     "heavy chain": [
                       {
-                        "accession": "XP_043789671",
-                        "title": "fibroin heavy chain-like isoform X6 [Apis laboriosa]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043789671"
-                      },
-                      {
-                        "accession": "XP_043789669",
-                        "title": "fibroin heavy chain-like isoform X5 [Apis laboriosa]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043789669"
-                      },
-                      {
-                        "accession": "XP_043789668",
-                        "title": "fibroin heavy chain-like isoform X4 [Apis laboriosa]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043789668"
-                      },
-                      {
-                        "accession": "XP_043789667",
-                        "title": "fibroin heavy chain-like isoform X3 [Apis laboriosa]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043789667"
-                      },
-                      {
-                        "accession": "XP_043789666",
-                        "title": "fibroin heavy chain-like isoform X2 [Apis laboriosa]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043789666"
-                      },
-                      {
-                        "accession": "XP_043789665",
-                        "title": "fibroin heavy chain-like isoform X1 [Apis laboriosa]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043789665"
+                        "accession": "XP_012348847",
+                        "title": "fibroin heavy chain-like isoform X1 [Apis florea]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_012348847"
                       }
                     ]
-                  }
-                },
-                "Apis mellifera caucasica": {
-                  "__rank__": "species",
-                  "full": {
-                    "heavy chain": [
+                  },
+                  "partial": {
+                    "fibroin 2": [
                       {
-                        "accession": "KAG6801279",
-                        "title": "fibroin heavy chain isoform X3 [Apis mellifera caucasica]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAG6801279"
+                        "accession": "ALG02146",
+                        "title": "silk fibroin 2, partial [Apis florea]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ALG02146"
                       }
                     ],
                     "fibroin 1": [
                       {
-                        "accession": "KAG6798117",
-                        "title": "silk fibroin 1 precursor [Apis mellifera caucasica]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAG6798117"
-                      }
-                    ],
-                    "fibroin 2": [
-                      {
-                        "accession": "KAG6798116",
-                        "title": "silk fibroin 2 precursor [Apis mellifera caucasica]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAG6798116"
+                        "accession": "ALG02144",
+                        "title": "silk fibroin 1, partial [Apis florea]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ALG02144"
                       }
                     ],
                     "fibroin 3": [
                       {
-                        "accession": "KAG6798115",
-                        "title": "silk fibroin 3 precursor [Apis mellifera caucasica]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAG6798115"
+                        "accession": "ALG02142",
+                        "title": "silk fibroin 3, partial [Apis florea]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ALG02142"
                       }
                     ],
                     "fibroin 4": [
                       {
-                        "accession": "KAG6798114",
-                        "title": "silk fibroin 4 precursor [Apis mellifera caucasica]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/KAG6798114"
+                        "accession": "ALG02140",
+                        "title": "silk fibroin 4, partial [Apis florea]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ALG02140"
                       }
                     ]
                   }
@@ -1084,78 +1173,15 @@
                       }
                     ]
                   }
-                }
-              },
-              "Frieseomelitta": {
-                "__rank__": "genus",
-                "Frieseomelitta varia": {
+                },
+                "Apis cerana cerana": {
                   "__rank__": "species",
                   "full": {
-                    "heavy chain": [
+                    "fibroin 1": [
                       {
-                        "accession": "XP_043521635",
-                        "title": "fibroin heavy chain-like isoform X13 [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521635"
-                      },
-                      {
-                        "accession": "XP_043521633",
-                        "title": "fibroin heavy chain-like isoform X12 [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521633"
-                      },
-                      {
-                        "accession": "XP_043521632",
-                        "title": "fibroin heavy chain-like isoform X11 [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521632"
-                      },
-                      {
-                        "accession": "XP_043521631",
-                        "title": "fibroin heavy chain-like isoform X10 [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521631"
-                      },
-                      {
-                        "accession": "XP_043521630",
-                        "title": "fibroin heavy chain-like isoform X9 [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521630"
-                      },
-                      {
-                        "accession": "XP_043521629",
-                        "title": "fibroin heavy chain-like isoform X8 [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521629"
-                      },
-                      {
-                        "accession": "XP_043521627",
-                        "title": "fibroin heavy chain-like isoform X6 [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521627"
-                      },
-                      {
-                        "accession": "XP_043521626",
-                        "title": "fibroin heavy chain-like isoform X5 [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521626"
-                      },
-                      {
-                        "accession": "XP_043521625",
-                        "title": "fibroin heavy chain-like isoform X4 [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521625"
-                      },
-                      {
-                        "accession": "XP_043521624",
-                        "title": "fibroin heavy chain-like isoform X3 [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521624"
-                      },
-                      {
-                        "accession": "XP_043521623",
-                        "title": "fibroin heavy chain-like isoform X2 [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521623"
-                      },
-                      {
-                        "accession": "XP_043521622",
-                        "title": "fibroin heavy chain-like isoform X1 [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043521622"
-                      },
-                      {
-                        "accession": "XP_043519445",
-                        "title": "fibroin heavy chain-like [Frieseomelitta varia]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043519445"
+                        "accession": "ANW10806",
+                        "title": "silk fibroin 1 [Apis cerana cerana]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/ANW10806"
                       }
                     ]
                   }
@@ -1190,26 +1216,6 @@
                     ]
                   }
                 }
-              },
-              "Eufriesea": {
-                "__rank__": "genus",
-                "Eufriesea mexicana": {
-                  "__rank__": "species",
-                  "full": {
-                    "heavy chain": [
-                      {
-                        "accession": "XP_017761828",
-                        "title": "PREDICTED: fibroin heavy chain isoform X2 [Eufriesea mexicana]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_017761828"
-                      },
-                      {
-                        "accession": "XP_017761827",
-                        "title": "PREDICTED: fibroin heavy chain isoform X1 [Eufriesea mexicana]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_017761827"
-                      }
-                    ]
-                  }
-                }
               }
             }
           }
@@ -1232,28 +1238,22 @@
                   }
                 }
               },
-              "__rank__": "subfamily",
-              "Solenopsidini": {
-                "__rank__": "tribe",
-                "Monomorium": {
-                  "__rank__": "genus",
-                  "Monomorium pharaonis": {
-                    "__rank__": "species",
-                    "Monomorium pharaonis": {
-                      "__rank__": "species",
-                      "full": {
-                        "heavy chain": [
-                          {
-                            "accession": "XP_012524667",
-                            "title": "fibroin heavy chain [Monomorium pharaonis]",
-                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_012524667"
-                          }
-                        ]
+              "Monomorium": {
+                "__rank__": "genus",
+                "Monomorium pharaonis": {
+                  "__rank__": "species",
+                  "full": {
+                    "heavy chain": [
+                      {
+                        "accession": "XP_012524667",
+                        "title": "fibroin heavy chain [Monomorium pharaonis]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_012524667"
                       }
-                    }
+                    ]
                   }
                 }
               },
+              "__rank__": "subfamily",
               "Attini": {
                 "__rank__": "tribe",
                 "Acromyrmex": {
@@ -1276,34 +1276,30 @@
                 }
               }
             },
-            "__rank__": "family",
             "Formicinae": {
+              "Polyrhachis": {
+                "__rank__": "genus",
+                "Polyrhachis lamellidens": {
+                  "__rank__": "species",
+                  "full": {
+                    "Unknown_type": [
+                      {
+                        "accession": "BFW62623",
+                        "title": "Silk fibroin [Polyrhachis lamellidens]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/BFW62623"
+                      },
+                      {
+                        "accession": "BFW62622",
+                        "title": "Silk fibroin [Polyrhachis lamellidens]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/BFW62622"
+                      }
+                    ]
+                  }
+                }
+              },
               "__rank__": "subfamily",
               "Camponotini": {
                 "__rank__": "tribe",
-                "Polyrhachis": {
-                  "__rank__": "genus",
-                  "Polyrhachis lamellidens": {
-                    "__rank__": "species",
-                    "Polyrhachis lamellidens": {
-                      "__rank__": "species",
-                      "full": {
-                        "Unknown_type": [
-                          {
-                            "accession": "BFW62623",
-                            "title": "Silk fibroin [Polyrhachis lamellidens]",
-                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/BFW62623"
-                          },
-                          {
-                            "accession": "BFW62622",
-                            "title": "Silk fibroin [Polyrhachis lamellidens]",
-                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/BFW62622"
-                          }
-                        ]
-                      }
-                    }
-                  }
-                },
                 "Camponotus": {
                   "__rank__": "genus",
                   "Camponotus japonicus": {
@@ -1356,26 +1352,23 @@
                   }
                 }
               },
+              "Polyergus": {
+                "__rank__": "genus",
+                "Polyergus mexicanus": {
+                  "__rank__": "species",
+                  "full": {
+                    "fibroin 1": [
+                      {
+                        "accession": "XP_070165631",
+                        "title": "silk fibroin 1 [Polyergus mexicanus]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_070165631"
+                      }
+                    ]
+                  }
+                }
+              },
               "Formicini": {
                 "__rank__": "tribe",
-                "Polyergus": {
-                  "__rank__": "genus",
-                  "Polyergus mexicanus": {
-                    "__rank__": "species",
-                    "Polyergus mexicanus": {
-                      "__rank__": "species",
-                      "full": {
-                        "fibroin 1": [
-                          {
-                            "accession": "XP_070165631",
-                            "title": "silk fibroin 1 [Polyergus mexicanus]",
-                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_070165631"
-                          }
-                        ]
-                      }
-                    }
-                  }
-                },
                 "Cataglyphis": {
                   "__rank__": "genus",
                   "Cataglyphis hispanica": {
@@ -1472,6 +1465,7 @@
                 }
               }
             },
+            "__rank__": "family",
             "Ponerinae": {
               "Ponerini": {
                 "Dinoponera": {
@@ -1578,267 +1572,264 @@
                 },
                 "Vespula vulgaris": {
                   "__rank__": "species",
-                  "Vespula vulgaris": {
-                    "__rank__": "species",
-                    "full": {
-                      "heavy chain": [
-                        {
-                          "accession": "XP_050845697",
-                          "title": "fibroin heavy chain-like isoform X50 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845697"
-                        },
-                        {
-                          "accession": "XP_050845696",
-                          "title": "fibroin heavy chain-like isoform X49 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845696"
-                        },
-                        {
-                          "accession": "XP_050845695",
-                          "title": "fibroin heavy chain-like isoform X48 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845695"
-                        },
-                        {
-                          "accession": "XP_050845694",
-                          "title": "fibroin heavy chain-like isoform X47 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845694"
-                        },
-                        {
-                          "accession": "XP_050845692",
-                          "title": "fibroin heavy chain-like isoform X46 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845692"
-                        },
-                        {
-                          "accession": "XP_050845691",
-                          "title": "fibroin heavy chain-like isoform X45 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845691"
-                        },
-                        {
-                          "accession": "XP_050845690",
-                          "title": "fibroin heavy chain-like isoform X44 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845690"
-                        },
-                        {
-                          "accession": "XP_050845689",
-                          "title": "fibroin heavy chain-like isoform X43 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845689"
-                        },
-                        {
-                          "accession": "XP_050845688",
-                          "title": "fibroin heavy chain-like isoform X42 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845688"
-                        },
-                        {
-                          "accession": "XP_050845687",
-                          "title": "fibroin heavy chain-like isoform X41 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845687"
-                        },
-                        {
-                          "accession": "XP_050845686",
-                          "title": "fibroin heavy chain-like isoform X40 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845686"
-                        },
-                        {
-                          "accession": "XP_050845685",
-                          "title": "fibroin heavy chain-like isoform X39 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845685"
-                        },
-                        {
-                          "accession": "XP_050845684",
-                          "title": "fibroin heavy chain-like isoform X38 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845684"
-                        },
-                        {
-                          "accession": "XP_050845683",
-                          "title": "fibroin heavy chain-like isoform X37 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845683"
-                        },
-                        {
-                          "accession": "XP_050845680",
-                          "title": "fibroin heavy chain-like isoform X36 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845680"
-                        },
-                        {
-                          "accession": "XP_050845679",
-                          "title": "fibroin heavy chain-like isoform X35 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845679"
-                        },
-                        {
-                          "accession": "XP_050845678",
-                          "title": "fibroin heavy chain-like isoform X34 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845678"
-                        },
-                        {
-                          "accession": "XP_050845677",
-                          "title": "fibroin heavy chain-like isoform X33 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845677"
-                        },
-                        {
-                          "accession": "XP_050845676",
-                          "title": "fibroin heavy chain-like isoform X32 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845676"
-                        },
-                        {
-                          "accession": "XP_050845675",
-                          "title": "fibroin heavy chain-like isoform X31 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845675"
-                        },
-                        {
-                          "accession": "XP_050845674",
-                          "title": "fibroin heavy chain-like isoform X30 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845674"
-                        },
-                        {
-                          "accession": "XP_050845673",
-                          "title": "fibroin heavy chain-like isoform X29 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845673"
-                        },
-                        {
-                          "accession": "XP_050845672",
-                          "title": "fibroin heavy chain-like isoform X28 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845672"
-                        },
-                        {
-                          "accession": "XP_050845671",
-                          "title": "fibroin heavy chain-like isoform X27 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845671"
-                        },
-                        {
-                          "accession": "XP_050845669",
-                          "title": "fibroin heavy chain-like isoform X26 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845669"
-                        },
-                        {
-                          "accession": "XP_050845668",
-                          "title": "fibroin heavy chain-like isoform X25 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845668"
-                        },
-                        {
-                          "accession": "XP_050845667",
-                          "title": "fibroin heavy chain-like isoform X24 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845667"
-                        },
-                        {
-                          "accession": "XP_050845666",
-                          "title": "fibroin heavy chain-like isoform X23 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845666"
-                        },
-                        {
-                          "accession": "XP_050845665",
-                          "title": "fibroin heavy chain-like isoform X22 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845665"
-                        },
-                        {
-                          "accession": "XP_050845664",
-                          "title": "fibroin heavy chain-like isoform X21 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845664"
-                        },
-                        {
-                          "accession": "XP_050845663",
-                          "title": "fibroin heavy chain-like isoform X20 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845663"
-                        },
-                        {
-                          "accession": "XP_050845662",
-                          "title": "fibroin heavy chain-like isoform X19 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845662"
-                        },
-                        {
-                          "accession": "XP_050845661",
-                          "title": "fibroin heavy chain-like isoform X18 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845661"
-                        },
-                        {
-                          "accession": "XP_050845660",
-                          "title": "fibroin heavy chain-like isoform X17 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845660"
-                        },
-                        {
-                          "accession": "XP_050845658",
-                          "title": "fibroin heavy chain-like isoform X16 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845658"
-                        },
-                        {
-                          "accession": "XP_050845657",
-                          "title": "fibroin heavy chain-like isoform X15 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845657"
-                        },
-                        {
-                          "accession": "XP_050845656",
-                          "title": "fibroin heavy chain-like isoform X14 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845656"
-                        },
-                        {
-                          "accession": "XP_050845655",
-                          "title": "fibroin heavy chain-like isoform X13 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845655"
-                        },
-                        {
-                          "accession": "XP_050845654",
-                          "title": "fibroin heavy chain-like isoform X12 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845654"
-                        },
-                        {
-                          "accession": "XP_050845653",
-                          "title": "fibroin heavy chain-like isoform X11 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845653"
-                        },
-                        {
-                          "accession": "XP_050845652",
-                          "title": "fibroin heavy chain-like isoform X10 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845652"
-                        },
-                        {
-                          "accession": "XP_050845651",
-                          "title": "fibroin heavy chain-like isoform X9 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845651"
-                        },
-                        {
-                          "accession": "XP_050845650",
-                          "title": "fibroin heavy chain-like isoform X8 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845650"
-                        },
-                        {
-                          "accession": "XP_050845649",
-                          "title": "fibroin heavy chain-like isoform X7 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845649"
-                        },
-                        {
-                          "accession": "XP_050845647",
-                          "title": "fibroin heavy chain-like isoform X6 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845647"
-                        },
-                        {
-                          "accession": "XP_050845646",
-                          "title": "fibroin heavy chain-like isoform X5 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845646"
-                        },
-                        {
-                          "accession": "XP_050845645",
-                          "title": "fibroin heavy chain-like isoform X4 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845645"
-                        },
-                        {
-                          "accession": "XP_050845644",
-                          "title": "fibroin heavy chain-like isoform X3 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845644"
-                        },
-                        {
-                          "accession": "XP_050845643",
-                          "title": "fibroin heavy chain-like isoform X2 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845643"
-                        },
-                        {
-                          "accession": "XP_050845642",
-                          "title": "fibroin heavy chain-like isoform X1 [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845642"
-                        },
-                        {
-                          "accession": "XP_050857650",
-                          "title": "fibroin heavy chain-like [Vespula vulgaris]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050857650"
-                        }
-                      ]
-                    }
+                  "full": {
+                    "heavy chain": [
+                      {
+                        "accession": "XP_050845697",
+                        "title": "fibroin heavy chain-like isoform X50 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845697"
+                      },
+                      {
+                        "accession": "XP_050845696",
+                        "title": "fibroin heavy chain-like isoform X49 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845696"
+                      },
+                      {
+                        "accession": "XP_050845695",
+                        "title": "fibroin heavy chain-like isoform X48 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845695"
+                      },
+                      {
+                        "accession": "XP_050845694",
+                        "title": "fibroin heavy chain-like isoform X47 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845694"
+                      },
+                      {
+                        "accession": "XP_050845692",
+                        "title": "fibroin heavy chain-like isoform X46 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845692"
+                      },
+                      {
+                        "accession": "XP_050845691",
+                        "title": "fibroin heavy chain-like isoform X45 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845691"
+                      },
+                      {
+                        "accession": "XP_050845690",
+                        "title": "fibroin heavy chain-like isoform X44 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845690"
+                      },
+                      {
+                        "accession": "XP_050845689",
+                        "title": "fibroin heavy chain-like isoform X43 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845689"
+                      },
+                      {
+                        "accession": "XP_050845688",
+                        "title": "fibroin heavy chain-like isoform X42 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845688"
+                      },
+                      {
+                        "accession": "XP_050845687",
+                        "title": "fibroin heavy chain-like isoform X41 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845687"
+                      },
+                      {
+                        "accession": "XP_050845686",
+                        "title": "fibroin heavy chain-like isoform X40 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845686"
+                      },
+                      {
+                        "accession": "XP_050845685",
+                        "title": "fibroin heavy chain-like isoform X39 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845685"
+                      },
+                      {
+                        "accession": "XP_050845684",
+                        "title": "fibroin heavy chain-like isoform X38 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845684"
+                      },
+                      {
+                        "accession": "XP_050845683",
+                        "title": "fibroin heavy chain-like isoform X37 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845683"
+                      },
+                      {
+                        "accession": "XP_050845680",
+                        "title": "fibroin heavy chain-like isoform X36 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845680"
+                      },
+                      {
+                        "accession": "XP_050845679",
+                        "title": "fibroin heavy chain-like isoform X35 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845679"
+                      },
+                      {
+                        "accession": "XP_050845678",
+                        "title": "fibroin heavy chain-like isoform X34 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845678"
+                      },
+                      {
+                        "accession": "XP_050845677",
+                        "title": "fibroin heavy chain-like isoform X33 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845677"
+                      },
+                      {
+                        "accession": "XP_050845676",
+                        "title": "fibroin heavy chain-like isoform X32 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845676"
+                      },
+                      {
+                        "accession": "XP_050845675",
+                        "title": "fibroin heavy chain-like isoform X31 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845675"
+                      },
+                      {
+                        "accession": "XP_050845674",
+                        "title": "fibroin heavy chain-like isoform X30 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845674"
+                      },
+                      {
+                        "accession": "XP_050845673",
+                        "title": "fibroin heavy chain-like isoform X29 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845673"
+                      },
+                      {
+                        "accession": "XP_050845672",
+                        "title": "fibroin heavy chain-like isoform X28 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845672"
+                      },
+                      {
+                        "accession": "XP_050845671",
+                        "title": "fibroin heavy chain-like isoform X27 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845671"
+                      },
+                      {
+                        "accession": "XP_050845669",
+                        "title": "fibroin heavy chain-like isoform X26 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845669"
+                      },
+                      {
+                        "accession": "XP_050845668",
+                        "title": "fibroin heavy chain-like isoform X25 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845668"
+                      },
+                      {
+                        "accession": "XP_050845667",
+                        "title": "fibroin heavy chain-like isoform X24 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845667"
+                      },
+                      {
+                        "accession": "XP_050845666",
+                        "title": "fibroin heavy chain-like isoform X23 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845666"
+                      },
+                      {
+                        "accession": "XP_050845665",
+                        "title": "fibroin heavy chain-like isoform X22 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845665"
+                      },
+                      {
+                        "accession": "XP_050845664",
+                        "title": "fibroin heavy chain-like isoform X21 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845664"
+                      },
+                      {
+                        "accession": "XP_050845663",
+                        "title": "fibroin heavy chain-like isoform X20 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845663"
+                      },
+                      {
+                        "accession": "XP_050845662",
+                        "title": "fibroin heavy chain-like isoform X19 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845662"
+                      },
+                      {
+                        "accession": "XP_050845661",
+                        "title": "fibroin heavy chain-like isoform X18 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845661"
+                      },
+                      {
+                        "accession": "XP_050845660",
+                        "title": "fibroin heavy chain-like isoform X17 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845660"
+                      },
+                      {
+                        "accession": "XP_050845658",
+                        "title": "fibroin heavy chain-like isoform X16 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845658"
+                      },
+                      {
+                        "accession": "XP_050845657",
+                        "title": "fibroin heavy chain-like isoform X15 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845657"
+                      },
+                      {
+                        "accession": "XP_050845656",
+                        "title": "fibroin heavy chain-like isoform X14 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845656"
+                      },
+                      {
+                        "accession": "XP_050845655",
+                        "title": "fibroin heavy chain-like isoform X13 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845655"
+                      },
+                      {
+                        "accession": "XP_050845654",
+                        "title": "fibroin heavy chain-like isoform X12 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845654"
+                      },
+                      {
+                        "accession": "XP_050845653",
+                        "title": "fibroin heavy chain-like isoform X11 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845653"
+                      },
+                      {
+                        "accession": "XP_050845652",
+                        "title": "fibroin heavy chain-like isoform X10 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845652"
+                      },
+                      {
+                        "accession": "XP_050845651",
+                        "title": "fibroin heavy chain-like isoform X9 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845651"
+                      },
+                      {
+                        "accession": "XP_050845650",
+                        "title": "fibroin heavy chain-like isoform X8 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845650"
+                      },
+                      {
+                        "accession": "XP_050845649",
+                        "title": "fibroin heavy chain-like isoform X7 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845649"
+                      },
+                      {
+                        "accession": "XP_050845647",
+                        "title": "fibroin heavy chain-like isoform X6 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845647"
+                      },
+                      {
+                        "accession": "XP_050845646",
+                        "title": "fibroin heavy chain-like isoform X5 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845646"
+                      },
+                      {
+                        "accession": "XP_050845645",
+                        "title": "fibroin heavy chain-like isoform X4 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845645"
+                      },
+                      {
+                        "accession": "XP_050845644",
+                        "title": "fibroin heavy chain-like isoform X3 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845644"
+                      },
+                      {
+                        "accession": "XP_050845643",
+                        "title": "fibroin heavy chain-like isoform X2 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845643"
+                      },
+                      {
+                        "accession": "XP_050845642",
+                        "title": "fibroin heavy chain-like isoform X1 [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050845642"
+                      },
+                      {
+                        "accession": "XP_050857650",
+                        "title": "fibroin heavy chain-like [Vespula vulgaris]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_050857650"
+                      }
+                    ]
                   }
                 },
                 "Vespula pensylvanica": {
@@ -1883,34 +1874,29 @@
               }
             },
             "Polistinae": {
-              "__rank__": "subfamily",
               "Polistini": {
-                "__rank__": "tribe",
                 "Polistes": {
                   "__rank__": "genus",
                   "Polistes fuscatus": {
                     "__rank__": "species",
-                    "Polistes fuscatus": {
-                      "__rank__": "species",
-                      "full": {
-                        "heavy chain": [
-                          {
-                            "accession": "XP_043502303",
-                            "title": "LOW QUALITY PROTEIN: fibroin heavy chain-like [Polistes fuscatus]",
-                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043502303"
-                          },
-                          {
-                            "accession": "XP_043491512",
-                            "title": "fibroin heavy chain-like [Polistes fuscatus]",
-                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043491512"
-                          },
-                          {
-                            "accession": "XP_043488750",
-                            "title": "fibroin heavy chain-like isoform X2 [Polistes fuscatus]",
-                            "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043488750"
-                          }
-                        ]
-                      }
+                    "full": {
+                      "heavy chain": [
+                        {
+                          "accession": "XP_043502303",
+                          "title": "LOW QUALITY PROTEIN: fibroin heavy chain-like [Polistes fuscatus]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043502303"
+                        },
+                        {
+                          "accession": "XP_043491512",
+                          "title": "fibroin heavy chain-like [Polistes fuscatus]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043491512"
+                        },
+                        {
+                          "accession": "XP_043488750",
+                          "title": "fibroin heavy chain-like isoform X2 [Polistes fuscatus]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_043488750"
+                        }
+                      ]
                     }
                   },
                   "Polistes canadensis": {
@@ -1928,32 +1914,28 @@
                       }
                     }
                   }
-                }
-              }
+                },
+                "__rank__": "tribe"
+              },
+              "__rank__": "subfamily"
             }
           }
         },
         "Chrysidoidea": {
-          "__rank__": "superfamily",
           "Bethylidae": {
-            "__rank__": "family",
             "Scleroderminae": {
-              "__rank__": "subfamily",
               "Prorops": {
                 "__rank__": "genus",
                 "Prorops nasuta": {
                   "__rank__": "species",
-                  "Prorops nasuta": {
-                    "__rank__": "species",
-                    "full": {
-                      "heavy chain": [
-                        {
-                          "accession": "XP_066592650",
-                          "title": "fibroin heavy chain-like [Prorops nasuta]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_066592650"
-                        }
-                      ]
-                    }
+                  "full": {
+                    "heavy chain": [
+                      {
+                        "accession": "XP_066592650",
+                        "title": "fibroin heavy chain-like [Prorops nasuta]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_066592650"
+                      }
+                    ]
                   }
                 }
               }
@@ -1962,145 +1944,144 @@
         }
       },
       "Ichneumonoidea": {
-        "__rank__": "superfamily",
         "Braconidae": {
-          "__rank__": "family",
           "Opiinae": {
-            "__rank__": "subfamily",
             "Fopius": {
               "__rank__": "genus",
               "Fopius arisanus": {
                 "__rank__": "species",
-                "Fopius arisanus": {
+                "full": {
+                  "heavy chain": [
+                    {
+                      "accession": "XP_011314333",
+                      "title": "fibroin heavy chain-like [Fopius arisanus]",
+                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_011314333"
+                    }
+                  ]
+                }
+              }
+            },
+            "__rank__": "subfamily",
+            "Diachasmimorpha": {
+              "__rank__": "genus",
+              "Diachasmimorpha longicaudata": {
+                "__rank__": "species",
+                "Diachasmimorpha longicaudata": {
                   "__rank__": "species",
                   "full": {
                     "heavy chain": [
                       {
-                        "accession": "XP_011314333",
-                        "title": "fibroin heavy chain-like [Fopius arisanus]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_011314333"
+                        "accession": "XP_063984043",
+                        "title": "fibroin heavy chain-like isoform X12 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984043"
+                      },
+                      {
+                        "accession": "XP_063984042",
+                        "title": "fibroin heavy chain-like isoform X11 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984042"
+                      },
+                      {
+                        "accession": "XP_063984041",
+                        "title": "fibroin heavy chain-like isoform X10 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984041"
+                      },
+                      {
+                        "accession": "XP_063984040",
+                        "title": "fibroin heavy chain-like isoform X9 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984040"
+                      },
+                      {
+                        "accession": "XP_063984039",
+                        "title": "fibroin heavy chain-like isoform X8 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984039"
+                      },
+                      {
+                        "accession": "XP_063984038",
+                        "title": "fibroin heavy chain-like isoform X7 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984038"
+                      },
+                      {
+                        "accession": "XP_063984037",
+                        "title": "fibroin heavy chain-like isoform X6 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984037"
+                      },
+                      {
+                        "accession": "XP_063984036",
+                        "title": "fibroin heavy chain-like isoform X5 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984036"
+                      },
+                      {
+                        "accession": "XP_063984035",
+                        "title": "fibroin heavy chain-like isoform X4 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984035"
+                      },
+                      {
+                        "accession": "XP_063984034",
+                        "title": "fibroin heavy chain-like isoform X3 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984034"
+                      },
+                      {
+                        "accession": "XP_063984033",
+                        "title": "fibroin heavy chain-like isoform X2 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984033"
+                      },
+                      {
+                        "accession": "XP_063984031",
+                        "title": "fibroin heavy chain-like isoform X1 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984031"
+                      },
+                      {
+                        "accession": "XP_063978249",
+                        "title": "fibroin heavy chain-like [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063978249"
+                      },
+                      {
+                        "accession": "XP_063992321",
+                        "title": "fibroin heavy chain-like isoform X2 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063992321"
+                      },
+                      {
+                        "accession": "XP_063992320",
+                        "title": "fibroin heavy chain-like isoform X1 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063992320"
+                      },
+                      {
+                        "accession": "XP_063986602",
+                        "title": "fibroin heavy chain-like isoform X5 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063986602"
+                      },
+                      {
+                        "accession": "XP_063986601",
+                        "title": "fibroin heavy chain-like isoform X4 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063986601"
+                      },
+                      {
+                        "accession": "XP_063986600",
+                        "title": "fibroin heavy chain-like isoform X3 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063986600"
+                      },
+                      {
+                        "accession": "XP_063986598",
+                        "title": "fibroin heavy chain-like isoform X2 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063986598"
+                      },
+                      {
+                        "accession": "XP_063986597",
+                        "title": "fibroin heavy chain-like isoform X1 [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063986597"
+                      },
+                      {
+                        "accession": "XP_063985402",
+                        "title": "fibroin heavy chain-like [Diachasmimorpha longicaudata]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063985402"
                       }
                     ]
                   }
                 }
               }
-            },
-            "Diachasmimorpha": {
-              "__rank__": "genus",
-              "Diachasmimorpha longicaudata": {
-                "__rank__": "species",
-                "full": {
-                  "heavy chain": [
-                    {
-                      "accession": "XP_063984043",
-                      "title": "fibroin heavy chain-like isoform X12 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984043"
-                    },
-                    {
-                      "accession": "XP_063984042",
-                      "title": "fibroin heavy chain-like isoform X11 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984042"
-                    },
-                    {
-                      "accession": "XP_063984041",
-                      "title": "fibroin heavy chain-like isoform X10 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984041"
-                    },
-                    {
-                      "accession": "XP_063984040",
-                      "title": "fibroin heavy chain-like isoform X9 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984040"
-                    },
-                    {
-                      "accession": "XP_063984039",
-                      "title": "fibroin heavy chain-like isoform X8 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984039"
-                    },
-                    {
-                      "accession": "XP_063984038",
-                      "title": "fibroin heavy chain-like isoform X7 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984038"
-                    },
-                    {
-                      "accession": "XP_063984037",
-                      "title": "fibroin heavy chain-like isoform X6 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984037"
-                    },
-                    {
-                      "accession": "XP_063984036",
-                      "title": "fibroin heavy chain-like isoform X5 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984036"
-                    },
-                    {
-                      "accession": "XP_063984035",
-                      "title": "fibroin heavy chain-like isoform X4 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984035"
-                    },
-                    {
-                      "accession": "XP_063984034",
-                      "title": "fibroin heavy chain-like isoform X3 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984034"
-                    },
-                    {
-                      "accession": "XP_063984033",
-                      "title": "fibroin heavy chain-like isoform X2 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984033"
-                    },
-                    {
-                      "accession": "XP_063984031",
-                      "title": "fibroin heavy chain-like isoform X1 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063984031"
-                    },
-                    {
-                      "accession": "XP_063978249",
-                      "title": "fibroin heavy chain-like [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063978249"
-                    },
-                    {
-                      "accession": "XP_063992321",
-                      "title": "fibroin heavy chain-like isoform X2 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063992321"
-                    },
-                    {
-                      "accession": "XP_063992320",
-                      "title": "fibroin heavy chain-like isoform X1 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063992320"
-                    },
-                    {
-                      "accession": "XP_063986602",
-                      "title": "fibroin heavy chain-like isoform X5 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063986602"
-                    },
-                    {
-                      "accession": "XP_063986601",
-                      "title": "fibroin heavy chain-like isoform X4 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063986601"
-                    },
-                    {
-                      "accession": "XP_063986600",
-                      "title": "fibroin heavy chain-like isoform X3 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063986600"
-                    },
-                    {
-                      "accession": "XP_063986598",
-                      "title": "fibroin heavy chain-like isoform X2 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063986598"
-                    },
-                    {
-                      "accession": "XP_063986597",
-                      "title": "fibroin heavy chain-like isoform X1 [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063986597"
-                    },
-                    {
-                      "accession": "XP_063985402",
-                      "title": "fibroin heavy chain-like [Diachasmimorpha longicaudata]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_063985402"
-                    }
-                  ]
-                }
-              }
             }
           },
+          "__rank__": "family",
           "Cheloninae": {
             "__rank__": "subfamily",
             "Chelonus": {
@@ -2181,42 +2162,39 @@
               "__rank__": "genus",
               "Cotesia glomerata": {
                 "__rank__": "species",
-                "Cotesia glomerata": {
-                  "__rank__": "species",
-                  "full": {
-                    "heavy chain": [
-                      {
-                        "accession": "XP_044580938",
-                        "title": "fibroin heavy chain-like isoform X3 [Cotesia glomerata]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044580938"
-                      },
-                      {
-                        "accession": "XP_044580936",
-                        "title": "fibroin heavy chain-like isoform X4 [Cotesia glomerata]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044580936"
-                      },
-                      {
-                        "accession": "XP_044580935",
-                        "title": "fibroin heavy chain-like isoform X3 [Cotesia glomerata]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044580935"
-                      },
-                      {
-                        "accession": "XP_044580934",
-                        "title": "fibroin heavy chain-like isoform X2 [Cotesia glomerata]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044580934"
-                      },
-                      {
-                        "accession": "XP_044580933",
-                        "title": "fibroin heavy chain-like isoform X1 [Cotesia glomerata]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044580933"
-                      },
-                      {
-                        "accession": "XP_044597749",
-                        "title": "fibroin heavy chain-like [Cotesia glomerata]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044597749"
-                      }
-                    ]
-                  }
+                "full": {
+                  "heavy chain": [
+                    {
+                      "accession": "XP_044580938",
+                      "title": "fibroin heavy chain-like isoform X3 [Cotesia glomerata]",
+                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044580938"
+                    },
+                    {
+                      "accession": "XP_044580936",
+                      "title": "fibroin heavy chain-like isoform X4 [Cotesia glomerata]",
+                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044580936"
+                    },
+                    {
+                      "accession": "XP_044580935",
+                      "title": "fibroin heavy chain-like isoform X3 [Cotesia glomerata]",
+                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044580935"
+                    },
+                    {
+                      "accession": "XP_044580934",
+                      "title": "fibroin heavy chain-like isoform X2 [Cotesia glomerata]",
+                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044580934"
+                    },
+                    {
+                      "accession": "XP_044580933",
+                      "title": "fibroin heavy chain-like isoform X1 [Cotesia glomerata]",
+                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044580933"
+                    },
+                    {
+                      "accession": "XP_044597749",
+                      "title": "fibroin heavy chain-like [Cotesia glomerata]",
+                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_044597749"
+                    }
+                  ]
                 }
               }
             }
@@ -2262,67 +2240,67 @@
               }
             }
           }
-        }
+        },
+        "__rank__": "superfamily"
       },
       "Proctotrupomorpha": {
-        "__rank__": "infraorder",
         "Chalcidoidea": {
-          "__rank__": "superfamily",
           "Eulophidae": {
-            "__rank__": "family",
             "Tetrastichinae": {
-              "__rank__": "subfamily",
               "Phymastichus": {
                 "__rank__": "genus",
                 "Phymastichus coffea": {
                   "__rank__": "species",
-                  "Phymastichus coffea": {
-                    "__rank__": "species",
-                    "full": {
-                      "heavy chain": [
-                        {
-                          "accession": "XP_058798431",
-                          "title": "fibroin heavy chain-like isoform X3 [Phymastichus coffea]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_058798431"
-                        }
-                      ],
-                      "Unknown_type": [
-                        {
-                          "accession": "XP_058798430",
-                          "title": "spidroin-2-like isoform X2 [Phymastichus coffea]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_058798430"
-                        },
-                        {
-                          "accession": "XP_058798429",
-                          "title": "spidroin-2-like isoform X1 [Phymastichus coffea]",
-                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_058798429"
-                        }
-                      ]
-                    }
+                  "full": {
+                    "heavy chain": [
+                      {
+                        "accession": "XP_058798431",
+                        "title": "fibroin heavy chain-like isoform X3 [Phymastichus coffea]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_058798431"
+                      }
+                    ],
+                    "Unknown_type": [
+                      {
+                        "accession": "XP_058798430",
+                        "title": "spidroin-2-like isoform X2 [Phymastichus coffea]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_058798430"
+                      },
+                      {
+                        "accession": "XP_058798429",
+                        "title": "spidroin-2-like isoform X1 [Phymastichus coffea]",
+                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_058798429"
+                      }
+                    ]
                   }
                 }
               }
             }
           },
+          "__rank__": "superfamily",
           "Pteromalidae": {
+            "__rank__": "family",
             "Pteromalinae": {
+              "__rank__": "subfamily",
               "Nasonia": {
                 "__rank__": "genus",
                 "Nasonia vitripennis": {
                   "__rank__": "species",
-                  "full": {
-                    "heavy chain": [
-                      {
-                        "accession": "XP_031789431",
-                        "title": "fibroin heavy chain isoform X2 [Nasonia vitripennis]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_031789431"
-                      },
-                      {
-                        "accession": "XP_008215104",
-                        "title": "fibroin heavy chain isoform X1 [Nasonia vitripennis]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_008215104"
-                      }
-                    ]
+                  "Nasonia vitripennis": {
+                    "__rank__": "species",
+                    "full": {
+                      "heavy chain": [
+                        {
+                          "accession": "XP_031789431",
+                          "title": "fibroin heavy chain isoform X2 [Nasonia vitripennis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_031789431"
+                        },
+                        {
+                          "accession": "XP_008215104",
+                          "title": "fibroin heavy chain isoform X1 [Nasonia vitripennis]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_008215104"
+                        }
+                      ]
+                    }
                   }
                 }
               }
@@ -2350,19 +2328,24 @@
             }
           },
           "Encyrtidae": {
+            "__rank__": "family",
             "Encyrtinae": {
+              "__rank__": "subfamily",
               "Copidosoma": {
                 "__rank__": "genus",
                 "Copidosoma floridanum": {
                   "__rank__": "species",
-                  "partial": {
-                    "heavy chain": [
-                      {
-                        "accession": "XP_023247831",
-                        "title": "fibroin heavy chain-like, partial [Copidosoma floridanum]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_023247831"
-                      }
-                    ]
+                  "Copidosoma floridanum": {
+                    "__rank__": "species",
+                    "partial": {
+                      "heavy chain": [
+                        {
+                          "accession": "XP_023247831",
+                          "title": "fibroin heavy chain-like, partial [Copidosoma floridanum]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_023247831"
+                        }
+                      ]
+                    }
                   }
                 }
               }
@@ -2401,67 +2384,73 @@
             }
           }
         },
+        "__rank__": "infraorder",
         "Cynipoidea": {
+          "__rank__": "superfamily",
           "Figitidae": {
+            "__rank__": "family",
             "Eucoilinae": {
+              "__rank__": "subfamily",
               "Leptopilina": {
                 "__rank__": "genus",
                 "Leptopilina boulardi": {
                   "__rank__": "species",
-                  "full": {
-                    "heavy chain": [
-                      {
-                        "accession": "XP_051157035",
-                        "title": "fibroin heavy chain-like isoform X9 [Leptopilina boulardi]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157035"
-                      },
-                      {
-                        "accession": "XP_051157034",
-                        "title": "fibroin heavy chain-like isoform X8 [Leptopilina boulardi]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157034"
-                      },
-                      {
-                        "accession": "XP_051157033",
-                        "title": "fibroin heavy chain-like isoform X7 [Leptopilina boulardi]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157033"
-                      },
-                      {
-                        "accession": "XP_051157032",
-                        "title": "fibroin heavy chain-like isoform X6 [Leptopilina boulardi]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157032"
-                      },
-                      {
-                        "accession": "XP_051157031",
-                        "title": "fibroin heavy chain-like isoform X5 [Leptopilina boulardi]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157031"
-                      },
-                      {
-                        "accession": "XP_051157030",
-                        "title": "fibroin heavy chain-like isoform X4 [Leptopilina boulardi]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157030"
-                      },
-                      {
-                        "accession": "XP_051157028",
-                        "title": "fibroin heavy chain-like isoform X3 [Leptopilina boulardi]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157028"
-                      },
-                      {
-                        "accession": "XP_051157027",
-                        "title": "fibroin heavy chain-like isoform X2 [Leptopilina boulardi]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157027"
-                      },
-                      {
-                        "accession": "XP_051157026",
-                        "title": "fibroin heavy chain-like isoform X1 [Leptopilina boulardi]",
-                        "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157026"
-                      }
-                    ]
+                  "Leptopilina boulardi": {
+                    "__rank__": "species",
+                    "full": {
+                      "heavy chain": [
+                        {
+                          "accession": "XP_051157035",
+                          "title": "fibroin heavy chain-like isoform X9 [Leptopilina boulardi]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157035"
+                        },
+                        {
+                          "accession": "XP_051157034",
+                          "title": "fibroin heavy chain-like isoform X8 [Leptopilina boulardi]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157034"
+                        },
+                        {
+                          "accession": "XP_051157033",
+                          "title": "fibroin heavy chain-like isoform X7 [Leptopilina boulardi]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157033"
+                        },
+                        {
+                          "accession": "XP_051157032",
+                          "title": "fibroin heavy chain-like isoform X6 [Leptopilina boulardi]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157032"
+                        },
+                        {
+                          "accession": "XP_051157031",
+                          "title": "fibroin heavy chain-like isoform X5 [Leptopilina boulardi]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157031"
+                        },
+                        {
+                          "accession": "XP_051157030",
+                          "title": "fibroin heavy chain-like isoform X4 [Leptopilina boulardi]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157030"
+                        },
+                        {
+                          "accession": "XP_051157028",
+                          "title": "fibroin heavy chain-like isoform X3 [Leptopilina boulardi]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157028"
+                        },
+                        {
+                          "accession": "XP_051157027",
+                          "title": "fibroin heavy chain-like isoform X2 [Leptopilina boulardi]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157027"
+                        },
+                        {
+                          "accession": "XP_051157026",
+                          "title": "fibroin heavy chain-like isoform X1 [Leptopilina boulardi]",
+                          "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_051157026"
+                        }
+                      ]
+                    }
                   }
                 }
               }
             }
           },
-          "__rank__": "superfamily",
           "Cynipidae": {
             "__rank__": "family",
             "Cynipinae": {
@@ -2498,45 +2487,48 @@
       }
     },
     "Tenthredinoidea": {
+      "__rank__": "superfamily",
       "Diprionidae": {
+        "__rank__": "family",
         "Diprioninae": {
+          "__rank__": "subfamily",
           "Neodiprion": {
             "__rank__": "genus",
             "Neodiprion pinetum": {
               "__rank__": "species",
-              "full": {
-                "heavy chain": [
-                  {
-                    "accession": "XP_046477796",
-                    "title": "fibroin heavy chain-like [Neodiprion pinetum]",
-                    "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_046477796"
-                  }
-                ]
-              }
-            },
-            "Neodiprion virginianus": {
-              "__rank__": "species",
-              "Neodiprion virginianus": {
+              "Neodiprion pinetum": {
                 "__rank__": "species",
                 "full": {
                   "heavy chain": [
                     {
-                      "accession": "XP_046627654",
-                      "title": "fibroin heavy chain-like isoform X1 [Neodiprion virginianus]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_046627654"
-                    },
-                    {
-                      "accession": "XP_046606463",
-                      "title": "fibroin heavy chain-like [Neodiprion virginianus]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_046606463"
-                    },
-                    {
-                      "accession": "XP_046629941",
-                      "title": "fibroin heavy chain-like [Neodiprion virginianus]",
-                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_046629941"
+                      "accession": "XP_046477796",
+                      "title": "fibroin heavy chain-like [Neodiprion pinetum]",
+                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_046477796"
                     }
                   ]
                 }
+              }
+            },
+            "Neodiprion virginianus": {
+              "__rank__": "species",
+              "full": {
+                "heavy chain": [
+                  {
+                    "accession": "XP_046627654",
+                    "title": "fibroin heavy chain-like isoform X1 [Neodiprion virginianus]",
+                    "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_046627654"
+                  },
+                  {
+                    "accession": "XP_046606463",
+                    "title": "fibroin heavy chain-like [Neodiprion virginianus]",
+                    "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_046606463"
+                  },
+                  {
+                    "accession": "XP_046629941",
+                    "title": "fibroin heavy chain-like [Neodiprion virginianus]",
+                    "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_046629941"
+                  }
+                ]
               }
             },
             "Neodiprion lecontei": {
@@ -2567,26 +2559,26 @@
               }
             }
           },
-          "__rank__": "subfamily",
           "Diprion": {
             "__rank__": "genus",
             "Diprion similis": {
               "__rank__": "species",
-              "full": {
-                "heavy chain": [
-                  {
-                    "accession": "XP_046738129",
-                    "title": "fibroin heavy chain-like [Diprion similis]",
-                    "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_046738129"
-                  }
-                ]
+              "Diprion similis": {
+                "__rank__": "species",
+                "full": {
+                  "heavy chain": [
+                    {
+                      "accession": "XP_046738129",
+                      "title": "fibroin heavy chain-like [Diprion similis]",
+                      "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_046738129"
+                    }
+                  ]
+                }
               }
             }
           }
-        },
-        "__rank__": "family"
+        }
       },
-      "__rank__": "superfamily",
       "Athaliidae": {
         "__rank__": "family",
         "Athalia": {
@@ -2610,29 +2602,24 @@
       }
     },
     "Cephoidea": {
-      "__rank__": "superfamily",
       "Cephidae": {
-        "__rank__": "family",
         "Cephus": {
           "__rank__": "genus",
           "Cephus cinctus": {
             "__rank__": "species",
-            "Cephus cinctus": {
-              "__rank__": "species",
-              "full": {
-                "heavy chain": [
-                  {
-                    "accession": "XP_015601009",
-                    "title": "fibroin heavy chain isoform X2 [Cephus cinctus]",
-                    "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_015601009"
-                  },
-                  {
-                    "accession": "XP_015601008",
-                    "title": "fibroin heavy chain isoform X1 [Cephus cinctus]",
-                    "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_015601008"
-                  }
-                ]
-              }
+            "full": {
+              "heavy chain": [
+                {
+                  "accession": "XP_015601009",
+                  "title": "fibroin heavy chain isoform X2 [Cephus cinctus]",
+                  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_015601009"
+                },
+                {
+                  "accession": "XP_015601008",
+                  "title": "fibroin heavy chain isoform X1 [Cephus cinctus]",
+                  "ncbi_url": "https://www.ncbi.nlm.nih.gov/protein/XP_015601008"
+                }
+              ]
             }
           }
         }

@@ -27,25 +27,25 @@ from libraries.compare_aa_group_motifs_lib import run_compare
 COMPARISONS = [
   {
         "label": "trichoptera",
-        "outputs_root": Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences"),
+        "outputs_root": Path(r"bioinformatic_silk\caddisfly\ncbi_fibroin_sequences"),
         "taxonomy_terms": ["Trichoptera"],
     },
    {
         "label": "Integripalpia",
-        "outputs_root": Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences"),
+        "outputs_root": Path(r"bioinformatic_silk\caddisfly\ncbi_fibroin_sequences"),
         "taxonomy_terms": ["Integripalpia"],
     },
     {
         "label": "Annulipalpia",
-        "outputs_root": Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences"),
+        "outputs_root": Path(r"bioinformatic_silk\caddisfly\ncbi_fibroin_sequences"),
         "taxonomy_terms": ["Annulipalpia"],
     },
 ]
 
 
 
-DEFAULT_OUT_DIR = Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\data_analysis\aa_motifs_comparison")
-PLOTS_OUT_DIR = Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\plots\aa_motifs_comparison")
+DEFAULT_OUT_DIR = Path(r"bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\data_analysis\aa_motifs_comparison")
+PLOTS_OUT_DIR = Path(r"bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\plots\aa_motifs_comparison")
 # ---- End paths ----
 
 # ---- Filters (edit after paths) ----

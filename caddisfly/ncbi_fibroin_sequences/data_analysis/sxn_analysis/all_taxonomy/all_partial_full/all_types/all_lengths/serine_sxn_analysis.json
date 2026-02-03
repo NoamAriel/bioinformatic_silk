@@ -1,112 +1,6 @@
 {
   "analyzed_records": [
     {
-      "accession": "BAH80180",
-      "title": "fibroin light chain [Rhyacophila obliterata]",
-      "organism": "Rhyacophila obliterata",
-      "taxonomy_from_order": [
-        "Trichoptera",
-        "Integripalpia",
-        "Rhyacophiloidea",
-        "Rhyacophilidae",
-        "Rhyacophila"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Trichoptera",
-        "Integripalpia",
-        "Rhyacophiloidea",
-        "Rhyacophilidae",
-        "Rhyacophila"
-      ],
-      "suborder": "Integripalpia",
-      "superfamily": "Rhyacophiloidea",
-      "family": "Rhyacophilidae",
-      "partial_full": "full",
-      "type": "light chain",
-      "length": 253,
-      "serine_count": 22,
-      "serine_fraction": 8.695652173913043,
-      "motif_runs": {
-        "3": 2
-      },
-      "x_residue_counts": {
-        "3": {
-          "T": 1,
-          "Y": 1,
-          "E": 1,
-          "A": 1,
-          "G": 1,
-          "W": 1
-        }
-      },
-      "total_runs": 2,
-      "total_motif_residues": 12,
-      "fraction_motif_residues": 4.743083003952568
-    },
-    {
-      "accession": "BAH80185",
-      "title": "fibroin light chain [Rhyacophila obliterata]",
-      "organism": "Rhyacophila obliterata",
-      "taxonomy_from_order": [
-        "Trichoptera",
-        "Integripalpia",
-        "Rhyacophiloidea",
-        "Rhyacophilidae",
-        "Rhyacophila"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Trichoptera",
-        "Integripalpia",
-        "Rhyacophiloidea",
-        "Rhyacophilidae",
-        "Rhyacophila"
-      ],
-      "suborder": "Integripalpia",
-      "superfamily": "Rhyacophiloidea",
-      "family": "Rhyacophilidae",
-      "partial_full": "full",
-      "type": "light chain",
-      "length": 253,
-      "serine_count": 23,
-      "serine_fraction": 9.090909090909092,
-      "motif_runs": {
-        "3": 2
-      },
-      "x_residue_counts": {
-        "3": {
-          "T": 1,
-          "Y": 1,
-          "E": 1,
-          "A": 1,
-          "G": 1,
-          "W": 1
-        }
-      },
-      "total_runs": 2,
-      "total_motif_residues": 12,
-      "fraction_motif_residues": 4.743083003952568
-    },
-    {
       "accession": "BAH80177",
       "title": "fibroin heavy chain, partial [Rhyacophila obliterata]",
       "organism": "Rhyacophila obliterata",
@@ -115,7 +9,8 @@
         "Integripalpia",
         "Rhyacophiloidea",
         "Rhyacophilidae",
-        "Rhyacophila"
+        "Rhyacophila",
+        "Rhyacophila obliterata"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -186,7 +81,8 @@
         "Integripalpia",
         "Rhyacophiloidea",
         "Rhyacophilidae",
-        "Rhyacophila"
+        "Rhyacophila",
+        "Rhyacophila obliterata"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -259,7 +155,8 @@
         "Integripalpia",
         "Rhyacophiloidea",
         "Rhyacophilidae",
-        "Rhyacophila"
+        "Rhyacophila",
+        "Rhyacophila obliterata"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -332,7 +229,8 @@
         "Integripalpia",
         "Rhyacophiloidea",
         "Rhyacophilidae",
-        "Rhyacophila"
+        "Rhyacophila",
+        "Rhyacophila obliterata"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -395,6 +293,114 @@
       "fraction_motif_residues": 22.5609756097561
     },
     {
+      "accession": "BAH80180",
+      "title": "fibroin light chain [Rhyacophila obliterata]",
+      "organism": "Rhyacophila obliterata",
+      "taxonomy_from_order": [
+        "Trichoptera",
+        "Integripalpia",
+        "Rhyacophiloidea",
+        "Rhyacophilidae",
+        "Rhyacophila",
+        "Rhyacophila obliterata"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Trichoptera",
+        "Integripalpia",
+        "Rhyacophiloidea",
+        "Rhyacophilidae",
+        "Rhyacophila"
+      ],
+      "suborder": "Integripalpia",
+      "superfamily": "Rhyacophiloidea",
+      "family": "Rhyacophilidae",
+      "partial_full": "full",
+      "type": "light chain",
+      "length": 253,
+      "serine_count": 22,
+      "serine_fraction": 8.695652173913043,
+      "motif_runs": {
+        "3": 2
+      },
+      "x_residue_counts": {
+        "3": {
+          "T": 1,
+          "Y": 1,
+          "E": 1,
+          "A": 1,
+          "G": 1,
+          "W": 1
+        }
+      },
+      "total_runs": 2,
+      "total_motif_residues": 12,
+      "fraction_motif_residues": 4.743083003952568
+    },
+    {
+      "accession": "BAH80185",
+      "title": "fibroin light chain [Rhyacophila obliterata]",
+      "organism": "Rhyacophila obliterata",
+      "taxonomy_from_order": [
+        "Trichoptera",
+        "Integripalpia",
+        "Rhyacophiloidea",
+        "Rhyacophilidae",
+        "Rhyacophila",
+        "Rhyacophila obliterata"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Trichoptera",
+        "Integripalpia",
+        "Rhyacophiloidea",
+        "Rhyacophilidae",
+        "Rhyacophila"
+      ],
+      "suborder": "Integripalpia",
+      "superfamily": "Rhyacophiloidea",
+      "family": "Rhyacophilidae",
+      "partial_full": "full",
+      "type": "light chain",
+      "length": 253,
+      "serine_count": 23,
+      "serine_fraction": 9.090909090909092,
+      "motif_runs": {
+        "3": 2
+      },
+      "x_residue_counts": {
+        "3": {
+          "T": 1,
+          "Y": 1,
+          "E": 1,
+          "A": 1,
+          "G": 1,
+          "W": 1
+        }
+      },
+      "total_runs": 2,
+      "total_motif_residues": 12,
+      "fraction_motif_residues": 4.743083003952568
+    },
+    {
       "accession": "WKK20814",
       "title": "heavy chain fibroin [Himalopsyche tibetana]",
       "organism": "Himalopsyche tibetana",
@@ -403,7 +409,8 @@
         "Integripalpia",
         "Rhyacophiloidea",
         "Rhyacophilidae",
-        "Himalopsyche"
+        "Himalopsyche",
+        "Himalopsyche tibetana"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -614,9 +621,9 @@
       "fraction_motif_residues": 14.473684210526317
     },
     {
-      "accession": "BAF62095",
-      "title": "fibroin heavy chain, partial [Limnephilus decipiens]",
-      "organism": "Limnephilus decipiens",
+      "accession": "DBA09036",
+      "title": "TPA_inf: heavy chain fibroin [Limnephilus rhombicus]",
+      "organism": "Limnephilus rhombicus",
       "taxonomy_from_order": [
         "Trichoptera",
         "Integripalpia",
@@ -625,7 +632,8 @@
         "Limnephilidae",
         "Limnephilinae",
         "Limnephilini",
-        "Limnephilus"
+        "Limnephilus",
+        "Limnephilus rhombicus"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -650,44 +658,53 @@
       "suborder": "Integripalpia",
       "superfamily": "Plenitentoria",
       "family": "Limnephiloidea",
-      "partial_full": "partial",
+      "partial_full": "full",
       "type": "heavy chain",
-      "length": 516,
-      "serine_count": 89,
-      "serine_fraction": 17.248062015503876,
+      "length": 9027,
+      "serine_count": 1342,
+      "serine_fraction": 14.866511576381965,
       "motif_runs": {
-        "5": 1,
-        "4": 13,
-        "3": 2,
-        "2": 4
+        "5": 109,
+        "4": 128,
+        "3": 1,
+        "2": 99
       },
       "x_residue_counts": {
         "5": {
-          "G": 1,
-          "V": 3,
-          "L": 1
+          "D": 4,
+          "W": 1,
+          "S": 1,
+          "G": 104,
+          "V": 430,
+          "A": 2,
+          "I": 1,
+          "L": 2
         },
         "4": {
-          "I": 10,
-          "R": 10,
-          "V": 25,
-          "S": 5,
-          "G": 2
+          "I": 137,
+          "Q": 2,
+          "R": 122,
+          "S": 43,
+          "A": 3,
+          "V": 204,
+          "G": 1
         },
         "3": {
-          "V": 4,
-          "G": 1,
-          "S": 1
+          "S": 3
         },
         "2": {
-          "G": 6,
+          "G": 185,
+          "T": 1,
+          "E": 1,
+          "S": 3,
+          "D": 6,
           "Y": 1,
           "K": 1
         }
       },
-      "total_runs": 20,
-      "total_motif_residues": 142,
-      "fraction_motif_residues": 27.51937984496124
+      "total_runs": 337,
+      "total_motif_residues": 2516,
+      "fraction_motif_residues": 27.87193973634652
     },
     {
       "accession": "DBA09035",
@@ -770,208 +787,6 @@
       "total_runs": 336,
       "total_motif_residues": 2552,
       "fraction_motif_residues": 29.085935719170276
-    },
-    {
-      "accession": "WIM01327",
-      "title": "fibroin light chain [Limnephilus flavicornis]",
-      "organism": "Limnephilus flavicornis",
-      "taxonomy_from_order": [
-        "Trichoptera",
-        "Integripalpia",
-        "Plenitentoria",
-        "Limnephiloidea",
-        "Limnephilidae",
-        "Limnephilinae",
-        "Limnephilini",
-        "Limnephilus",
-        "Limnephilus flavicornis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Trichoptera",
-        "Integripalpia",
-        "Plenitentoria",
-        "Limnephiloidea",
-        "Limnephilidae",
-        "Limnephilinae",
-        "Limnephilini",
-        "Limnephilus"
-      ],
-      "suborder": "Integripalpia",
-      "superfamily": "Plenitentoria",
-      "family": "Limnephiloidea",
-      "partial_full": "full",
-      "type": "light chain",
-      "length": 249,
-      "serine_count": 26,
-      "serine_fraction": 10.441767068273093,
-      "motif_runs": {
-        "2": 2
-      },
-      "x_residue_counts": {
-        "2": {
-          "S": 1,
-          "L": 1,
-          "K": 1,
-          "A": 1
-        }
-      },
-      "total_runs": 2,
-      "total_motif_residues": 8,
-      "fraction_motif_residues": 3.2128514056224895
-    },
-    {
-      "accession": "BAF62096",
-      "title": "fibroin light chain [Limnephilus decipiens]",
-      "organism": "Limnephilus decipiens",
-      "taxonomy_from_order": [
-        "Trichoptera",
-        "Integripalpia",
-        "Plenitentoria",
-        "Limnephiloidea",
-        "Limnephilidae",
-        "Limnephilinae",
-        "Limnephilini",
-        "Limnephilus"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Trichoptera",
-        "Integripalpia",
-        "Plenitentoria",
-        "Limnephiloidea",
-        "Limnephilidae",
-        "Limnephilinae",
-        "Limnephilini",
-        "Limnephilus"
-      ],
-      "suborder": "Integripalpia",
-      "superfamily": "Plenitentoria",
-      "family": "Limnephiloidea",
-      "partial_full": "full",
-      "type": "light chain",
-      "length": 249,
-      "serine_count": 27,
-      "serine_fraction": 10.843373493975903,
-      "motif_runs": {
-        "3": 1,
-        "2": 2
-      },
-      "x_residue_counts": {
-        "3": {
-          "W": 1,
-          "L": 1,
-          "K": 1
-        },
-        "2": {
-          "A": 2,
-          "L": 1,
-          "K": 1
-        }
-      },
-      "total_runs": 3,
-      "total_motif_residues": 14,
-      "fraction_motif_residues": 5.622489959839357
-    },
-    {
-      "accession": "WIM01323",
-      "title": "fibroin heavy chain [Limnephilus flavicornis]",
-      "organism": "Limnephilus flavicornis",
-      "taxonomy_from_order": [
-        "Trichoptera",
-        "Integripalpia",
-        "Plenitentoria",
-        "Limnephiloidea",
-        "Limnephilidae",
-        "Limnephilinae",
-        "Limnephilini",
-        "Limnephilus",
-        "Limnephilus flavicornis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Trichoptera",
-        "Integripalpia",
-        "Plenitentoria",
-        "Limnephiloidea",
-        "Limnephilidae",
-        "Limnephilinae",
-        "Limnephilini",
-        "Limnephilus"
-      ],
-      "suborder": "Integripalpia",
-      "superfamily": "Plenitentoria",
-      "family": "Limnephiloidea",
-      "partial_full": "full",
-      "type": "heavy chain",
-      "length": 1403,
-      "serine_count": 198,
-      "serine_fraction": 14.112615823235922,
-      "motif_runs": {
-        "5": 11,
-        "4": 21,
-        "3": 2,
-        "2": 11
-      },
-      "x_residue_counts": {
-        "5": {
-          "D": 4,
-          "W": 1,
-          "S": 1,
-          "G": 8,
-          "V": 39,
-          "X": 1,
-          "L": 1
-        },
-        "4": {
-          "I": 22,
-          "Q": 1,
-          "R": 20,
-          "S": 9,
-          "V": 32
-        },
-        "3": {
-          "S": 2,
-          "V": 3,
-          "G": 1
-        },
-        "2": {
-          "G": 19,
-          "T": 1,
-          "Y": 1,
-          "K": 1
-        }
-      },
-      "total_runs": 45,
-      "total_motif_residues": 334,
-      "fraction_motif_residues": 23.806129722024234
     },
     {
       "accession": "DBA09034",
@@ -1148,9 +963,9 @@
       "fraction_motif_residues": 29.772542648253452
     },
     {
-      "accession": "DBA09036",
-      "title": "TPA_inf: heavy chain fibroin [Limnephilus rhombicus]",
-      "organism": "Limnephilus rhombicus",
+      "accession": "DBA54471",
+      "title": "TPA_exp: fibroin light chain [Limnephilus lunatus]",
+      "organism": "Limnephilus lunatus",
       "taxonomy_from_order": [
         "Trichoptera",
         "Integripalpia",
@@ -1160,7 +975,70 @@
         "Limnephilinae",
         "Limnephilini",
         "Limnephilus",
-        "Limnephilus rhombicus"
+        "Limnephilus lunatus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Trichoptera",
+        "Integripalpia",
+        "Plenitentoria",
+        "Limnephiloidea",
+        "Limnephilidae",
+        "Limnephilinae",
+        "Limnephilini",
+        "Limnephilus"
+      ],
+      "suborder": "Integripalpia",
+      "superfamily": "Plenitentoria",
+      "family": "Limnephiloidea",
+      "partial_full": "full",
+      "type": "light chain",
+      "length": 249,
+      "serine_count": 27,
+      "serine_fraction": 10.843373493975903,
+      "motif_runs": {
+        "3": 1,
+        "2": 2
+      },
+      "x_residue_counts": {
+        "3": {
+          "W": 1,
+          "L": 1,
+          "N": 1
+        },
+        "2": {
+          "A": 2,
+          "L": 1,
+          "K": 1
+        }
+      },
+      "total_runs": 3,
+      "total_motif_residues": 14,
+      "fraction_motif_residues": 5.622489959839357
+    },
+    {
+      "accession": "WIM01323",
+      "title": "fibroin heavy chain [Limnephilus flavicornis]",
+      "organism": "Limnephilus flavicornis",
+      "taxonomy_from_order": [
+        "Trichoptera",
+        "Integripalpia",
+        "Plenitentoria",
+        "Limnephiloidea",
+        "Limnephilidae",
+        "Limnephilinae",
+        "Limnephilini",
+        "Limnephilus",
+        "Limnephilus flavicornis"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -1187,51 +1065,243 @@
       "family": "Limnephiloidea",
       "partial_full": "full",
       "type": "heavy chain",
-      "length": 9027,
-      "serine_count": 1342,
-      "serine_fraction": 14.866511576381965,
+      "length": 1403,
+      "serine_count": 198,
+      "serine_fraction": 14.112615823235922,
       "motif_runs": {
-        "5": 109,
-        "4": 128,
-        "3": 1,
-        "2": 99
+        "5": 11,
+        "4": 21,
+        "3": 2,
+        "2": 11
       },
       "x_residue_counts": {
         "5": {
           "D": 4,
           "W": 1,
           "S": 1,
-          "G": 104,
-          "V": 430,
-          "A": 2,
-          "I": 1,
-          "L": 2
+          "G": 8,
+          "V": 39,
+          "X": 1,
+          "L": 1
         },
         "4": {
-          "I": 137,
-          "Q": 2,
-          "R": 122,
-          "S": 43,
-          "A": 3,
-          "V": 204,
-          "G": 1
+          "I": 22,
+          "Q": 1,
+          "R": 20,
+          "S": 9,
+          "V": 32
         },
         "3": {
-          "S": 3
+          "S": 2,
+          "V": 3,
+          "G": 1
         },
         "2": {
-          "G": 185,
+          "G": 19,
           "T": 1,
-          "E": 1,
-          "S": 3,
-          "D": 6,
           "Y": 1,
           "K": 1
         }
       },
-      "total_runs": 337,
-      "total_motif_residues": 2516,
-      "fraction_motif_residues": 27.87193973634652
+      "total_runs": 45,
+      "total_motif_residues": 334,
+      "fraction_motif_residues": 23.806129722024234
+    },
+    {
+      "accession": "WIM01327",
+      "title": "fibroin light chain [Limnephilus flavicornis]",
+      "organism": "Limnephilus flavicornis",
+      "taxonomy_from_order": [
+        "Trichoptera",
+        "Integripalpia",
+        "Plenitentoria",
+        "Limnephiloidea",
+        "Limnephilidae",
+        "Limnephilinae",
+        "Limnephilini",
+        "Limnephilus",
+        "Limnephilus flavicornis"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Trichoptera",
+        "Integripalpia",
+        "Plenitentoria",
+        "Limnephiloidea",
+        "Limnephilidae",
+        "Limnephilinae",
+        "Limnephilini",
+        "Limnephilus"
+      ],
+      "suborder": "Integripalpia",
+      "superfamily": "Plenitentoria",
+      "family": "Limnephiloidea",
+      "partial_full": "full",
+      "type": "light chain",
+      "length": 249,
+      "serine_count": 26,
+      "serine_fraction": 10.441767068273093,
+      "motif_runs": {
+        "2": 2
+      },
+      "x_residue_counts": {
+        "2": {
+          "S": 1,
+          "L": 1,
+          "K": 1,
+          "A": 1
+        }
+      },
+      "total_runs": 2,
+      "total_motif_residues": 8,
+      "fraction_motif_residues": 3.2128514056224895
+    },
+    {
+      "accession": "BAF62095",
+      "title": "fibroin heavy chain, partial [Limnephilus decipiens]",
+      "organism": "Limnephilus decipiens",
+      "taxonomy_from_order": [
+        "Trichoptera",
+        "Integripalpia",
+        "Plenitentoria",
+        "Limnephiloidea",
+        "Limnephilidae",
+        "Limnephilinae",
+        "Limnephilini",
+        "Limnephilus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Trichoptera",
+        "Integripalpia",
+        "Plenitentoria",
+        "Limnephiloidea",
+        "Limnephilidae",
+        "Limnephilinae",
+        "Limnephilini",
+        "Limnephilus"
+      ],
+      "suborder": "Integripalpia",
+      "superfamily": "Plenitentoria",
+      "family": "Limnephiloidea",
+      "partial_full": "partial",
+      "type": "heavy chain",
+      "length": 516,
+      "serine_count": 89,
+      "serine_fraction": 17.248062015503876,
+      "motif_runs": {
+        "5": 1,
+        "4": 13,
+        "3": 2,
+        "2": 4
+      },
+      "x_residue_counts": {
+        "5": {
+          "G": 1,
+          "V": 3,
+          "L": 1
+        },
+        "4": {
+          "I": 10,
+          "R": 10,
+          "V": 25,
+          "S": 5,
+          "G": 2
+        },
+        "3": {
+          "V": 4,
+          "G": 1,
+          "S": 1
+        },
+        "2": {
+          "G": 6,
+          "Y": 1,
+          "K": 1
+        }
+      },
+      "total_runs": 20,
+      "total_motif_residues": 142,
+      "fraction_motif_residues": 27.51937984496124
+    },
+    {
+      "accession": "BAF62096",
+      "title": "fibroin light chain [Limnephilus decipiens]",
+      "organism": "Limnephilus decipiens",
+      "taxonomy_from_order": [
+        "Trichoptera",
+        "Integripalpia",
+        "Plenitentoria",
+        "Limnephiloidea",
+        "Limnephilidae",
+        "Limnephilinae",
+        "Limnephilini",
+        "Limnephilus"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Trichoptera",
+        "Integripalpia",
+        "Plenitentoria",
+        "Limnephiloidea",
+        "Limnephilidae",
+        "Limnephilinae",
+        "Limnephilini",
+        "Limnephilus"
+      ],
+      "suborder": "Integripalpia",
+      "superfamily": "Plenitentoria",
+      "family": "Limnephiloidea",
+      "partial_full": "full",
+      "type": "light chain",
+      "length": 249,
+      "serine_count": 27,
+      "serine_fraction": 10.843373493975903,
+      "motif_runs": {
+        "3": 1,
+        "2": 2
+      },
+      "x_residue_counts": {
+        "3": {
+          "W": 1,
+          "L": 1,
+          "K": 1
+        },
+        "2": {
+          "A": 2,
+          "L": 1,
+          "K": 1
+        }
+      },
+      "total_runs": 3,
+      "total_motif_residues": 14,
+      "fraction_motif_residues": 5.622489959839357
     },
     {
       "accession": "WGM83076",
@@ -1397,69 +1467,6 @@
       "fraction_motif_residues": 27.824019024970276
     },
     {
-      "accession": "DBA54471",
-      "title": "TPA_exp: fibroin light chain [Limnephilus lunatus]",
-      "organism": "Limnephilus lunatus",
-      "taxonomy_from_order": [
-        "Trichoptera",
-        "Integripalpia",
-        "Plenitentoria",
-        "Limnephiloidea",
-        "Limnephilidae",
-        "Limnephilinae",
-        "Limnephilini",
-        "Limnephilus",
-        "Limnephilus lunatus"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Trichoptera",
-        "Integripalpia",
-        "Plenitentoria",
-        "Limnephiloidea",
-        "Limnephilidae",
-        "Limnephilinae",
-        "Limnephilini",
-        "Limnephilus"
-      ],
-      "suborder": "Integripalpia",
-      "superfamily": "Plenitentoria",
-      "family": "Limnephiloidea",
-      "partial_full": "full",
-      "type": "light chain",
-      "length": 249,
-      "serine_count": 27,
-      "serine_fraction": 10.843373493975903,
-      "motif_runs": {
-        "3": 1,
-        "2": 2
-      },
-      "x_residue_counts": {
-        "3": {
-          "W": 1,
-          "L": 1,
-          "N": 1
-        },
-        "2": {
-          "A": 2,
-          "L": 1,
-          "K": 1
-        }
-      },
-      "total_runs": 3,
-      "total_motif_residues": 14,
-      "fraction_motif_residues": 5.622489959839357
-    },
-    {
       "accession": "DBA09033",
       "title": "TPA_inf: heavy chain fibroin [Glyphotaelius pellucidus]",
       "organism": "Glyphotaelius pellucidus",
@@ -1540,65 +1547,6 @@
       "fraction_motif_residues": 28.91658189216684
     },
     {
-      "accession": "UPQ64760",
-      "title": "fibroin light chain [Plectrocnemia conspersa]",
-      "organism": "Plectrocnemia conspersa",
-      "taxonomy_from_order": [
-        "Trichoptera",
-        "Annulipalpia",
-        "Psychomyioidea",
-        "Polycentropodidae",
-        "Polycentropodinae",
-        "Plectrocnemia",
-        "Plectrocnemia conspersa"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Trichoptera",
-        "Annulipalpia",
-        "Psychomyioidea",
-        "Polycentropodidae",
-        "Polycentropodinae",
-        "Plectrocnemia"
-      ],
-      "suborder": "Annulipalpia",
-      "superfamily": "Psychomyioidea",
-      "family": "Polycentropodidae",
-      "partial_full": "full",
-      "type": "light chain",
-      "length": 237,
-      "serine_count": 30,
-      "serine_fraction": 12.658227848101266,
-      "motif_runs": {
-        "3": 1,
-        "2": 2
-      },
-      "x_residue_counts": {
-        "3": {
-          "S": 1,
-          "N": 2
-        },
-        "2": {
-          "A": 1,
-          "V": 1,
-          "S": 1,
-          "P": 1
-        }
-      },
-      "total_runs": 3,
-      "total_motif_residues": 14,
-      "fraction_motif_residues": 5.9071729957805905
-    },
-    {
       "accession": "UPQ64768",
       "title": "fibroin heavy chain, partial [Plectrocnemia conspersa]",
       "organism": "Plectrocnemia conspersa",
@@ -1608,8 +1556,7 @@
         "Psychomyioidea",
         "Polycentropodidae",
         "Polycentropodinae",
-        "Plectrocnemia",
-        "Plectrocnemia conspersa"
+        "Plectrocnemia"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -1690,8 +1637,7 @@
         "Psychomyioidea",
         "Polycentropodidae",
         "Polycentropodinae",
-        "Plectrocnemia",
-        "Plectrocnemia conspersa"
+        "Plectrocnemia"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -1768,6 +1714,64 @@
       "total_runs": 46,
       "total_motif_residues": 330,
       "fraction_motif_residues": 43.59313077939234
+    },
+    {
+      "accession": "UPQ64760",
+      "title": "fibroin light chain [Plectrocnemia conspersa]",
+      "organism": "Plectrocnemia conspersa",
+      "taxonomy_from_order": [
+        "Trichoptera",
+        "Annulipalpia",
+        "Psychomyioidea",
+        "Polycentropodidae",
+        "Polycentropodinae",
+        "Plectrocnemia"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Trichoptera",
+        "Annulipalpia",
+        "Psychomyioidea",
+        "Polycentropodidae",
+        "Polycentropodinae",
+        "Plectrocnemia"
+      ],
+      "suborder": "Annulipalpia",
+      "superfamily": "Psychomyioidea",
+      "family": "Polycentropodidae",
+      "partial_full": "full",
+      "type": "light chain",
+      "length": 237,
+      "serine_count": 30,
+      "serine_fraction": 12.658227848101266,
+      "motif_runs": {
+        "3": 1,
+        "2": 2
+      },
+      "x_residue_counts": {
+        "3": {
+          "S": 1,
+          "N": 2
+        },
+        "2": {
+          "A": 1,
+          "V": 1,
+          "S": 1,
+          "P": 1
+        }
+      },
+      "total_runs": 3,
+      "total_motif_residues": 14,
+      "fraction_motif_residues": 5.9071729957805905
     },
     {
       "accession": "BAS02545",
@@ -2450,8 +2454,7 @@
         "Hydropsychoidea",
         "Hydropsychidae",
         "Hydropsychinae",
-        "Cheumatopsyche",
-        "Cheumatopsyche charites"
+        "Cheumatopsyche"
       ],
       "taxonomy_from_araneae": [],
       "taxonomy_full": [
@@ -2522,64 +2525,6 @@
       "total_runs": 146,
       "total_motif_residues": 1148,
       "fraction_motif_residues": 18.447694038245217
-    },
-    {
-      "accession": "XP_077296102",
-      "title": "fibroin light chain-like [Arctopsyche grandis]",
-      "organism": "Arctopsyche grandis",
-      "taxonomy_from_order": [
-        "Trichoptera",
-        "Annulipalpia",
-        "Hydropsychoidea",
-        "Hydropsychidae",
-        "Arctopsychinae",
-        "Arctopsyche",
-        "Arctopsyche grandis"
-      ],
-      "taxonomy_from_araneae": [],
-      "taxonomy_full": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Trichoptera",
-        "Annulipalpia",
-        "Hydropsychoidea",
-        "Hydropsychidae",
-        "Arctopsychinae",
-        "Arctopsyche"
-      ],
-      "suborder": "Annulipalpia",
-      "superfamily": "Hydropsychoidea",
-      "family": "Hydropsychidae",
-      "partial_full": "full",
-      "type": "light chain",
-      "length": 258,
-      "serine_count": 34,
-      "serine_fraction": 13.178294573643413,
-      "motif_runs": {
-        "3": 1,
-        "2": 1
-      },
-      "x_residue_counts": {
-        "3": {
-          "F": 1,
-          "S": 1,
-          "K": 1
-        },
-        "2": {
-          "R": 1,
-          "K": 1
-        }
-      },
-      "total_runs": 2,
-      "total_motif_residues": 10,
-      "fraction_motif_residues": 3.875968992248062
     },
     {
       "accession": "WGM83072",
@@ -2748,25 +2693,83 @@
       "total_runs": 134,
       "total_motif_residues": 970,
       "fraction_motif_residues": 17.032484635645304
+    },
+    {
+      "accession": "XP_077296102",
+      "title": "fibroin light chain-like [Arctopsyche grandis]",
+      "organism": "Arctopsyche grandis",
+      "taxonomy_from_order": [
+        "Trichoptera",
+        "Annulipalpia",
+        "Hydropsychoidea",
+        "Hydropsychidae",
+        "Arctopsychinae",
+        "Arctopsyche",
+        "Arctopsyche grandis"
+      ],
+      "taxonomy_from_araneae": [],
+      "taxonomy_full": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Trichoptera",
+        "Annulipalpia",
+        "Hydropsychoidea",
+        "Hydropsychidae",
+        "Arctopsychinae",
+        "Arctopsyche"
+      ],
+      "suborder": "Annulipalpia",
+      "superfamily": "Hydropsychoidea",
+      "family": "Hydropsychidae",
+      "partial_full": "full",
+      "type": "light chain",
+      "length": 258,
+      "serine_count": 34,
+      "serine_fraction": 13.178294573643413,
+      "motif_runs": {
+        "3": 1,
+        "2": 1
+      },
+      "x_residue_counts": {
+        "3": {
+          "F": 1,
+          "S": 1,
+          "K": 1
+        },
+        "2": {
+          "R": 1,
+          "K": 1
+        }
+      },
+      "total_runs": 2,
+      "total_motif_residues": 10,
+      "fraction_motif_residues": 3.875968992248062
     }
   ],
   "type_counts": {
-    "light chain": 10,
-    "heavy chain": 28
+    "heavy chain": 28,
+    "light chain": 10
   },
   "type_partial_full_counts": {
-    "light chain": {
-      "full": 10
-    },
     "heavy chain": {
       "partial": 13,
       "full": 15
+    },
+    "light chain": {
+      "full": 10
     }
   },
   "species_partial_full_counts": {
     "Rhyacophila obliterata": {
-      "full": 2,
-      "partial": 4
+      "partial": 4,
+      "full": 2
     },
     "Himalopsyche tibetana": {
       "full": 1
@@ -2774,20 +2777,20 @@
     "Atopsyche davidsoni": {
       "full": 2
     },
-    "Limnephilus decipiens": {
-      "partial": 1,
+    "Limnephilus rhombicus": {
       "full": 1
     },
     "Limnephilus marmoratus": {
       "full": 1
     },
-    "Limnephilus flavicornis": {
-      "full": 2
-    },
     "Limnephilus lunatus": {
       "full": 3
     },
-    "Limnephilus rhombicus": {
+    "Limnephilus flavicornis": {
+      "full": 2
+    },
+    "Limnephilus decipiens": {
+      "partial": 1,
       "full": 1
     },
     "Hesperophylax magnus": {
@@ -2797,8 +2800,8 @@
       "full": 1
     },
     "Plectrocnemia conspersa": {
-      "full": 1,
-      "partial": 2
+      "partial": 2,
+      "full": 1
     },
     "Stenopsyche marmorata": {
       "full": 1
@@ -2883,7 +2886,7 @@
         "heavy chain"
       ]
     },
-    "Limnephilus decipiens": {
+    "Limnephilus rhombicus": {
       "taxonomy": [
         "Eukaryota",
         "Metazoa",
@@ -2904,8 +2907,7 @@
         "Limnephilus"
       ],
       "types": [
-        "heavy chain",
-        "light chain"
+        "heavy chain"
       ]
     },
     "Limnephilus marmoratus": {
@@ -2930,31 +2932,6 @@
       ],
       "types": [
         "heavy chain"
-      ]
-    },
-    "Limnephilus flavicornis": {
-      "taxonomy": [
-        "Eukaryota",
-        "Metazoa",
-        "Ecdysozoa",
-        "Arthropoda",
-        "Hexapoda",
-        "Insecta",
-        "Pterygota",
-        "Neoptera",
-        "Endopterygota",
-        "Trichoptera",
-        "Integripalpia",
-        "Plenitentoria",
-        "Limnephiloidea",
-        "Limnephilidae",
-        "Limnephilinae",
-        "Limnephilini",
-        "Limnephilus"
-      ],
-      "types": [
-        "heavy chain",
-        "light chain"
       ]
     },
     "Limnephilus lunatus": {
@@ -2982,7 +2959,7 @@
         "light chain"
       ]
     },
-    "Limnephilus rhombicus": {
+    "Limnephilus flavicornis": {
       "taxonomy": [
         "Eukaryota",
         "Metazoa",
@@ -3003,7 +2980,33 @@
         "Limnephilus"
       ],
       "types": [
-        "heavy chain"
+        "heavy chain",
+        "light chain"
+      ]
+    },
+    "Limnephilus decipiens": {
+      "taxonomy": [
+        "Eukaryota",
+        "Metazoa",
+        "Ecdysozoa",
+        "Arthropoda",
+        "Hexapoda",
+        "Insecta",
+        "Pterygota",
+        "Neoptera",
+        "Endopterygota",
+        "Trichoptera",
+        "Integripalpia",
+        "Plenitentoria",
+        "Limnephiloidea",
+        "Limnephilidae",
+        "Limnephilinae",
+        "Limnephilini",
+        "Limnephilus"
+      ],
+      "types": [
+        "heavy chain",
+        "light chain"
       ]
     },
     "Hesperophylax magnus": {
