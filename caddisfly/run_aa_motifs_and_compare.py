@@ -99,37 +99,37 @@ ANALYSES = [
 
     {
         "label": "Integripalpia",
-        "outputs_root": Path(r"D:\python\Lab\caddisfly\ncbi_fibroin_sequences"),
+        "outputs_root": Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences"),
         "taxonomy_terms": ["Integripalpia"],
     },
     {
         "label": "Annulipalpia",
-        "outputs_root": Path(r"D:\python\Lab\caddisfly\ncbi_fibroin_sequences"),
+        "outputs_root": Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences"),
         "taxonomy_terms": ["Annulipalpia"],
     },
     {
         "label": "Bombyx",
-        "outputs_root": Path(r"D:\python\LHuge_data_for_bioinformatic_project\moths_and_butterflies\ncbi_fibroin_sequences"),
+        "outputs_root": Path(r"D:\python\bioinformatic_silk\moths_and_butterflies\ncbi_fibroin_sequences"),
         "taxonomy_terms": ["Bombyx"],
     },
     {
         "label": "saturniidae",
-        "outputs_root": Path(r"D:\python\LHuge_data_for_bioinformatic_project\moths_and_butterflies\ncbi_fibroin_sequences"),
+        "outputs_root": Path(r"D:\python\bioinformatic_silk\moths_and_butterflies\ncbi_fibroin_sequences"),
         "taxonomy_terms": ["saturniidae"],
     },
     {
         "label": "Nymphulinae",
-        "outputs_root": Path(r"D:\python\LHuge_data_for_bioinformatic_project\moths_and_butterflies\ncbi_fibroin_sequences"),
+        "outputs_root": Path(r"D:\python\bioinformatic_silk\moths_and_butterflies\ncbi_fibroin_sequences"),
         "taxonomy_terms": ["Nymphulinae"],
     },
     {
         "label": "Eumeta japonica",
-        "outputs_root": Path(r"D:\python\LHuge_data_for_bioinformatic_project\moths_and_butterflies\ncbi_fibroin_sequences"),
+        "outputs_root": Path(r"D:\python\bioinformatic_silk\moths_and_butterflies\ncbi_fibroin_sequences"),
         "taxonomy_terms": ["Eumeta japonica"],
     },
     {
         "label": "Chironomoidea",
-        "outputs_root": Path(r"D:\python\Lab\Diptera\ncbi_fibroin_sequences"),
+        "outputs_root": Path(r"D:\python\bioinformatic_silk\Diptera\ncbi_fibroin_sequences"),
         "taxonomy_terms": ["Chironomoidea"],
         "length_threshold": None,
     },
@@ -140,8 +140,8 @@ ANALYSES = [
 
 
 
-COMPARE_OUT_DIR = Path(r"D:\python\Lab\caddisfly\ncbi_fibroin_sequences\data_analysis\aa_motifs_comparison")
-COMPARE_PLOTS_DIR = Path(r"D:\python\Lab\caddisfly\ncbi_fibroin_sequences\plots\aa_motifs_comparison")
+COMPARE_OUT_DIR = Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\data_analysis\aa_motifs_comparison")
+COMPARE_PLOTS_DIR = Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\plots\aa_motifs_comparison")
 # ---- End analysis targets ----
 
 # ---- Filters (edit after targets) ----

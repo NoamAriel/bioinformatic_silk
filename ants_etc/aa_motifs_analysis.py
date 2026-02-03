@@ -55,7 +55,7 @@ skip_combined_motifs = True  # drop motifs that are repeats or concatenations
 include_reflected_sequence = True
 include_similar_motifs = True
 include_taxonomy_shared_motifs = True
-phylo_tree_path = Path("D:/python/Lab/ants_bees_and_wasps/ncbi_fibroin_sequences/phylo_tree.json")
+phylo_tree_path = Path("D:/python/bioinformatic_silk/ants_etc/ncbi_fibroin_sequences/phylo_tree.json")
 
 longest_scope = "species"  # "species" or "global"
 

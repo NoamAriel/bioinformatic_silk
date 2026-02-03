@@ -32,10 +32,10 @@ tic = time.perf_counter()
 # - data_root: where the ncbi_fibroin_sequences live
 # - plots_root: where plots should be written (defaults to <data_root>/plots)
 # - tables_root: where tables should be written (defaults to <data_root>/tables)
-data_root: Path | None = None # Path(r"D:\python\LHuge_data_for_bioinformatic_project\moths_and_butterflies\ncbi_fibroin_sequences")
-plots_root: Path | None = None # Path(r"D:\python\Lab\moths_and_butterflies\ncbi_fibroin_sequences\plots")
-phylo_tree_json = Path(r"D:\python\Lab\caddisfly\ncbi_fibroin_sequences\phylo_tree.json")
-tables_root: Path | None = None # Path(r"D:\python\Lab\caddisfly\ncbi_fibroin_sequences\tables")
+data_root: Path | None = None # Path(r"D:\python\bioinformatic_silk\caddosfly\ncbi_fibroin_sequences")
+plots_root: Path | None = None # Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\plots")
+phylo_tree_json = Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\phylo_tree.json")
+tables_root: Path | None = None # Path(r"D:\python\bioinformatic_silk\caddisfly\ncbi_fibroin_sequences\tables")
 
 
 # Root directory containing the sequences to analyze.

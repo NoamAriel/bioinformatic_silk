@@ -20,8 +20,8 @@ tic = time.perf_counter()
 # - output_path: directory or full path for the index output
 # - output_filename: used when output_path is a directory
 
-data_root: Path | None = Path(r"D:\python\LHuge_data_for_bioinformatic_project\moths_and_butterflies\ncbi_fibroin_sequences\lepidoptera")
-output_path: Path | None = Path(r"D:\python\Lab\moths_and_butterflies")
+data_root: Path | None = Path(r"D:\python\bioinformatic_silk\moths_and_butterflies\ncbi_fibroin_sequences\lepidoptera")
+output_path: Path | None = Path(r"D:\python\bioinformatic_silk\moths_and_butterflies")
 output_filename = "Species_Index.md"
 
 resolved_root = data_root if data_root and data_root.is_absolute() else (BASE / (data_root or "ncbi_fibroin_sequences"))

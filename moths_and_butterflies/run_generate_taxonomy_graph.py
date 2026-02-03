@@ -10,10 +10,10 @@ tic = time.perf_counter()
 # - index_path: Species_Index.md for protein marks
 # - out_path: output path without extension
 # - data_root: where ncbi_fibroin_sequences live (for filters)
-tree_path= Path(r"D:\python\Lab\moths_and_butterflies\ncbi_fibroin_sequences\phylo_tree.json")
-index_path= Path(r"D:\python\Lab\moths_and_butterflies\Species_Index.md")
-out_path= Path(r"D:\python\Lab\moths_and_butterflies\taxonomy_tree")
-data_root= Path(r"D:\python\LHuge_data_for_bioinformatic_project\moths_and_butterflies\ncbi_fibroin_sequences")
+tree_path= Path(r"D:\python\bioinformatic_silk\moths_and_butterflies\ncbi_fibroin_sequences\phylo_tree.json")
+index_path= Path(r"D:\python\bioinformatic_silk\moths_and_butterflies\Species_Index.md")
+out_path= Path(r"D:\python\bioinformatic_silk\moths_and_butterflies\taxonomy_tree")
+data_root= Path(r"D:\python\bioinformatic_silk\moths_and_butterflies\ncbi_fibroin_sequences")
 output_format: str = "png"  # "png", "svg", or "pdf"
 
 # Optional filters (match aa_composition_analysis style)

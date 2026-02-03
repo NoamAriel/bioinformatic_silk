@@ -26,9 +26,9 @@ from libraries.amino_acid_group_motifs import (
 from libraries.aminoacids_composition_analysis_lib import filter_records, load_records_from_root
 
 # Optional overrides (absolute or relative to this file).
-data_root: Path | None = Path(r"D:/python/LHuge_data_for_bioinformatic_project/spiders/ncbi_fibroin_sequences")
+data_root: Path | None = Path(r"D:/python/bioinformatic_silk/spiders/ncbi_fibroin_sequences")
 # Optional overrides for where outputs should be written.
-outputs_root: Path | None = Path(r"D:\python\Lab\spiders\ncbi_fibroin_sequences")
+outputs_root: Path | None = Path(r"D:\python\bioinformatic_silk\spiders\ncbi_fibroin_sequences")
 
 # Filters (match aa_composition_analysis.py behavior).
 taxonomy_terms = ["diptera"]  # or [] / None
@@ -55,7 +55,7 @@ skip_combined_motifs = True  # drop motifs that are repeats or concatenations
 include_reflected_sequence = True
 include_similar_motifs = True
 include_taxonomy_shared_motifs = True
-phylo_tree_path = Path("D:/python/Lab/spiders/ncbi_fibroin_sequences/phylo_tree.json")
+phylo_tree_path = Path("D:/python/bioinformatic_silk/spiders/ncbi_fibroin_sequences/phylo_tree.json")
 
 longest_scope = "species"  # "species" or "global"
 
