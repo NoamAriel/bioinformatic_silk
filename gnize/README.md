@@ -15,34 +15,34 @@ Those similarities are suspected to be related to their ability to produce adhes
 Ultimately, this could help establish connections between sequences, amino acid composition, and the functional properties of the adhesive silk.
 
 
-## Requriements
+# Curernt code
+
+## Order of operating
 
 pls make sure you install the dependencies: ["requests","beautifulsoup4", "pandas", "numpy", "matplotlib"]
 
 pls make sure you download the libraries folder
 
-pls make sure you download the caddisfly, ants and moths folders.
+pls make sure you download the caddisfly, ants, moths and spiders folders.
 
-**Using the GUI App**
+pls make sure that each folder has the files: 
 
-Quick start:
+1.	ncbi_scrapper.py, 
 
-1. Ensure you have Python 3 with Tkinter available.
-2. Install Python packages: `requests`, `beautifulsoup4`, `pandas`, `numpy`, `matplotlib`.
-3. From the termianl, run:
+2.	run_generate_species_index.py, 
 
-uv run ./gui_bioinformatic_silk.py
+3.	run_generate_taxonomy_graph.py 
 
-In case you didn't download caddissfly, ants, Diptera and moths folders, first action you should take in the application is dowloand your data set of interest. 
+4.	sxn_analysis_and_plotting.py.
 
-To do so, go to the NCBI scrapper tab and start from there.
+This is also the operating order. 
 
-![alt text](images_for_readme\ncbi_scrapper.png)
+pls notice that you update the path addresses correctly in each file.
 
 
 ## Code explanation 
 
-The datasets of fibroin proteins are downloaded by the ncbi_scrapper file from the NCBI database for each order. 
+The datasets of fibroin and spidroin proteins are downloaded by the ncbi_scrapper file from the NCBI database for each order. 
 
 The files were characterized based on the protein type (such as heavy chain), and whether the file was reported as "partial" or not.
 
@@ -56,14 +56,6 @@ The aa_composition_analysis file generates plots of the interesting amino acid c
 
 The sxn_analysis_and_plotting file generates plots of [SX]n motifs' percentages in the sequences, as well as X-residue compositions and tables containing the data.
 
-The aa_motifs_analysis file analyze the sequences of interest by charactization of amino acids, represent the sequences by the charactization and finds motifs in the 
-
-represented sequences.
-
-The compare_aa_group_motifs compare between represented sequences. 
-
-The run_aa_motifs_and_compare is combination of aa_motifs_analysis and compare_aa_group_motifs
-
 The codes utilize a fixed color map for each amino acid, ensuring that the X-residue composition graph and future plots use the same color for each amino acid. That will help with an easier understanding of the different plots.
 
 For convenient, the ncbi_scrapper, run_generate_species_index, run_generate_taxonomy_graph, aa_composition_analysis and sxn_analysis_and_plotting using libraries.
@@ -74,8 +66,30 @@ There is a filtering system for the file run_generate_taxonomy_graph (phylogenet
 
 The filters are used to provide better control over presenting the data, resulting in more coherent, convenient, and understandable graphs. The specific filters are dependent on the graphs, since not all of them are relevant for all plots. 
 
+## The filters
+taxonomy_terms		 # filtering by the taxonomy name (trichoptera, for example). could be used by any taxonomy rank.  Default is [] / None
 
-תוסיף דוגמאות של פלוטים
+protein_types			# filtering by the type of protein (heavy chain, for example), default is [] / None. 
+
+partial_full 			# filtering by sequence, if it is reported as partial or full. 
+
+length_range 			# filtering by range sequence that interests, e.g., (100, 2450). Default is None.
+
+length_threshold 		# filtering by threshold sequence that interests, e.g., 1500. default is None.
+
+length_mode 			# determining if the threshold is “ge”: greater equal or “le”: less equal. The default is "ge". 
+
+longest_factor = 2.0                  # optional default is 2.0, which means the shortest sequence can be at least half as long as the longest one.
+
+longest_factor_scope  	# determining if the above length filters correspond to each species by itself, or all length sequences, or are relevant, even though they are from different species. In short, "species" (per organism) or "global" (all records). The default is "species".
+
+## Special filters
+
+In file” sxn_analysis_and_plotting”, in 273- 274 rows, there is an option to choose the range of n (min_n is the minimum motif length and max_n = 50 is the maximum motif length). There is not default. The user has to specify it.
+
+In the file “run_generate_taxonomy_graph”, there is an option to choose the first and the last rank that the phylogenetic tree will present. Rank type (like superfamily) or ranks name (like Hydropsychoidea) are valid. The default is None.
+
+
 
 
 

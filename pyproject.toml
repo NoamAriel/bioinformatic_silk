@@ -1,0 +1,13 @@
+[project]
+name = "bioinformatic-silk"
+version = "0.1.0"
+description = "Bioinformatic analyses of aquatic and terrestrial silk proteins (caddisfly and controls)."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "beautifulsoup4",
+  "matplotlib",
+  "numpy",
+  "pandas",
+  "requests",
+]
