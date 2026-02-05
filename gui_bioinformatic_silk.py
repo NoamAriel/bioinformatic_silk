@@ -11,6 +11,9 @@ from tkinter import ttk, filedialog, messagebox
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent
+# If the GUI is placed inside a "libraries" folder, use its parent as the project root.
+if PROJECT_ROOT.name.lower() == "libraries":
+    PROJECT_ROOT = PROJECT_ROOT.parent
 
 HELP_TEXTS: dict[str, str] = {
     "Order name": "Taxonomic order to search in NCBI (e.g., Trichoptera).",
