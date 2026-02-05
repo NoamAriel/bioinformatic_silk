@@ -95,6 +95,10 @@ The filters are used to provide better control over presenting the data, resulti
 
 ### motif comparison
 
-![alt text](images_for_readme/all_motifs_comparison.png)
+#### minimun 3% comparison
+![alt text](images_for_readme/all_motifs_comparison_min3.png)
+
+#### minimun 4% comparison
+![alt text](images_for_readme/all_motifs_comparison_min4.png)
 
 

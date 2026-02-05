@@ -1,0 +1,373 @@
+{
+  "motifs": [
+    "\u03b8\u03b8\u03b8\u03c0\u03b8",
+    "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0",
+    "\u03b8\u03b8\u03c0\u03b8\u03b8",
+    "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8",
+    "\u03b8\u03b8\u03c0\u03b8\u03c0",
+    "\u03b8\u03c0\u03b8\u03b8\u03c0",
+    "\u03b8\u03c0\u03b8\u03c0\u03b8",
+    "\u03c0\u03b8\u03b8\u03c0\u03b8",
+    "\u03c0\u03b8\u03c0\u03b8\u03c0"
+  ],
+  "entries": [
+    {
+      "label": "Integripalpia",
+      "source": "D:\\python\\bioinformatic_silk\\caddisfly\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\Integripalpia\\all_partial_full\\heavy_chain\\all_lengths\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 6.210829022661787,
+          "num_records": 10,
+          "num_records_with_motif": 10
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 7.067325028620436,
+          "num_records": 10,
+          "num_records_with_motif": 10
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 17.019702216927556,
+          "num_records": 10,
+          "num_records_with_motif": 10
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 11.404039193066373,
+          "num_records": 10,
+          "num_records_with_motif": 10
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 8.222581582850768,
+          "num_records": 10,
+          "num_records_with_motif": 10
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 15.1049584675483,
+          "num_records": 10,
+          "num_records_with_motif": 10
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 10.667714605830989,
+          "num_records": 10,
+          "num_records_with_motif": 10
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 16.037709867710525,
+          "num_records": 10,
+          "num_records_with_motif": 10
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 10.665997167873403,
+          "num_records": 10,
+          "num_records_with_motif": 10
+        }
+      }
+    },
+    {
+      "label": "Annulipalpia",
+      "source": "D:\\python\\bioinformatic_silk\\caddisfly\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\Annulipalpia\\all_partial_full\\heavy_chain\\all_lengths\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 4.117092896500762,
+          "num_records": 10,
+          "num_records_with_motif": 10
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 10,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 10,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 10,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 5.988510721151737,
+          "num_records": 10,
+          "num_records_with_motif": 10
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 10,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 10,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 10,
+          "num_records_with_motif": 0
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 24.6711295322455,
+          "num_records": 10,
+          "num_records_with_motif": 10
+        }
+      }
+    },
+    {
+      "label": "Bombyx",
+      "source": "D:\\python\\bioinformatic_silk\\moths_and_butterflies\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\Bombyx\\all_partial_full\\heavy_chain\\all_lengths\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 16.620037277314385,
+          "num_records": 74,
+          "num_records_with_motif": 36
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 17.73363840335502,
+          "num_records": 74,
+          "num_records_with_motif": 35
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 2.9442417452617002,
+          "num_records": 74,
+          "num_records_with_motif": 38
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.5722444096667714,
+          "num_records": 74,
+          "num_records_with_motif": 30
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 21.596589214812578,
+          "num_records": 74,
+          "num_records_with_motif": 50
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 0.9610188833247748,
+          "num_records": 74,
+          "num_records_with_motif": 32
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 38.45119212217586,
+          "num_records": 74,
+          "num_records_with_motif": 50
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 2.1450965330541307,
+          "num_records": 74,
+          "num_records_with_motif": 33
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 12.350132776643635,
+          "num_records": 74,
+          "num_records_with_motif": 37
+        }
+      }
+    },
+    {
+      "label": "saturniidae",
+      "source": "D:\\python\\bioinformatic_silk\\moths_and_butterflies\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\saturniidae\\all_partial_full\\heavy_chain\\all_lengths\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 5.706740452437232,
+          "num_records": 3,
+          "num_records_with_motif": 3
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.7326007326007327,
+          "num_records": 3,
+          "num_records_with_motif": 1
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 7.2258248838257755,
+          "num_records": 3,
+          "num_records_with_motif": 3
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 4.144347740263423,
+          "num_records": 3,
+          "num_records_with_motif": 3
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.6698337065015599,
+          "num_records": 3,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 4.733834851785904,
+          "num_records": 3,
+          "num_records_with_motif": 3
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 1.222418951383797,
+          "num_records": 3,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 3.019581481903394,
+          "num_records": 3,
+          "num_records_with_motif": 3
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 1.1630858553828478,
+          "num_records": 3,
+          "num_records_with_motif": 2
+        }
+      }
+    },
+    {
+      "label": "Nymphulinae",
+      "source": "D:\\python\\bioinformatic_silk\\moths_and_butterflies\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\Nymphulinae\\all_partial_full\\heavy_chain\\all_lengths\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 1.7672825783534876,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 4.353979965775265,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 8,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 3.7820828155057935,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 12.296976711888323,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 13.772634217380146,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 6.243967501350853,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 12.222606050862176,
+          "num_records": 8,
+          "num_records_with_motif": 8
+        }
+      }
+    },
+    {
+      "label": "Eumeta japonica",
+      "source": "D:\\python\\bioinformatic_silk\\moths_and_butterflies\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\Eumeta_japonica\\all_partial_full\\heavy_chain\\all_lengths\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.7356062024445196,
+          "num_records": 71,
+          "num_records_with_motif": 36
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 0.2655004611004576,
+          "num_records": 71,
+          "num_records_with_motif": 15
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 1.0738148399736265,
+          "num_records": 71,
+          "num_records_with_motif": 39
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.42755275897232975,
+          "num_records": 71,
+          "num_records_with_motif": 11
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 1.409572755229224,
+          "num_records": 71,
+          "num_records_with_motif": 49
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 1.6699597075957917,
+          "num_records": 71,
+          "num_records_with_motif": 45
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 1.5809395344156536,
+          "num_records": 71,
+          "num_records_with_motif": 52
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 1.5362552987102047,
+          "num_records": 71,
+          "num_records_with_motif": 49
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 2.1423978915956248,
+          "num_records": 71,
+          "num_records_with_motif": 59
+        }
+      }
+    },
+    {
+      "label": "Chironomoidea",
+      "source": "D:\\python\\bioinformatic_silk\\Diptera\\ncbi_fibroin_sequences\\data_analysis\\aa_motifs\\Chironomoidea\\all_partial_full\\heavy_chain\\all_lengths\\5_to_50\\aa_group_motifs_analysis.json",
+      "motifs": {
+        "\u03b8\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 9.866577406899987,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 2.3679785776559967,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8": {
+          "avg_relative_percent": 7.89326192551999,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 0.0,
+          "num_records": 2,
+          "num_records_with_motif": 0
+        },
+        "\u03b8\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 5.919946444139993,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03b8\u03c0": {
+          "avg_relative_percent": 1.9733154813799976,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03b8\u03c0\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 1.9733154813799976,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03b8\u03c0\u03b8": {
+          "avg_relative_percent": 1.9733154813799976,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        },
+        "\u03c0\u03b8\u03c0\u03b8\u03c0": {
+          "avg_relative_percent": 2.9385664466309627,
+          "num_records": 2,
+          "num_records_with_motif": 2
+        }
+      }
+    }
+  ],
+  "skip_missing": false
+}
