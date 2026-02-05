@@ -77,24 +77,24 @@ The filters are used to provide better control over presenting the data, resulti
 ## Output images
 
 ### Trichoptera taxonomy tree
-![alt text](images_for_readme\Trichoptera_taxonomy_tree.png)
+![alt text](images_for_readme/Trichoptera_taxonomy_tree.png)
 
 ### Bombycoidea amino acids composition
 
-![alt text](images_for_readme\Bombycoidea_amino_acids_composition.png)
+![alt text](images_for_readme/Bombycoidea_amino_acids_composition.png)
 
 ### Trichoptera SXn (n=3,4...50) analysis
 
 
-![alt text](images_for_readme\sxn_motifs_heavy_chain_n3-50_full.png)
+![alt text](images_for_readme/sxn_motifs_heavy_chain_n3-50_full.png)
 
 
 ### Trichoptera X -composition of SXn (n=3,4...50)
 
-![alt text](images_for_readme\x_composition_heavy_chain_n3-50_full.png)
+![alt text](images_for_readme/x_composition_heavy_chain_n3-50_full.png)
 
 ### motif comparison
 
-![alt text](images_for_readme\all_motifs_comparison.png)
+![alt text](images_for_readme/all_motifs_comparison.png)
 
 
