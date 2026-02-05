@@ -37,7 +37,7 @@ In case you didn't download caddissfly, ants, Diptera and moths folders, first a
 
 To do so, go to the NCBI scrapper tab and start from there.
 
-![alt text](images_for_readme\ncbi_scrapper.png)
+![alt text](images_for_readme/ncbi_scrapper.png)
 
 
 ## Code explanation 
