@@ -1,0 +1,13 @@
+| organism | type | fraction_mean | fraction_sd | length_mean | length_sd |
+| --- | --- | --- | --- | --- | --- |
+| Arctopsyche grandis | heavy chain | 11.699 | 0.007 | 6034.500 | 480.126 |
+| Atopsyche davidsoni | heavy chain | 8.232 | 0.009 | 7435.000 | 626.497 |
+| Cheumatopsyche charites | heavy chain | 17.516 | 0.000 | 6223.000 | 0.000 |
+| Glyphotaelius pellucidus | heavy chain | 23.678 | 0.000 | 7864.000 | 0.000 |
+| Hesperophylax magnus | heavy chain | 22.529 | 0.047 | 7676.000 | 1340.674 |
+| Himalopsyche tibetana | heavy chain | 22.181 | 0.000 | 6411.000 | 0.000 |
+| Leptonema lineaticorne | heavy chain | 16.694 | 0.000 | 6817.000 | 0.000 |
+| Limnephilus flavicornis | heavy chain | 19.815 | 0.000 | 1403.000 | 0.000 |
+| Limnephilus lunatus | heavy chain | 26.137 | 0.000 | 9848.000 | 0.000 |
+| Limnephilus marmoratus | heavy chain | 25.006 | 0.000 | 8774.000 | 0.000 |
+| Limnephilus rhombicus | heavy chain | 23.419 | 0.000 | 9027.000 | 0.000 |

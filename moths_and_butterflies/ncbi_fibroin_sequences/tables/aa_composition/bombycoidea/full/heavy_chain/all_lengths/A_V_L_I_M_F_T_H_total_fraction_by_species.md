@@ -1,0 +1,6 @@
+| organism | total_fraction_mean | total_fraction_sd | length_mean | length_sd |
+| --- | --- | --- | --- | --- |
+| Antheraea assamensis | 45.390 | 0.000 | 2809.000 | 0.000 |
+| Bombyx mandarina | 37.920 | 7.688 | 4506.600 | 2722.798 |
+| Bombyx mori | 35.979 | 3.347 | 3958.704 | 1976.383 |
+| Manduca sexta | 12.173 | 6.590 | 2641.906 | 459.644 |

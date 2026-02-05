@@ -6,7 +6,7 @@ Averages treat missing motifs as 0%.
 
 | Group | Description |
 | --- | --- |
-| H | Hydrophobic |
+| π | Hydrophobic |
 | α | aromatic |
 | θ | polar |
 | q | charged |
@@ -18,8 +18,43 @@ Averages treat missing motifs as 0%.
 | π | A, V, L, I, M, P |
 | α | F, W, Y |
 | θ | C, N, Q, G, S, T |
-| ψ | D, E |
-| φ | K, R, H |
+| q | D, E, K, R, H |
+
+## Motif: qqqππ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 3.5648 | 2 | 2 |
+| saturniidae | 3.0260 | 1 | 1 |
+
+## Motif: qθπαθπθ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 3.0674 | 2 | 2 |
+| Nymphulinae | 3.1344 | 8 | 8 |
+
+## Motif: qθπθθ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Integripalpia | 11.0966 | 6 | 6 |
+| Nymphulinae | 5.8052 | 8 | 8 |
+
+## Motif: qθπθπ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Integripalpia | 3.4129 | 6 | 6 |
+| Annulipalpia | 13.8138 | 2 | 2 |
+| Nymphulinae | 6.8989 | 8 | 8 |
+
+## Motif: qθπθπθ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 7.3059 | 2 | 2 |
+| Nymphulinae | 4.0929 | 8 | 8 |
 
 ## Motif: αθπθθ
 
@@ -55,6 +90,20 @@ Averages treat missing motifs as 0%.
 | --- | --- | --- | --- |
 | Annulipalpia | 5.1717 | 2 | 2 |
 | Bombyx | 13.7541 | 32 | 27 |
+
+## Motif: θqθπθθπθ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Integripalpia | 12.6101 | 6 | 6 |
+| Chironomoidea | 3.1573 | 2 | 2 |
+
+## Motif: θθθθq
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Integripalpia | 4.3270 | 6 | 6 |
+| Chironomoidea | 3.9466 | 2 | 2 |
 
 ## Motif: θθθπθ
 
@@ -99,7 +148,7 @@ Averages treat missing motifs as 0%.
 | Integripalpia | 11.9066 | 6 | 6 |
 | saturniidae | 5.2332 | 1 | 1 |
 
-## Motif: θθπθθπθψθ
+## Motif: θθπθθπθqθ
 
 | Taxonomy | Avg Relative (%) | Records | Records with motif |
 | --- | --- | --- | --- |
@@ -139,6 +188,48 @@ Averages treat missing motifs as 0%.
 | Annulipalpia | 3.2041 | 2 | 2 |
 | Bombyx | 5.3720 | 32 | 27 |
 
+## Motif: θπqθπ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 13.4028 | 2 | 2 |
+| Nymphulinae | 12.5955 | 8 | 8 |
+
+## Motif: θπqθπα
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 4.7709 | 2 | 2 |
+| Nymphulinae | 4.8906 | 8 | 8 |
+
+## Motif: θπqθπαθ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 3.3001 | 2 | 2 |
+| Nymphulinae | 5.7057 | 8 | 8 |
+
+## Motif: θπqθπαθπ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 3.5056 | 2 | 2 |
+| Nymphulinae | 6.5208 | 8 | 8 |
+
+## Motif: θπqθπαθπθ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 3.9438 | 2 | 2 |
+| Nymphulinae | 3.9248 | 8 | 8 |
+
+## Motif: θπqθπθ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 10.7667 | 2 | 2 |
+| Nymphulinae | 6.0702 | 8 | 8 |
+
 ## Motif: θπαθπ
 
 | Taxonomy | Avg Relative (%) | Records | Records with motif |
@@ -153,6 +244,13 @@ Averages treat missing motifs as 0%.
 | Annulipalpia | 3.2387 | 2 | 2 |
 | Nymphulinae | 8.9361 | 8 | 8 |
 
+## Motif: θπθθq
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Integripalpia | 5.5220 | 6 | 6 |
+| Nymphulinae | 7.9495 | 8 | 8 |
+
 ## Motif: θπθθπ
 
 | Taxonomy | Avg Relative (%) | Records | Records with motif |
@@ -162,7 +260,7 @@ Averages treat missing motifs as 0%.
 | saturniidae | 3.9160 | 1 | 1 |
 | Nymphulinae | 12.2970 | 8 | 8 |
 
-## Motif: θπθθπθψθθ
+## Motif: θπθθπθqθθ
 
 | Taxonomy | Avg Relative (%) | Records | Records with motif |
 | --- | --- | --- | --- |
@@ -183,13 +281,6 @@ Averages treat missing motifs as 0%.
 | Annulipalpia | 3.0125 | 2 | 2 |
 | Nymphulinae | 5.0661 | 8 | 8 |
 
-## Motif: θπθθφ
-
-| Taxonomy | Avg Relative (%) | Records | Records with motif |
-| --- | --- | --- | --- |
-| Integripalpia | 5.4790 | 6 | 6 |
-| Nymphulinae | 7.4784 | 8 | 8 |
-
 ## Motif: θπθπθ
 
 | Taxonomy | Avg Relative (%) | Records | Records with motif |
@@ -205,6 +296,20 @@ Averages treat missing motifs as 0%.
 | --- | --- | --- | --- |
 | Annulipalpia | 4.2778 | 2 | 2 |
 | Bombyx | 16.4543 | 32 | 31 |
+
+## Motif: θπθπθπq
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 4.8809 | 2 | 2 |
+| Bombyx | 3.4216 | 32 | 5 |
+
+## Motif: θπθπθπqθ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 5.5782 | 2 | 2 |
+| Bombyx | 3.7863 | 32 | 5 |
 
 ## Motif: θπθπθπθ
 
@@ -250,26 +355,40 @@ Averages treat missing motifs as 0%.
 | Nymphulinae | 4.1743 | 8 | 8 |
 | Chironomoidea | 3.9466 | 2 | 2 |
 
-## Motif: θπφθπ
+## Motif: πqθπα
 
 | Taxonomy | Avg Relative (%) | Records | Records with motif |
 | --- | --- | --- | --- |
-| Annulipalpia | 9.4271 | 2 | 2 |
-| Nymphulinae | 8.9086 | 8 | 8 |
+| Annulipalpia | 4.3867 | 2 | 2 |
+| Nymphulinae | 4.1154 | 8 | 8 |
 
-## Motif: θπφθπθ
-
-| Taxonomy | Avg Relative (%) | Records | Records with motif |
-| --- | --- | --- | --- |
-| Annulipalpia | 10.7667 | 2 | 2 |
-| Nymphulinae | 6.0491 | 8 | 8 |
-
-## Motif: θφθπθθπθ
+## Motif: πqθπαθ
 
 | Taxonomy | Avg Relative (%) | Records | Records with motif |
 | --- | --- | --- | --- |
-| Integripalpia | 12.5985 | 6 | 6 |
-| Chironomoidea | 3.1573 | 2 | 2 |
+| Annulipalpia | 3.2747 | 2 | 2 |
+| Nymphulinae | 4.9385 | 8 | 8 |
+
+## Motif: πqθπαθπ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 3.0674 | 2 | 2 |
+| Nymphulinae | 5.7615 | 8 | 8 |
+
+## Motif: πqθπαθπθ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 3.5056 | 2 | 2 |
+| Nymphulinae | 3.5043 | 8 | 8 |
+
+## Motif: πqθπθ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 9.7157 | 2 | 2 |
+| Nymphulinae | 5.8390 | 8 | 8 |
 
 ## Motif: πθθπθ
 
@@ -319,12 +438,19 @@ Averages treat missing motifs as 0%.
 | Bombyx | 27.3103 | 32 | 32 |
 | Nymphulinae | 12.2226 | 8 | 8 |
 
-## Motif: πθπθπφθ
+## Motif: πθπθπq
 
 | Taxonomy | Avg Relative (%) | Records | Records with motif |
 | --- | --- | --- | --- |
-| Annulipalpia | 3.8271 | 2 | 2 |
-| Bombyx | 3.3881 | 32 | 5 |
+| Annulipalpia | 5.2225 | 2 | 2 |
+| Bombyx | 3.2188 | 32 | 5 |
+
+## Motif: πθπθπqθ
+
+| Taxonomy | Avg Relative (%) | Records | Records with motif |
+| --- | --- | --- | --- |
+| Annulipalpia | 6.0930 | 2 | 2 |
+| Bombyx | 3.4799 | 32 | 5 |
 
 ## Motif: ππθθπ
 
@@ -356,31 +482,3 @@ Averages treat missing motifs as 0%.
 | --- | --- | --- | --- |
 | Integripalpia | 4.7727 | 6 | 6 |
 | Nymphulinae | 5.8823 | 8 | 8 |
-
-## Motif: πφθπθ
-
-| Taxonomy | Avg Relative (%) | Records | Records with motif |
-| --- | --- | --- | --- |
-| Annulipalpia | 9.0554 | 2 | 2 |
-| Nymphulinae | 5.0622 | 8 | 8 |
-
-## Motif: φθπθθ
-
-| Taxonomy | Avg Relative (%) | Records | Records with motif |
-| --- | --- | --- | --- |
-| Integripalpia | 8.8441 | 6 | 6 |
-| Nymphulinae | 5.7699 | 8 | 8 |
-
-## Motif: φθπθπ
-
-| Taxonomy | Avg Relative (%) | Records | Records with motif |
-| --- | --- | --- | --- |
-| Annulipalpia | 13.1535 | 2 | 2 |
-| Nymphulinae | 3.8360 | 8 | 8 |
-
-## Motif: φθπθπθ
-
-| Taxonomy | Avg Relative (%) | Records | Records with motif |
-| --- | --- | --- | --- |
-| Annulipalpia | 7.3059 | 2 | 2 |
-| Nymphulinae | 4.0929 | 8 | 8 |

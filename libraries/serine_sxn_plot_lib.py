@@ -793,10 +793,11 @@ def plot_motif_counts_and_fraction(
         width = 0.8 / max(1, len(n_values))
 
         fig, (ax_count, ax_frac) = plt.subplots(2, 1, figsize=(max(10, len(organisms) * 0.4), 10), sharex=True)
+        count_bars_by_org: Dict[str, List[Any]] = defaultdict(list)
         for i, n in enumerate(n_values):
             n_rows = [r for r in subset if r["n"] == n]
             xs = [x_map[r["Organism"]] + (i - len(n_values) / 2) * width + width / 2 for r in n_rows]
-            ax_count.bar(
+            count_bars = ax_count.bar(
                 xs,
                 [r["Count"] for r in n_rows],
                 width=width,
@@ -807,7 +808,7 @@ def plot_motif_counts_and_fraction(
                 yerr=[(sd if sd > 0 else float("nan")) for sd in (r.get("Count_sd", 0.0) for r in n_rows)],
                 capsize=2,
             )
-            ax_frac.bar(
+            frac_bars = ax_frac.bar(
                 xs,
                 [r["Percent"] for r in n_rows],
                 width=width,
@@ -818,6 +819,21 @@ def plot_motif_counts_and_fraction(
                 capsize=2,
             )
 
+            # Annotate percent above each fraction bar
+            for bar, row in zip(frac_bars, n_rows):
+                ax_frac.text(
+                    bar.get_x() + bar.get_width() / 2,
+                    bar.get_height() + max(0.5, bar.get_height() * 0.02),
+                    f"{row.get('Percent', 0):.1f}%",
+                    ha="center",
+                    va="bottom",
+                    fontsize=7,
+                    color="gray",
+                )
+
+            for bar, row in zip(count_bars, n_rows):
+                count_bars_by_org[row["Organism"]].append(bar)
+
         ax_count.set_ylabel("[SX]_n count")
         ax_frac.set_ylabel("[SX]_n fraction per motif (%)")
         ax_count.set_title(f"[SX]_n motif counts - {t}")
@@ -826,6 +842,40 @@ def plot_motif_counts_and_fraction(
         ax_frac.set_xticklabels([org.replace("_", " ").title() for org in organisms], fontsize=8, rotation=45, ha="right")
         ax_count.grid(axis="y", linestyle="--", alpha=0.6)
         ax_frac.grid(axis="y", linestyle="--", alpha=0.6)
+
+        # Annotate average length per organism on the count plot
+        # Use raw records (per organism/type) so SD reflects sequence variability, not motif n.
+        length_by_org: Dict[str, float] = defaultdict(float)
+        length_sd_by_org: Dict[str, float] = defaultdict(float)
+        for org in organisms:
+            lengths = [
+                rec.get("length", 0) or 0
+                for rec in records
+                if rec.get("type") == t and rec.get("organism") == org
+            ]
+            lengths = [L for L in lengths if L > 0]
+            if lengths:
+                length_by_org[org] = sum(lengths) / len(lengths)
+                length_sd_by_org[org] = _stdev(lengths)
+        for org, bars in count_bars_by_org.items():
+            if not bars:
+                continue
+            max_height = max(bar.get_height() for bar in bars)
+            mean_len = length_by_org.get(org, 0)
+            sd_len = length_sd_by_org.get(org, 0.0)
+            if sd_len:
+                length_label = f"L={mean_len:.0f}\u00b1{sd_len:.0f}"
+            else:
+                length_label = f"L={mean_len:.0f}"
+            ax_count.text(
+                x_map[org],
+                max_height + max(1.5, max_height * 0.02),
+                length_label,
+                ha="center",
+                va="bottom",
+                fontsize=7,
+                color="gray",
+            )
         handles, labels = ax_count.get_legend_handles_labels()
         _legend_outside_right(fig, handles, "Motif length", len(handles))
         suffix_str = f"_{suffix}" if suffix else ""

@@ -1,0 +1,13 @@
+| organism | total_fraction_mean | total_fraction_sd | length_mean | length_sd |
+| --- | --- | --- | --- | --- |
+| Arctopsyche grandis | 37.266 | 0.141 | 6034.500 | 480.126 |
+| Cheumatopsyche charites | 35.835 | 0.000 | 6223.000 | 0.000 |
+| Leptonema lineaticorne | 34.575 | 0.000 | 6817.000 | 0.000 |
+| Limnephilus lunatus | 42.922 | 0.000 | 9848.000 | 0.000 |
+| Limnephilus rhombicus | 37.665 | 0.000 | 9027.000 | 0.000 |
+| Limnephilus marmoratus | 39.925 | 0.000 | 8774.000 | 0.000 |
+| Limnephilus flavicornis | 36.137 | 0.000 | 1403.000 | 0.000 |
+| Glyphotaelius pellucidus | 41.340 | 0.000 | 7864.000 | 0.000 |
+| Hesperophylax magnus | 36.692 | 0.071 | 7676.000 | 1340.674 |
+| Himalopsyche tibetana | 37.467 | 0.000 | 6411.000 | 0.000 |
+| Atopsyche davidsoni | 28.589 | 0.022 | 7435.000 | 626.497 |

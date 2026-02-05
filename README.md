@@ -66,17 +66,35 @@ The run_aa_motifs_and_compare is combination of aa_motifs_analysis and compare_a
 
 The codes utilize a fixed color map for each amino acid, ensuring that the X-residue composition graph and future plots use the same color for each amino acid. That will help with an easier understanding of the different plots.
 
-For convenient, the ncbi_scrapper, run_generate_species_index, run_generate_taxonomy_graph, aa_composition_analysis and sxn_analysis_and_plotting using libraries.
+For convenient, the ncbi_scrapper, run_generate_species_index, run_generate_taxonomy_graph, aa_composition_analysis, sxn_analysis_and_plotting, aa_motifs_analysis, compare_aa_group_motifs and run_aa_motifs_and_compare using libraries files that found in liberies folder.
 
 A standard deviation has been calculated for cases where proteins of a species have more than one data file, and it is presented as error bars in the plots.
 
-There is a filtering system for the file run_generate_taxonomy_graph (phylogenetic tree generation), sxn_analysis_and_plotting, and aa_composition_analysis.
+There is a filtering system for the file run_generate_taxonomy_graph (phylogenetic tree generation), sxn_analysis_and_plotting, aa_composition_analysis and run_aa_motifs_and_compare.
 
 The filters are used to provide better control over presenting the data, resulting in more coherent, convenient, and understandable graphs. The specific filters are dependent on the graphs, since not all of them are relevant for all plots. 
 
+## Output images
 
-תוסיף דוגמאות של פלוטים
+### Trichoptera taxonomy tree
+![alt text](images_for_readme\Trichoptera_taxonomy_tree.png)
+
+### Bombycoidea amino acids composition
+
+![alt text](images_for_readme\Bombycoidea_amino_acids_composition.png)
+
+### Trichoptera SXn (n=3,4...50) analysis
 
 
+![alt text](images_for_readme\sxn_motifs_heavy_chain_n3-50_full.png)
+
+
+### Trichoptera X -composition of SXn (n=3,4...50)
+
+![alt text](images_for_readme\x_composition_heavy_chain_n3-50_full.png)
+
+### motif comparison
+
+![alt text](images_for_readme\all_motifs_comparison.png)
 
 
